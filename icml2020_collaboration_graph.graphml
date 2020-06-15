@@ -1,0 +1,4050 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d0"/>
+<graph edgedefault="undirected"><node id="University of Pennsylvania"/>
+<node id="Stanford University"/>
+<node id="UC Berkeley"/>
+<node id="Google"/>
+<node id="University of Cambridge"/>
+<node id="University of Minnesota"/>
+<node id="Facebook"/>
+<node id="MIT"/>
+<node id="Harvard University"/>
+<node id="University of Wisconsin–Madison"/>
+<node id="Carnegie Mellon University"/>
+<node id="Georgia Institute of Technology"/>
+<node id="University of California"/>
+<node id="University of California Los Angeles"/>
+<node id="UT Austin"/>
+<node id="Institute for Advanced Study"/>
+<node id="IIT Madras"/>
+<node id="University of Virginia"/>
+<node id="UC Santa Barbara"/>
+<node id="University of Pennsylvania / UC Berkeley"/>
+<node id="LinkedIn Corporation"/>
+<node id="Macedonian Academy of Arts and Sciences"/>
+<node id="Bar Ilan University"/>
+<node id="Princeton University"/>
+<node id="University of Washington"/>
+<node id="Microsoft"/>
+<node id="DeepMind"/>
+<node id="Cornell University"/>
+<node id="Duke University"/>
+<node id="Seoul National University"/>
+<node id="Tsinghua University"/>
+<node id="Northwestern University"/>
+<node id="Shanghai Jiao Tong University"/>
+<node id="Weizmann Institute of Science"/>
+<node id="University of Toronto"/>
+<node id="Criteo"/>
+<node id="CNRS University of Paris"/>
+<node id="IT University of Copenhagen"/>
+<node id="Rice University"/>
+<node id="VinAI Research"/>
+<node id="Adobe Research"/>
+<node id="Kaiser Permanente Division of Research"/>
+<node id="Johann Wolfgang Goethe-Universität Frankfurt am Main"/>
+<node id="Singapore University of Technology and Design"/>
+<node id="Universität Bremen"/>
+<node id="National Institute of Technology Karnataka"/>
+<node id="Tel Aviv University"/>
+<node id="University of Maryland"/>
+<node id="Intel Labs"/>
+<node id="University of Maryland College Park"/>
+<node id="University of Southern California"/>
+<node id="UC Irvine"/>
+<node id="Oregon State University"/>
+<node id="University of Texas at Austin"/>
+<node id="Israel Institute of Technology"/>
+<node id="University of British Columbia"/>
+<node id="University of Michigan"/>
+<node id="Purdue University"/>
+<node id="Toyota Technological Institute at Chicago"/>
+<node id="University of Illinois at Chicago"/>
+<node id="ETH Zürich"/>
+<node id="Columbia University"/>
+<node id="University of Oxford"/>
+<node id="Peking University"/>
+<node id="Amazon"/>
+<node id="KAIST"/>
+<node id="Technical University of Denmark"/>
+<node id="Montreal Institute of Learning Algorithms"/>
+<node id="Johns Hopkins University"/>
+<node id="New York University"/>
+<node id="RealAI"/>
+<node id="Brown University"/>
+<node id="OpenAI"/>
+<node id="COVARIANT.AI"/>
+<node id="UCB"/>
+<node id="Tencent"/>
+<node id="Max Planck Institute for Intelligent Systems"/>
+<node id="Imperial College London"/>
+<node id="University of Amsterdam"/>
+<node id="University of Warsaw"/>
+<node id="University of Salzburg"/>
+<node id="University of Ottawa"/>
+<node id="Beijing University of Posts and Telecommunications"/>
+<node id="Sorbonne University"/>
+<node id="Rutgers University"/>
+<node id="University of Waterloo"/>
+<node id="University of Sydney"/>
+<node id="INRIA"/>
+<node id="University of Illinois"/>
+<node id="University of Edinburgh"/>
+<node id="Indian Institute of Science"/>
+<node id="Ecole Polytechnique Fédérale de Lausanne"/>
+<node id="University of Chicago"/>
+<node id="MediaMath"/>
+<node id="Université de Montréal"/>
+<node id="Université́ Paris Saclay"/>
+<node id="NTT Corporation"/>
+<node id="KAUST"/>
+<node id="University of Utah"/>
+<node id="D. E. Shaw"/>
+<node id="University of Alberta"/>
+<node id="Uber AI Labs"/>
+<node id="King Abdullah University of Science and Technology"/>
+<node id="Vector Institute"/>
+<node id="AI Residency)"/>
+<node id="Galixir"/>
+<node id="University College London"/>
+<node id="Gatsby Computational Neuroscience Unit"/>
+<node id="Aalto University"/>
+<node id="Technische Universität Darmstadt"/>
+<node id="Graz University of Technology"/>
+<node id="Invenia Labs"/>
+<node id="British Antarctic Survey"/>
+<node id="Beijing Institute of Technology"/>
+<node id="University of Lausanne"/>
+<node id="Layer 6 AI"/>
+<node id="IBM"/>
+<node id="Huawei"/>
+<node id="McGill University"/>
+<node id="huya dopamine team"/>
+<node id="Guangzhou Huya Information Technologies Co., Limited"/>
+<node id="Auburn University"/>
+<node id="University of Heidelberg"/>
+<node id="Zhejiang University"/>
+<node id="Apple"/>
+<node id="Quantum Black"/>
+<node id="Salesforce Research"/>
+<node id="University of New South Wales"/>
+<node id="UC San Diego"/>
+<node id="City University of Hong Kong"/>
+<node id="The Ohio State University"/>
+<node id="University of California Davis"/>
+<node id="Allen Institute for Artificial Intelligence"/>
+<node id="IIIT Delhi"/>
+<node id="Idiap Research Institute"/>
+<node id="University of Vienna"/>
+<node id="AI2"/>
+<node id="Nankai University"/>
+<node id="California Institute of Technology"/>
+<node id="University of Science and Technology of China"/>
+<node id="State University of New York at Buffalo"/>
+<node id="Washington University in St. Louis"/>
+<node id="University of Copenhagen"/>
+<node id="Ben-Gurion University of the Negev"/>
+<node id="Samsung Research"/>
+<node id="University at Buffalo"/>
+<node id="INRS"/>
+<node id="Quebec) Canada"/>
+<node id="Sun Yat-sen University"/>
+<node id="Harbin Institute of Technology"/>
+<node id="IIT Bombay"/>
+<node id="Sony"/>
+<node id="University of Calabria"/>
+<node id="reciTAL"/>
+<node id="Institut d'Études Politiques de Paris"/>
+<node id="FSU"/>
+<node id="Otto-von-Guericke-Universität Magdeburg"/>
+<node id="INRIA Lille"/>
+<node id="University of Genoa"/>
+<node id="Stony Brook University"/>
+<node id="Bain and Company"/>
+<node id="Queens College"/>
+<node id="Tianjin University"/>
+<node id="SAP"/>
+<node id="National University of Singapore"/>
+<node id="KTH Royal Institute of Technology"/>
+<node id="University of Nebraska–Lincoln"/>
+<node id="Borealis AI"/>
+<node id="Burapha University"/>
+<node id="UIC)"/>
+<node id="Northeastern University"/>
+<node id="Walmart Labs"/>
+<node id="University of Manchester"/>
+<node id="National Tsing Hua University"/>
+<node id="Aalborg University"/>
+<node id="Nanyang Technological University"/>
+<node id="Yale University"/>
+<node id="InfiniaML, Inc."/>
+<node id="UMass Amherst"/>
+<node id="University of Massachusetts Amherst"/>
+<node id="1998"/>
+<node id="University of North Carolina at Chapel Hill"/>
+<node id="Rensselaer Polytechnic Institute"/>
+<node id="Indian Institute of Technology"/>
+<node id="University of Technology Sydney"/>
+<node id="Maastricht University"/>
+<node id="Moscow Institute of Physics and Technology"/>
+<node id="Osaro"/>
+<node id="RIKEN Center for Advanced Intelligence Project"/>
+<node id="University of Queensland"/>
+<node id="University of Tokyo"/>
+<node id="4Paradigm"/>
+<node id="Southeast University"/>
+<node id="Korea University"/>
+<node id="Naver Corp"/>
+<node id="Technical University of Munich"/>
+<node id="IIT Delhi"/>
+<node id="LG"/>
+<node id="SenseTime Research"/>
+<node id="Indiana University Bloomington"/>
+<node id="East China Normal University"/>
+<node id="Army Academy of Artillery and Air Defense"/>
+<node id="University of Melbourne"/>
+<node id="Hong Kong University of Science and Technology"/>
+<node id="Alibaba"/>
+<node id="CASIA"/>
+<node id="Chinese Academy of Sciences"/>
+<node id="Nanjing University"/>
+<node id="Barcelona Supercomputing Center"/>
+<node id="Polytechnic University of Catalonia"/>
+<node id="JD AI Research"/>
+<node id="University of Pittsburgh"/>
+<node id="Texas A&amp;M University"/>
+<node id="Green Valley Pharmaceutical LLC"/>
+<node id="University of Iowa"/>
+<node id="U.S.) Inc."/>
+<node id="Lancaster University"/>
+<node id="University of Hong Kong"/>
+<node id="Baidu"/>
+<node id="Renmin University of China"/>
+<node id="Missouri University of Science and Technology"/>
+<node id="Styling AI"/>
+<node id="National Research Council Canada"/>
+<node id="iFLYTEK Research"/>
+<node id="Linköping University"/>
+<node id="BITS Pilani, K K Birla Goa Campus"/>
+<node id="IIT Kanpur"/>
+<node id="Shandong University"/>
+<node id="University of Luxembourg"/>
+<node id="Univ Paris Sud"/>
+<node id="Université de Bourgogne"/>
+<node id="University of Montpellier"/>
+<node id="École Normale Supérieure de Paris"/>
+<node id="INSA"/>
+<node id="UMR 8049), CNRS, ESIEE Paris"/>
+<node id="LISIC, Université du Littoral Côte d'Opale"/>
+<node id="Emory University"/>
+<node id="Temple University"/>
+<node id="Istituto Italiano di Tecnologia"/>
+<node id="University of Milan"/>
+<node id="University of Warwick"/>
+<node id="Australian National University"/>
+<node id="Alan Turing Institute"/>
+<node id="Vrije Universitéit Amsterdam"/>
+<node id="Technische Universität Dresden"/>
+<node id="Osaka University"/>
+<node id="North Carolina State University"/>
+<node id="The Open University of Israel"/>
+<node id="London School of Economics and Political Science"/>
+<node id="NVIDIA Corporation"/>
+<node id="Euclidean Technologies"/>
+<node id="Mohamed bin Zayed University of Artificial Intelligence"/>
+<node id="Inception Institute of Artificial Intelligence Abu Dhabi"/>
+<node id="LLNL"/>
+<node id="CBSR, NLPR, CASIA"/>
+<node id="University of Chinese Academy of Sciences"/>
+<node id="South China University of Technology"/>
+<node id="Ant Financial Services Group"/>
+<node id="University of Texas at Arlington"/>
+<node id="Institute of Science and Technology Austria"/>
+<node id="General Electric"/>
+<node id="TU Wien"/>
+<node id="Chalmers University of Technology"/>
+<node id="Element AI"/>
+<node id="99andBeyond"/>
+<node id="University of Delaware"/>
+<node id="Yahoo"/>
+<node id="Fudan University"/>
+<node id="UC Santa Cruz"/>
+<node id="University of Paris"/>
+<node id="Haverford College"/>
+<node id="Max Planck Institute for Software Systems"/>
+<node id="National Taiwan University"/>
+<node id="Hebrew University of Jerusalem"/>
+<node id="Federal University of Sao Carlos"/>
+<node id="Eötvös Loránd University"/>
+<node id="JPMorgan Chase"/>
+<node id="SU2 Foundation"/>
+<node id="Pontifical Catholic University of Rio de Janeiro"/>
+<node id="University of Bristol"/>
+<node id="University of Bath"/>
+<node id="Spotify Research"/>
+<node id="Siemens Corporation"/>
+<node id="University of Munich"/>
+<node id="Umeå University"/>
+<node id="Sharif University of Technology"/>
+<node id="Télécom ParisTech"/>
+<node id="Jagiellonian University"/>
+<node id="University of Liège"/>
+<node id="University of Lucerne"/>
+<node id="NEC Laboratories Europe"/>
+<node id="University of Tübingen"/>
+<node id="Jean Monnet University"/>
+<node id="MMax Planck Institute for Informatics"/>
+<node id="Robert Bosch GmbH"/>
+<node id="Laboratoire Hubert Curien"/>
+<node id="University of Florida"/>
+<node id="New Jersey Institute of Technology"/>
+<node id="Kent State University[10]"/>
+<node id="University of Oregon"/>
+<node id="Yonsei University"/>
+<node id="AITRICS"/>
+<node id="PROWLER.io"/>
+<node id="Ulsan National Institute of Science and Technology"/>
+<node id="Korea Advanced Institute of Science and Technology"/>
+<node id="The Chinese University of Hong Kong"/>
+<node id="Simon Fraser University"/>
+<node id="Chinese University of Hong Kong"/>
+<node id="Hong Kong Baptist University"/>
+<node id="National Institute of Informatics"/>
+<node id="DaLian University of Technology"/>
+<node id="Southern University of Science and Technology"/>
+<node id="Santa Clara University"/>
+<node id="Zuse Institute Berlin"/>
+<node id="Deep Collective"/>
+<node id="University of Macau"/>
+<node id="University of the Witwatersrand"/>
+<node id="University of Johannesburg"/>
+<node id="Saint Petersburg State University"/>
+<node id="University of California Merced"/>
+<node id="UC Davis"/>
+<node id="Tokyo Institute of Technology"/>
+<node id="Cyberagent"/>
+<node id="Chongqing University"/>
+<node id="Arizona State University"/>
+<node id="University of Calgary"/>
+<node id="WuHan University"/>
+<node id="École Polytechnique de Montréal"/>
+<node id="Horizon Robotics"/>
+<node id="University of Pisa"/>
+<node id="University of Bologna"/>
+<node id="Huazhong Agricultural University"/>
+<node id="University of Mons"/>
+<node id="Katholieke Universiteit Leuven"/>
+<node id="Gottfried Wilhelm Leibniz Universität Hannover"/>
+<node id="Free University of Berlin"/>
+<node id="DTU"/>
+<node id="FU Berlin"/>
+<node id="Lehigh University"/>
+<node id="Xiamen University"/>
+<node id="NEC Laboratories America"/>
+<node id="NEC Corporation"/>
+<node id="University of Trento"/>
+<node id="UCAS"/>
+<node id="CentraleSupélec"/>
+<node id="Politecnico di Torino"/>
+<node id="University of Missouri"/>
+<node id="Binghamton University"/>
+<node id="University of Haifa"/>
+<node id="University of Surrey"/>
+<node id="University of Verona"/>
+<node id="Technische Universität Kaiserslautern"/>
+<node id="University at Albany"/>
+<node id="Preferred Networks Inc."/>
+<node id="Dalhousie University"/>
+<node id="Imagia"/>
+<node id="Kyoto University"/>
+<node id="National Chiao Tung University"/>
+<node id="Ohio State University"/>
+<node id="Université́ catholique de Louvain"/>
+<node id="Boston University"/>
+<node id="Health Policy and Management, Yale School of Public Health"/>
+<node id="Autodesk"/>
+<node id="D-Wave"/>
+<node id="Khoury College of Computer Sciences"/>
+<node id="Xjera Labs, Pte.Ltd"/>
+<node id="University of Arizona"/>
+<node id="Bloomberg LP"/>
+<node id="College of William and Mary"/>
+<node id="Xidian University"/>
+<node id="BASIS Independent Silicon Valley"/>
+<node id="Neural Magic"/>
+<node id="NORCE"/>
+<node id="Università della Svizzera italiana"/>
+<node id="University of Manitoba"/>
+<node id="Aix-Marseille University"/>
+<node id="AMU LIS"/>
+<node id="CREATIS"/>
+<node id="ISAE-SUPAERO"/>
+<node id="University of North Carolina at Charlotte"/>
+<node id="IIE, CAS"/>
+<node id="National University of Defense Technology"/>
+<node id="University of Aberdeen"/>
+<node id="University of Sheffield"/>
+<node id="ENS Rennes"/>
+<node id="York University"/>
+<node id="McMaster University"/>
+<node id="Scotiabank"/>
+<node id="Shannon.AI"/>
+<node id="MSRA"/>
+<node id="NetEase"/>
+<node id="RJ Research Consulting"/>
+<node id="University Paris Diderot"/>
+<node id="Paris Dauphine University"/>
+<node id="Indian Institute of Technology Madras"/>
+<node id="1989"/>
+<node id="Skolkovo Institute of Science and Technology"/>
+<node id="National Research University Higher School of Economics"/>
+<node id="Xi'an Jiaotong University"/>
+<node id="Qualcomm"/>
+<node id="Mitsubishi Electric Research Laboratories"/>
+<node id="DLR)"/>
+<node id="German Aerospace Center"/>
+<node id="University of Barcelona"/>
+<node id="Karolinska Institutet"/>
+<node id="Science for Life Laboratory"/>
+<node id="Iowa State University"/>
+<node id="Kingston University"/>
+<node id="Leeds Beckett University"/>
+<node id="Bytedance"/>
+<node id="Taiwan AI Labs"/>
+<node id="University of Wrocław"/>
+<node id="Volkswagen"/>
+<node id="ML Research, VW Group"/>
+<node id="Autonomous Intelligent Driving GmbH"/>
+<node id="Orange Labs"/>
+<node id="Tufts University"/>
+<node id="TU Berlin"/>
+<node id="Technische Universität Berlin (TUB)"/>
+<node id="Nagoya Institute of Technology"/>
+<node id="National Institute for Materials Science"/>
+<node id="Istituto Italiano di Tecnologia - Genova"/>
+<node id="University of Paderborn"/>
+<node id="Paderborn University"/>
+<node id="Lawrence Livermore National Labs"/>
+<node id="Ecole Centrale de Lille"/>
+<node id="Univ Lille"/>
+<node id="Nagoya University Riken AIP"/>
+<node id="Griffith University"/>
+<edge source="University of Pennsylvania" target="Stanford University">
+  <data key="d0">3</data>
+</edge>
+<edge source="University of Pennsylvania" target="UC Berkeley">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Pennsylvania" target="Google">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Pennsylvania" target="University of Cambridge">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="University of Minnesota">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="Facebook">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="MIT">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="Harvard University">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Pennsylvania" target="University of Wisconsin–Madison">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="Carnegie Mellon University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="Georgia Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="University of California">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="University of California Los Angeles">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="UT Austin">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="Institute for Advanced Study">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="IIT Madras">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="University of Virginia">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="UC Santa Barbara">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="University of Pennsylvania / UC Berkeley">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="LinkedIn Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pennsylvania" target="Macedonian Academy of Arts and Sciences">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Bar Ilan University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Stanford University" target="UC Berkeley">
+  <data key="d0">3</data>
+</edge>
+<edge source="Stanford University" target="Google">
+  <data key="d0">7</data>
+</edge>
+<edge source="Stanford University" target="Princeton University">
+  <data key="d0">3</data>
+</edge>
+<edge source="Stanford University" target="University of Washington">
+  <data key="d0">2</data>
+</edge>
+<edge source="Stanford University" target="Microsoft">
+  <data key="d0">4</data>
+</edge>
+<edge source="Stanford University" target="DeepMind">
+  <data key="d0">3</data>
+</edge>
+<edge source="Stanford University" target="Cornell University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Duke University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Seoul National University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Tsinghua University">
+  <data key="d0">3</data>
+</edge>
+<edge source="Stanford University" target="Facebook">
+  <data key="d0">3</data>
+</edge>
+<edge source="Stanford University" target="Northwestern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="MIT">
+  <data key="d0">3</data>
+</edge>
+<edge source="Stanford University" target="Shanghai Jiao Tong University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Harvard University">
+  <data key="d0">6</data>
+</edge>
+<edge source="Stanford University" target="University of Wisconsin–Madison">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Weizmann Institute of Science">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="University of California Los Angeles">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="University of Toronto">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Criteo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="CNRS University of Paris">
+  <data key="d0">2</data>
+</edge>
+<edge source="Stanford University" target="IT University of Copenhagen">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Rice University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="VinAI Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Adobe Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Kaiser Permanente Division of Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Johann Wolfgang Goethe-Universität Frankfurt am Main">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Singapore University of Technology and Design">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="Universität Bremen">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stanford University" target="National Institute of Technology Karnataka">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="University of Southern California">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="ETH Zürich">
+  <data key="d0">2</data>
+</edge>
+<edge source="UC Berkeley" target="Google">
+  <data key="d0">11</data>
+</edge>
+<edge source="UC Berkeley" target="University of Cambridge">
+  <data key="d0">2</data>
+</edge>
+<edge source="UC Berkeley" target="Columbia University">
+  <data key="d0">2</data>
+</edge>
+<edge source="UC Berkeley" target="University of Oxford">
+  <data key="d0">4</data>
+</edge>
+<edge source="UC Berkeley" target="Princeton University">
+  <data key="d0">4</data>
+</edge>
+<edge source="UC Berkeley" target="Microsoft">
+  <data key="d0">3</data>
+</edge>
+<edge source="UC Berkeley" target="DeepMind">
+  <data key="d0">2</data>
+</edge>
+<edge source="UC Berkeley" target="Israel Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="Tsinghua University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="Peking University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="Amazon">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="University of Michigan">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="MIT">
+  <data key="d0">5</data>
+</edge>
+<edge source="UC Berkeley" target="Shanghai Jiao Tong University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="Carnegie Mellon University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="KAIST">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="University of California">
+  <data key="d0">2</data>
+</edge>
+<edge source="UC Berkeley" target="University of California Los Angeles">
+  <data key="d0">2</data>
+</edge>
+<edge source="UC Berkeley" target="Technical University of Denmark">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="University of Toronto">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="Johns Hopkins University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="New York University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="RealAI">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="CNRS University of Paris">
+  <data key="d0">2</data>
+</edge>
+<edge source="UC Berkeley" target="Brown University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="VinAI Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="OpenAI">
+  <data key="d0">2</data>
+</edge>
+<edge source="UC Berkeley" target="COVARIANT.AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="UCB">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Berkeley" target="University of Pennsylvania / UC Berkeley">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="ETH Zürich">
+  <data key="d0">4</data>
+</edge>
+<edge source="Google" target="University of Cambridge">
+  <data key="d0">4</data>
+</edge>
+<edge source="Google" target="Columbia University">
+  <data key="d0">3</data>
+</edge>
+<edge source="Google" target="University of Oxford">
+  <data key="d0">3</data>
+</edge>
+<edge source="Google" target="Princeton University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="University of Washington">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="Microsoft">
+  <data key="d0">3</data>
+</edge>
+<edge source="Google" target="Sorbonne University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="DeepMind">
+  <data key="d0">10</data>
+</edge>
+<edge source="Google" target="Rutgers University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="Cornell University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="University of Waterloo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="Duke University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="Israel Institute of Technology">
+  <data key="d0">5</data>
+</edge>
+<edge source="Google" target="University of Sydney">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="INRIA">
+  <data key="d0">6</data>
+</edge>
+<edge source="Google" target="Facebook">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="University of Illinois">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="University of Edinburgh">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="MIT">
+  <data key="d0">4</data>
+</edge>
+<edge source="Google" target="Harvard University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="University of Wisconsin–Madison">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="Weizmann Institute of Science">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="Carnegie Mellon University">
+  <data key="d0">3</data>
+</edge>
+<edge source="Google" target="Indian Institute of Science">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="Ecole Polytechnique Fédérale de Lausanne">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="University of Chicago">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="KAIST">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="Georgia Institute of Technology">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="MediaMath">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="Université de Montréal">
+  <data key="d0">4</data>
+</edge>
+<edge source="Google" target="UC Irvine">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="Max Planck Institute for Intelligent Systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="University of California Los Angeles">
+  <data key="d0">4</data>
+</edge>
+<edge source="Google" target="Université́ Paris Saclay">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="Tel Aviv University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="Purdue University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="UT Austin">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">4</data>
+</edge>
+<edge source="Google" target="NTT Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="KAUST">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="Imperial College London">
+  <data key="d0">3</data>
+</edge>
+<edge source="Google" target="University of Toronto">
+  <data key="d0">4</data>
+</edge>
+<edge source="Google" target="University of Utah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="D. E. Shaw">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="University of Texas at Austin">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="New York University">
+  <data key="d0">5</data>
+</edge>
+<edge source="Google" target="University of Alberta">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="Uber AI Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="Toyota Technological Institute at Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="University of Amsterdam">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="IT University of Copenhagen">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="VinAI Research">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="OpenAI">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="King Abdullah University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="Vector Institute">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="University of Warsaw">
+  <data key="d0">2</data>
+</edge>
+<edge source="Google" target="University of Pennsylvania / UC Berkeley">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="Universität Bremen">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="AI Residency)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Google" target="Galixir">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="Columbia University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="University of Oxford">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Cambridge" target="DeepMind">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="INRIA">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="MIT">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="Georgia Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="University College London">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="University of California Los Angeles">
+  <data key="d0">4</data>
+</edge>
+<edge source="University of Cambridge" target="Gatsby Computational Neuroscience Unit">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="Aalto University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="University of Virginia">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="Technische Universität Darmstadt">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="Graz University of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="Invenia Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="British Antarctic Survey">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Cambridge" target="Beijing Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="Princeton University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="Microsoft">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Minnesota" target="Cornell University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="University of Waterloo">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="IBM">
+  <data key="d0">3</data>
+</edge>
+<edge source="University of Minnesota" target="Tsinghua University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="Amazon">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="University of Illinois">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="MIT">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="Harvard University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="Carnegie Mellon University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="Institute for Advanced Study">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="Northeastern University">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Minnesota" target="The Ohio State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="Walmart Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Minnesota" target="University of Manchester">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Bar Ilan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="University of Maryland">
+  <data key="d0">2</data>
+</edge>
+<edge source="Facebook" target="University of Oxford">
+  <data key="d0">2</data>
+</edge>
+<edge source="Facebook" target="University of Washington">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="DeepMind">
+  <data key="d0">3</data>
+</edge>
+<edge source="Facebook" target="Cornell University">
+  <data key="d0">3</data>
+</edge>
+<edge source="Facebook" target="Israel Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Indian Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="INRIA">
+  <data key="d0">2</data>
+</edge>
+<edge source="Facebook" target="MIT">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="McGill University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="University of Wisconsin–Madison">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Carnegie Mellon University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="University College London">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Tel Aviv University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Yale University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Texas A&amp;M University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="New York University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Facebook" target="UC San Diego">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="UMR 8049), CNRS, ESIEE Paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="LISIC, Université du Littoral Côte d'Opale">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Criteo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Uber AI Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="VinAI Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Emory University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Temple University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="Istituto Italiano di Tecnologia">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="IIT Bombay">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="University of Genoa">
+  <data key="d0">1</data>
+</edge>
+<edge source="Facebook" target="University of Milan">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Intel Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="University of Southern California">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="ETH Zürich">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Columbia University">
+  <data key="d0">2</data>
+</edge>
+<edge source="MIT" target="University of Oxford">
+  <data key="d0">2</data>
+</edge>
+<edge source="MIT" target="Princeton University">
+  <data key="d0">3</data>
+</edge>
+<edge source="MIT" target="Microsoft">
+  <data key="d0">2</data>
+</edge>
+<edge source="MIT" target="DeepMind">
+  <data key="d0">2</data>
+</edge>
+<edge source="MIT" target="UMass Amherst">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="IBM">
+  <data key="d0">7</data>
+</edge>
+<edge source="MIT" target="Tsinghua University">
+  <data key="d0">2</data>
+</edge>
+<edge source="MIT" target="National University of Singapore">
+  <data key="d0">3</data>
+</edge>
+<edge source="MIT" target="Amazon">
+  <data key="d0">2</data>
+</edge>
+<edge source="MIT" target="University of Michigan">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="University of Illinois">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Harvard University">
+  <data key="d0">6</data>
+</edge>
+<edge source="MIT" target="Carnegie Mellon University">
+  <data key="d0">2</data>
+</edge>
+<edge source="MIT" target="Université de Montréal">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="University of California Los Angeles">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="University of Massachusetts Amherst">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="UT Austin">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Texas A&amp;M University">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="State University of New York at Buffalo">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="University of Toronto">
+  <data key="d0">2</data>
+</edge>
+<edge source="MIT" target="Northeastern University">
+  <data key="d0">2</data>
+</edge>
+<edge source="MIT" target="University of Texas at Austin">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="New York University">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Institute of Science and Technology Austria">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="1998">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Toyota Technological Institute at Chicago">
+  <data key="d0">2</data>
+</edge>
+<edge source="MIT" target="Zhejiang University">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Brown University">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Rensselaer Polytechnic Institute">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="General Electric">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="TU Wien">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="University of Illinois at Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="IIT Bombay">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="University of Genoa">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Chalmers University of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Element AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="LinkedIn Corporation">
+  <data key="d0">2</data>
+</edge>
+<edge source="MIT" target="99andBeyond">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="University of Delaware">
+  <data key="d0">1</data>
+</edge>
+<edge source="MIT" target="Yahoo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="Intel Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="Princeton University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="Microsoft">
+  <data key="d0">2</data>
+</edge>
+<edge source="Harvard University" target="Rutgers University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Harvard University" target="Cornell University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Harvard University" target="IBM">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="University of Illinois">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="Ant Financial Services Group">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="Carnegie Mellon University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Harvard University" target="Georgia Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="Université́ Paris Saclay">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="East China Normal University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="Institute for Advanced Study">
+  <data key="d0">2</data>
+</edge>
+<edge source="Harvard University" target="CNRS University of Paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="Brown University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="University of Virginia">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="Kaiser Permanente Division of Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="University of Paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="Haverford College">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="University of Nebraska–Lincoln">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University" target="Macedonian Academy of Arts and Sciences">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Wisconsin–Madison" target="University of Washington">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Wisconsin–Madison" target="Microsoft">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Wisconsin–Madison" target="Duke University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Wisconsin–Madison" target="KAIST">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Wisconsin–Madison" target="Aalborg University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Wisconsin–Madison" target="MediaMath">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Wisconsin–Madison" target="Max Planck Institute for Intelligent Systems">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Wisconsin–Madison" target="Max Planck Institute for Software Systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Wisconsin–Madison" target="Toyota Technological Institute at Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Wisconsin–Madison" target="National Taiwan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="University of Maryland">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="ETH Zürich">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Columbia University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="University of Oxford">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Princeton University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="University of Washington">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Microsoft">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="DeepMind">
+  <data key="d0">3</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Duke University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Carnegie Mellon University" target="IBM">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="IIIT Delhi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="University of Sydney">
+  <data key="d0">2</data>
+</edge>
+<edge source="Carnegie Mellon University" target="University of Michigan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Northwestern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="University of Illinois">
+  <data key="d0">2</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Ecole Polytechnique Fédérale de Lausanne">
+  <data key="d0">2</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Baidu">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Nanyang Technological University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Euclidean Technologies">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="University of Pittsburgh">
+  <data key="d0">2</data>
+</edge>
+<edge source="Carnegie Mellon University" target="University of California Los Angeles">
+  <data key="d0">2</data>
+</edge>
+<edge source="Carnegie Mellon University" target="University of Melbourne">
+  <data key="d0">2</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Hebrew University of Jerusalem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="University of Maryland College Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Federal University of Sao Carlos">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="University of Manchester">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="Eötvös Loránd University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="JPMorgan Chase">
+  <data key="d0">1</data>
+</edge>
+<edge source="Carnegie Mellon University" target="SU2 Foundation">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Microsoft">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="DeepMind">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Duke University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Peking University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Northwestern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="University of Illinois">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Ant Financial Services Group">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Santa Clara University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Baidu">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="California Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Zuse Institute Berlin">
+  <data key="d0">2</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Université de Montréal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Yale University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="University of Science and Technology of China">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="KAUST">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="East China Normal University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="University of Toronto">
+  <data key="d0">2</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="NVIDIA Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Uber AI Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Rice University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="King Abdullah University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="University of Nebraska–Lincoln">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="LinkedIn Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Deep Collective">
+  <data key="d0">1</data>
+</edge>
+<edge source="Georgia Institute of Technology" target="Galixir">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California" target="DeepMind">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California" target="National University of Singapore">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California" target="UC Irvine">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California" target="UT Austin">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California" target="Alibaba">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California" target="UC Santa Barbara">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of California" target="University of Luxembourg">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California" target="University of California Merced">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California" target="UC Davis">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Columbia University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="University of Oxford">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Princeton University">
+  <data key="d0">4</data>
+</edge>
+<edge source="University of California Los Angeles" target="DeepMind">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Duke University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="IBM">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Tsinghua University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Peking University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Amazon">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="University of Michigan">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="McGill University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Nanyang Technological University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Purdue University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="UT Austin">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="University of New South Wales">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="University of Toronto">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Johns Hopkins University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="New York University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="University of Alberta">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Zhejiang University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="City University of Hong Kong">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="NEC Laboratories America">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="NEC Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="The Ohio State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="University of California Davis">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="University of Virginia">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Technische Universität Darmstadt">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="Graz University of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="University of Trento">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of California Los Angeles" target="UCAS">
+  <data key="d0">1</data>
+</edge>
+<edge source="UT Austin" target="University of Southern California">
+  <data key="d0">1</data>
+</edge>
+<edge source="UT Austin" target="Princeton University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UT Austin" target="Israel Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="UT Austin" target="Tsinghua University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UT Austin" target="University of Sydney">
+  <data key="d0">1</data>
+</edge>
+<edge source="UT Austin" target="Amazon">
+  <data key="d0">2</data>
+</edge>
+<edge source="UT Austin" target="University of Illinois">
+  <data key="d0">1</data>
+</edge>
+<edge source="UT Austin" target="Shanghai Jiao Tong University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UT Austin" target="University of Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="UT Austin" target="Purdue University">
+  <data key="d0">2</data>
+</edge>
+<edge source="UT Austin" target="University of Texas at Austin">
+  <data key="d0">8</data>
+</edge>
+<edge source="UT Austin" target="Toyota Technological Institute at Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="UT Austin" target="UC Santa Barbara">
+  <data key="d0">1</data>
+</edge>
+<edge source="Institute for Advanced Study" target="Princeton University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Institute for Advanced Study" target="Northeastern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Institute for Advanced Study" target="The Ohio State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="IIT Madras" target="Indian Institute of Technology Madras">
+  <data key="d0">1</data>
+</edge>
+<edge source="IIT Madras" target="1989">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Virginia" target="Northwestern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Santa Barbara" target="University of Maryland">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Santa Barbara" target="Princeton University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Santa Barbara" target="Alibaba">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Santa Barbara" target="University of Maryland College Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Santa Barbara" target="University of Ottawa">
+  <data key="d0">1</data>
+</edge>
+<edge source="LinkedIn Corporation" target="Université de Montréal">
+  <data key="d0">1</data>
+</edge>
+<edge source="LinkedIn Corporation" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">1</data>
+</edge>
+<edge source="LinkedIn Corporation" target="99andBeyond">
+  <data key="d0">1</data>
+</edge>
+<edge source="LinkedIn Corporation" target="University of Delaware">
+  <data key="d0">1</data>
+</edge>
+<edge source="Bar Ilan University" target="Weizmann Institute of Science">
+  <data key="d0">1</data>
+</edge>
+<edge source="Bar Ilan University" target="Tel Aviv University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="University of Southern California">
+  <data key="d0">2</data>
+</edge>
+<edge source="Princeton University" target="University of Washington">
+  <data key="d0">3</data>
+</edge>
+<edge source="Princeton University" target="Microsoft">
+  <data key="d0">2</data>
+</edge>
+<edge source="Princeton University" target="DeepMind">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="Duke University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="IBM">
+  <data key="d0">2</data>
+</edge>
+<edge source="Princeton University" target="Tsinghua University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="Salesforce Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="Peking University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Princeton University" target="INRIA">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="Amazon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="University of Michigan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="Northwestern University">
+  <data key="d0">5</data>
+</edge>
+<edge source="Princeton University" target="University of Illinois">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="University of Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="University of New South Wales">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="University of Texas at Austin">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="New York University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="UC San Diego">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="University of Alberta">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="Zhejiang University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="City University of Hong Kong">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="The Ohio State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="University of California Davis">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="UCB">
+  <data key="d0">1</data>
+</edge>
+<edge source="Princeton University" target="University of Ottawa">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Washington" target="Allen Institute for Artificial Intelligence">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Washington" target="Microsoft">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Washington" target="Israel Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Washington" target="IIIT Delhi">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Washington" target="INRIA">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Washington" target="University of Illinois">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Washington" target="Ecole Polytechnique Fédérale de Lausanne">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Washington" target="OpenAI">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Washington" target="Idiap Research Institute">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Washington" target="University of Vienna">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Washington" target="AI2">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="ETH Zürich">
+  <data key="d0">2</data>
+</edge>
+<edge source="Microsoft" target="Allen Institute for Artificial Intelligence">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Rutgers University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Cornell University">
+  <data key="d0">3</data>
+</edge>
+<edge source="Microsoft" target="University of Waterloo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Duke University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Microsoft" target="Israel Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Tsinghua University">
+  <data key="d0">3</data>
+</edge>
+<edge source="Microsoft" target="Peking University">
+  <data key="d0">4</data>
+</edge>
+<edge source="Microsoft" target="INRIA">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Amazon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Northwestern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="University of Illinois">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Nankai University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Indian Institute of Science">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="California Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="UC Irvine">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="University of Science and Technology of China">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="State University of New York at Buffalo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Imperial College London">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="University of Toronto">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="UC San Diego">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Washington University in St. Louis">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="University of Copenhagen">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Toyota Technological Institute at Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Ben-Gurion University of the Negev">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Samsung Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="University of Amsterdam">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="University at Buffalo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="INRS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Quebec) Canada">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Kaiser Permanente Division of Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="University of Warsaw">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Sun Yat-sen University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Harbin Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="IIT Bombay">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="Sony">
+  <data key="d0">1</data>
+</edge>
+<edge source="Microsoft" target="National Institute of Technology Karnataka">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="University of Maryland">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="Columbia University">
+  <data key="d0">2</data>
+</edge>
+<edge source="DeepMind" target="University of Oxford">
+  <data key="d0">3</data>
+</edge>
+<edge source="DeepMind" target="Institut d'Études Politiques de Paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="FSU">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="Rutgers University">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="Duke University">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="Peking University">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="INRIA">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="Amazon">
+  <data key="d0">2</data>
+</edge>
+<edge source="DeepMind" target="University of Michigan">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="University of Edinburgh">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="McGill University">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="Indian Institute of Science">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="KAIST">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="Université de Montréal">
+  <data key="d0">3</data>
+</edge>
+<edge source="DeepMind" target="Max Planck Institute for Intelligent Systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">3</data>
+</edge>
+<edge source="DeepMind" target="Imperial College London">
+  <data key="d0">2</data>
+</edge>
+<edge source="DeepMind" target="University of Toronto">
+  <data key="d0">2</data>
+</edge>
+<edge source="DeepMind" target="New York University">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="University of Alberta">
+  <data key="d0">3</data>
+</edge>
+<edge source="DeepMind" target="Uber AI Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="Brown University">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="Otto-von-Guericke-Universität Magdeburg">
+  <data key="d0">2</data>
+</edge>
+<edge source="DeepMind" target="Adobe Research">
+  <data key="d0">2</data>
+</edge>
+<edge source="DeepMind" target="INRIA Lille">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="IIT Bombay">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="University of Genoa">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="Singapore University of Technology and Design">
+  <data key="d0">1</data>
+</edge>
+<edge source="DeepMind" target="AI Residency)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cornell University" target="University of Maryland">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cornell University" target="University of Waterloo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cornell University" target="National University of Singapore">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cornell University" target="Indian Institute of Science">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cornell University" target="Ecole Polytechnique Fédérale de Lausanne">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cornell University" target="California Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cornell University" target="New York University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cornell University" target="Uber AI Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cornell University" target="KTH Royal Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cornell University" target="University of Nebraska–Lincoln">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="University of Southern California">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="Rutgers University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="University of British Columbia">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="National Tsing Hua University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="Aalborg University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="MediaMath">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="Nanyang Technological University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="Yale University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="State University of New York at Buffalo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="InfiniaML, Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="University at Buffalo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Duke University" target="University of Illinois at Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="Seoul National University" target="LG">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="University of Maryland">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="IBM">
+  <data key="d0">2</data>
+</edge>
+<edge source="Tsinghua University" target="Northwestern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="University of Illinois">
+  <data key="d0">2</data>
+</edge>
+<edge source="Tsinghua University" target="Shanghai Jiao Tong University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="SenseTime Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="RIKEN Center for Advanced Intelligence Project">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="4Paradigm">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="Indiana University Bloomington">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="Université de Montréal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="University of Massachusetts Amherst">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="East China Normal University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="Army Academy of Artillery and Air Defense">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="University of Melbourne">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="Northeastern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="RealAI">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="Hong Kong University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="Alibaba">
+  <data key="d0">2</data>
+</edge>
+<edge source="Tsinghua University" target="Samsung Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tsinghua University" target="Tianjin University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Northwestern University" target="University of Maryland">
+  <data key="d0">1</data>
+</edge>
+<edge source="Northwestern University" target="Peking University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Northwestern University" target="University of Illinois">
+  <data key="d0">1</data>
+</edge>
+<edge source="Northwestern University" target="University of Chicago">
+  <data key="d0">2</data>
+</edge>
+<edge source="Northwestern University" target="Indiana University Bloomington">
+  <data key="d0">1</data>
+</edge>
+<edge source="Northwestern University" target="Toyota Technological Institute at Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="Northwestern University" target="University of Maryland College Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="Huawei">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="Peking University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="University of Michigan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="University of Illinois">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="Baidu">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="University College London">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="California Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="Texas A&amp;M University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="University of Texas at Austin">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="Fudan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="Alibaba">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="Rice University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="Tianjin University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="National Research Council Canada">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shanghai Jiao Tong University" target="UC Santa Cruz">
+  <data key="d0">1</data>
+</edge>
+<edge source="Weizmann Institute of Science" target="University of Maryland">
+  <data key="d0">1</data>
+</edge>
+<edge source="Weizmann Institute of Science" target="Israel Institute of Technology">
+  <data key="d0">2</data>
+</edge>
+<edge source="Weizmann Institute of Science" target="Ecole Polytechnique Fédérale de Lausanne">
+  <data key="d0">1</data>
+</edge>
+<edge source="Weizmann Institute of Science" target="University of Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="Weizmann Institute of Science" target="Yale University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Weizmann Institute of Science" target="Johns Hopkins University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Weizmann Institute of Science" target="Toyota Technological Institute at Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="Weizmann Institute of Science" target="Hebrew University of Jerusalem">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Toronto" target="University of Oxford">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Toronto" target="Israel Institute of Technology">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Toronto" target="Amazon">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Toronto" target="McGill University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Toronto" target="California Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Toronto" target="Université de Montréal">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Toronto" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">3</data>
+</edge>
+<edge source="University of Toronto" target="NVIDIA Corporation">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Toronto" target="Borealis AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Toronto" target="University of Heidelberg">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Toronto" target="Autodesk">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Toronto" target="Rice University">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Toronto" target="Vector Institute">
+  <data key="d0">4</data>
+</edge>
+<edge source="University of Toronto" target="Layer 6 AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Toronto" target="Element AI">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Toronto" target="Universität Bremen">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Toronto" target="AI Residency)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Criteo" target="Télécom ParisTech">
+  <data key="d0">1</data>
+</edge>
+<edge source="Criteo" target="CNRS University of Paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="Criteo" target="Aalto University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Criteo" target="Aix-Marseille University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Criteo" target="AMU LIS">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNRS University of Paris" target="INRIA">
+  <data key="d0">3</data>
+</edge>
+<edge source="CNRS University of Paris" target="Ecole Polytechnique Fédérale de Lausanne">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNRS University of Paris" target="Jean Monnet University">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNRS University of Paris" target="Université́ Paris Saclay">
+  <data key="d0">2</data>
+</edge>
+<edge source="CNRS University of Paris" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNRS University of Paris" target="NTT Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNRS University of Paris" target="Université de Bourgogne">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNRS University of Paris" target="University of Montpellier">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNRS University of Paris" target="Laboratoire Hubert Curien">
+  <data key="d0">2</data>
+</edge>
+<edge source="CNRS University of Paris" target="CREATIS">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNRS University of Paris" target="Politecnico di Torino">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNRS University of Paris" target="University of Paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNRS University of Paris" target="ISAE-SUPAERO">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rice University" target="University of Southern California">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rice University" target="Amazon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rice University" target="California Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rice University" target="Texas A&amp;M University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rice University" target="NVIDIA Corporation">
+  <data key="d0">2</data>
+</edge>
+<edge source="Rice University" target="Northeastern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rice University" target="University of Texas at Austin">
+  <data key="d0">1</data>
+</edge>
+<edge source="Adobe Research" target="UMass Amherst">
+  <data key="d0">1</data>
+</edge>
+<edge source="Adobe Research" target="University of Florida">
+  <data key="d0">1</data>
+</edge>
+<edge source="Adobe Research" target="University of Massachusetts Amherst">
+  <data key="d0">1</data>
+</edge>
+<edge source="Adobe Research" target="University of Alberta">
+  <data key="d0">1</data>
+</edge>
+<edge source="Adobe Research" target="INRIA Lille">
+  <data key="d0">1</data>
+</edge>
+<edge source="Adobe Research" target="New Jersey Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Adobe Research" target="Kent State University[10]">
+  <data key="d0">1</data>
+</edge>
+<edge source="Adobe Research" target="University of Oregon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johann Wolfgang Goethe-Universität Frankfurt am Main" target="ETH Zürich">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universität Bremen" target="Ecole Polytechnique Fédérale de Lausanne">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universität Bremen" target="Max Planck Institute for Intelligent Systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universität Bremen" target="Jagiellonian University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tel Aviv University" target="Sorbonne University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tel Aviv University" target="Israel Institute of Technology">
+  <data key="d0">3</data>
+</edge>
+<edge source="Tel Aviv University" target="KAIST">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tel Aviv University" target="UC San Diego">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tel Aviv University" target="University of Calabria">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Maryland" target="Intel Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Maryland" target="University of Maryland College Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Intel Labs" target="University of Southern California">
+  <data key="d0">1</data>
+</edge>
+<edge source="Intel Labs" target="UC Irvine">
+  <data key="d0">1</data>
+</edge>
+<edge source="Intel Labs" target="Oregon State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Intel Labs" target="University of Texas at Austin">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Southern California" target="Israel Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Southern California" target="University of British Columbia">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Southern California" target="University of Michigan">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Southern California" target="Purdue University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Southern California" target="Toyota Technological Institute at Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Southern California" target="University of Illinois at Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Irvine" target="ETH Zürich">
+  <data key="d0">2</data>
+</edge>
+<edge source="UC Irvine" target="Oregon State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC Irvine" target="Imperial College London">
+  <data key="d0">2</data>
+</edge>
+<edge source="UC Irvine" target="University of Amsterdam">
+  <data key="d0">2</data>
+</edge>
+<edge source="UC Irvine" target="University of Warsaw">
+  <data key="d0">2</data>
+</edge>
+<edge source="Oregon State University" target="Horizon Robotics">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Texas at Austin" target="University of Sydney">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Texas at Austin" target="University of Edinburgh">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Texas at Austin" target="University of Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Texas at Austin" target="Purdue University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Texas at Austin" target="Texas A&amp;M University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Texas at Austin" target="Xidian University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="Columbia University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="University of British Columbia">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="Indian Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="Ecole Polytechnique Fédérale de Lausanne">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="University of Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="University College London">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="University of Technology Sydney">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="Gatsby Computational Neuroscience Unit">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="Toyota Technological Institute at Chicago">
+  <data key="d0">2</data>
+</edge>
+<edge source="Israel Institute of Technology" target="Maastricht University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="Moscow Institute of Physics and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="Vector Institute">
+  <data key="d0">1</data>
+</edge>
+<edge source="Israel Institute of Technology" target="Osaro">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of British Columbia" target="RIKEN Center for Advanced Intelligence Project">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of British Columbia" target="Nanyang Technological University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Michigan" target="IBM">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Michigan" target="Euclidean Technologies">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purdue University" target="Columbia University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purdue University" target="University of Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purdue University" target="University of Missouri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purdue University" target="Binghamton University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toyota Technological Institute at Chicago" target="INRIA">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toyota Technological Institute at Chicago" target="Ecole Polytechnique Fédérale de Lausanne">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toyota Technological Institute at Chicago" target="University of Chicago">
+  <data key="d0">3</data>
+</edge>
+<edge source="Toyota Technological Institute at Chicago" target="University of Illinois at Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Illinois at Chicago" target="University of Waterloo">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Illinois at Chicago" target="Burapha University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Illinois at Chicago" target="UIC)">
+  <data key="d0">1</data>
+</edge>
+<edge source="ETH Zürich" target="Peking University">
+  <data key="d0">1</data>
+</edge>
+<edge source="ETH Zürich" target="Tencent">
+  <data key="d0">1</data>
+</edge>
+<edge source="ETH Zürich" target="Max Planck Institute for Intelligent Systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="ETH Zürich" target="Imperial College London">
+  <data key="d0">2</data>
+</edge>
+<edge source="ETH Zürich" target="University of Amsterdam">
+  <data key="d0">2</data>
+</edge>
+<edge source="ETH Zürich" target="University of Warsaw">
+  <data key="d0">2</data>
+</edge>
+<edge source="ETH Zürich" target="University of Salzburg">
+  <data key="d0">1</data>
+</edge>
+<edge source="ETH Zürich" target="University of Ottawa">
+  <data key="d0">1</data>
+</edge>
+<edge source="ETH Zürich" target="Beijing University of Posts and Telecommunications">
+  <data key="d0">1</data>
+</edge>
+<edge source="Columbia University" target="University of Oxford">
+  <data key="d0">2</data>
+</edge>
+<edge source="Columbia University" target="Amazon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Columbia University" target="New York University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Columbia University" target="University of Lausanne">
+  <data key="d0">1</data>
+</edge>
+<edge source="Columbia University" target="Layer 6 AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="IBM">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="Huawei">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="McGill University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="huya dopamine team">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="Guangzhou Huya Information Technologies Co., Limited">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="Auburn University">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Oxford" target="KAIST">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="New York University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="University of Heidelberg">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="Zhejiang University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="Apple">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Oxford" target="Quantum Black">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Nanjing University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Huawei">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Lancaster University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="University of Sydney">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="University of Edinburgh">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Nankai University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="SenseTime Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Baidu">
+  <data key="d0">2</data>
+</edge>
+<edge source="Peking University" target="Montreal Institute of Learning Algorithms">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Johns Hopkins University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="University of Alberta">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Renmin University of China">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Samsung Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Southeast University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Missouri University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Styling AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="National Research Council Canada">
+  <data key="d0">1</data>
+</edge>
+<edge source="Peking University" target="Beijing University of Posts and Telecommunications">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="Naver Corp">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="National University of Singapore">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="University of Warwick">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="Australian National University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="University of Illinois">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="University of Pittsburgh">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="University of Massachusetts Amherst">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="North Carolina State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="The Open University of Israel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="London School of Economics and Political Science">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="NVIDIA Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="Johns Hopkins University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="Alibaba">
+  <data key="d0">1</data>
+</edge>
+<edge source="Amazon" target="Otto-von-Guericke-Universität Magdeburg">
+  <data key="d0">2</data>
+</edge>
+<edge source="KAIST" target="Yonsei University">
+  <data key="d0">1</data>
+</edge>
+<edge source="KAIST" target="AITRICS">
+  <data key="d0">1</data>
+</edge>
+<edge source="KAIST" target="PROWLER.io">
+  <data key="d0">1</data>
+</edge>
+<edge source="KAIST" target="Samsung Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="KAIST" target="Ulsan National Institute of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="KAIST" target="Korea Advanced Institute of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technical University of Denmark" target="University College London">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technical University of Denmark" target="Max Planck Institute for Intelligent Systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technical University of Denmark" target="Imperial College London">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technical University of Denmark" target="Aalto University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technical University of Denmark" target="DTU">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="McGill University">
+  <data key="d0">2</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="Université de Montréal">
+  <data key="d0">11</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="University of Calgary">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="WuHan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="NTT Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="Preferred Networks Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="Borealis AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="Uber AI Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="University of Heidelberg">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="École Normale Supérieure de Paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="National Research Council Canada">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="Dalhousie University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="Imagia">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="École Polytechnique de Montréal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="99andBeyond">
+  <data key="d0">1</data>
+</edge>
+<edge source="Montreal Institute of Learning Algorithms" target="University of Delaware">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johns Hopkins University" target="UMass Amherst">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johns Hopkins University" target="Baidu">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johns Hopkins University" target="Yale University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johns Hopkins University" target="Missouri University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johns Hopkins University" target="Styling AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johns Hopkins University" target="Bloomberg LP">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johns Hopkins University" target="College of William and Mary">
+  <data key="d0">1</data>
+</edge>
+<edge source="New York University" target="Rutgers University">
+  <data key="d0">1</data>
+</edge>
+<edge source="New York University" target="INRIA">
+  <data key="d0">3</data>
+</edge>
+<edge source="New York University" target="UC San Diego">
+  <data key="d0">1</data>
+</edge>
+<edge source="Brown University" target="McGill University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Brown University" target="University of the Witwatersrand">
+  <data key="d0">1</data>
+</edge>
+<edge source="OpenAI" target="Uber AI Labs">
+  <data key="d0">2</data>
+</edge>
+<edge source="Tencent" target="South China University of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tencent" target="Ant Financial Services Group">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tencent" target="University of Texas at Arlington">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tencent" target="University of Iowa">
+  <data key="d0">1</data>
+</edge>
+<edge source="Max Planck Institute for Intelligent Systems" target="Ecole Polytechnique Fédérale de Lausanne">
+  <data key="d0">1</data>
+</edge>
+<edge source="Max Planck Institute for Intelligent Systems" target="University of Tübingen">
+  <data key="d0">1</data>
+</edge>
+<edge source="Max Planck Institute for Intelligent Systems" target="MMax Planck Institute for Informatics">
+  <data key="d0">2</data>
+</edge>
+<edge source="Max Planck Institute for Intelligent Systems" target="Gottfried Wilhelm Leibniz Universität Hannover">
+  <data key="d0">1</data>
+</edge>
+<edge source="Max Planck Institute for Intelligent Systems" target="Free University of Berlin">
+  <data key="d0">1</data>
+</edge>
+<edge source="Max Planck Institute for Intelligent Systems" target="Max Planck Institute for Software Systems">
+  <data key="d0">1</data>
+</edge>
+<edge source="Max Planck Institute for Intelligent Systems" target="Jagiellonian University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Max Planck Institute for Intelligent Systems" target="DTU">
+  <data key="d0">1</data>
+</edge>
+<edge source="Max Planck Institute for Intelligent Systems" target="FU Berlin">
+  <data key="d0">1</data>
+</edge>
+<edge source="Imperial College London" target="University College London">
+  <data key="d0">2</data>
+</edge>
+<edge source="Imperial College London" target="Samsung Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Imperial College London" target="University of Amsterdam">
+  <data key="d0">2</data>
+</edge>
+<edge source="Imperial College London" target="University of Warsaw">
+  <data key="d0">2</data>
+</edge>
+<edge source="Imperial College London" target="Saint Petersburg State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Amsterdam" target="Nankai University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Amsterdam" target="Shandong University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Amsterdam" target="Samsung Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Amsterdam" target="University of Warsaw">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Amsterdam" target="Qualcomm">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Amsterdam" target="Skolkovo Institute of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Amsterdam" target="Vrije Universitéit Amsterdam">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Salzburg" target="University of Ottawa">
+  <data key="d0">2</data>
+</edge>
+<edge source="Sorbonne University" target="Université́ Paris Saclay">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sorbonne University" target="University of Calabria">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sorbonne University" target="reciTAL">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rutgers University" target="Institut d'Études Politiques de Paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rutgers University" target="FSU">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rutgers University" target="Zhejiang University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rutgers University" target="Stony Brook University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rutgers University" target="Bain and Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rutgers University" target="Queens College">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rutgers University" target="Tianjin University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rutgers University" target="SAP">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Waterloo" target="Huawei">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Waterloo" target="Borealis AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Waterloo" target="Burapha University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Waterloo" target="UIC)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Sydney" target="Huawei">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Sydney" target="Lancaster University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Sydney" target="Baidu">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Sydney" target="University of Technology Sydney">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Sydney" target="University of Pittsburgh">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Sydney" target="University of Science and Technology of China">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Sydney" target="University of New South Wales">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Sydney" target="University of Melbourne">
+  <data key="d0">3</data>
+</edge>
+<edge source="University of Sydney" target="UC San Diego">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Sydney" target="iFLYTEK Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Sydney" target="Linköping University">
+  <data key="d0">1</data>
+</edge>
+<edge source="INRIA" target="National University of Singapore">
+  <data key="d0">1</data>
+</edge>
+<edge source="INRIA" target="NTT Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="INRIA" target="Univ Paris Sud">
+  <data key="d0">1</data>
+</edge>
+<edge source="INRIA" target="Université de Bourgogne">
+  <data key="d0">1</data>
+</edge>
+<edge source="INRIA" target="University of Montpellier">
+  <data key="d0">1</data>
+</edge>
+<edge source="INRIA" target="École Normale Supérieure de Paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="INRIA" target="INSA">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Illinois" target="IBM">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Illinois" target="Huawei">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Illinois" target="Ecole Polytechnique Fédérale de Lausanne">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Illinois" target="University College London">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Illinois" target="Indiana University Bloomington">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Illinois" target="UC San Diego">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Illinois" target="Zhejiang University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Illinois" target="Alibaba">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Illinois" target="LLNL">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Edinburgh" target="Southeast University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Indian Institute of Science" target="National University of Singapore">
+  <data key="d0">1</data>
+</edge>
+<edge source="Indian Institute of Science" target="University of Nebraska–Lincoln">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="Naver Corp">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="Technical University of Munich">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="RIKEN Center for Advanced Intelligence Project">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="University of Chicago">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="Université de Montréal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="Umeå University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="Sharif University of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="KAUST">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="Télécom ParisTech">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="Spotify Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="KTH Royal Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="Idiap Research Institute">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ecole Polytechnique Fédérale de Lausanne" target="Jagiellonian University">
+  <data key="d0">1</data>
+</edge>
+<edge source="MediaMath" target="Aalborg University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université de Montréal" target="Zuse Institute Berlin">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université de Montréal" target="Yale University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université de Montréal" target="University of Calgary">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université de Montréal" target="WuHan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université de Montréal" target="Uber AI Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université de Montréal" target="École Normale Supérieure de Paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université de Montréal" target="École Polytechnique de Montréal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université de Montréal" target="99andBeyond">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université de Montréal" target="University of Delaware">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université́ Paris Saclay" target="CentraleSupélec">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université́ Paris Saclay" target="Télécom ParisTech">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université́ Paris Saclay" target="Politecnico di Torino">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université́ Paris Saclay" target="University of Paris">
+  <data key="d0">1</data>
+</edge>
+<edge source="NTT Corporation" target="Preferred Networks Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="NTT Corporation" target="Kyoto University">
+  <data key="d0">1</data>
+</edge>
+<edge source="NTT Corporation" target="Université de Bourgogne">
+  <data key="d0">1</data>
+</edge>
+<edge source="NTT Corporation" target="University of Montpellier">
+  <data key="d0">1</data>
+</edge>
+<edge source="KAUST" target="Université́ catholique de Louvain">
+  <data key="d0">1</data>
+</edge>
+<edge source="KAUST" target="Moscow Institute of Physics and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="KAUST" target="King Abdullah University of Science and Technology">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Utah" target="Southern University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Utah" target="Xjera Labs, Pte.Ltd">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Utah" target="The Ohio State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Utah" target="Ohio State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Utah" target="University of Arizona">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Utah" target="Haverford College">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Alberta" target="UMass Amherst">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Alberta" target="University of Massachusetts Amherst">
+  <data key="d0">1</data>
+</edge>
+<edge source="Uber AI Labs" target="Temple University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Uber AI Labs" target="Deep Collective">
+  <data key="d0">1</data>
+</edge>
+<edge source="University College London" target="Huawei">
+  <data key="d0">1</data>
+</edge>
+<edge source="University College London" target="University of Technology Sydney">
+  <data key="d0">1</data>
+</edge>
+<edge source="University College London" target="Gatsby Computational Neuroscience Unit">
+  <data key="d0">3</data>
+</edge>
+<edge source="University College London" target="University of the Witwatersrand">
+  <data key="d0">1</data>
+</edge>
+<edge source="University College London" target="University of Johannesburg">
+  <data key="d0">1</data>
+</edge>
+<edge source="University College London" target="Saint Petersburg State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gatsby Computational Neuroscience Unit" target="University of Technology Sydney">
+  <data key="d0">1</data>
+</edge>
+<edge source="Aalto University" target="Invenia Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Aalto University" target="British Antarctic Survey">
+  <data key="d0">1</data>
+</edge>
+<edge source="Aalto University" target="Aix-Marseille University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Aalto University" target="AMU LIS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technische Universität Darmstadt" target="Zuse Institute Berlin">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technische Universität Darmstadt" target="Graz University of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Invenia Labs" target="British Antarctic Survey">
+  <data key="d0">1</data>
+</edge>
+<edge source="IBM" target="National Tsing Hua University">
+  <data key="d0">1</data>
+</edge>
+<edge source="IBM" target="Northeastern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="IBM" target="UC San Diego">
+  <data key="d0">1</data>
+</edge>
+<edge source="IBM" target="1998">
+  <data key="d0">1</data>
+</edge>
+<edge source="IBM" target="University of North Carolina at Chapel Hill">
+  <data key="d0">1</data>
+</edge>
+<edge source="IBM" target="Rensselaer Polytechnic Institute">
+  <data key="d0">1</data>
+</edge>
+<edge source="Huawei" target="Lancaster University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Huawei" target="McGill University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Huawei" target="Auburn University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Huawei" target="University of Hong Kong">
+  <data key="d0">1</data>
+</edge>
+<edge source="huya dopamine team" target="Guangzhou Huya Information Technologies Co., Limited">
+  <data key="d0">1</data>
+</edge>
+<edge source="Zhejiang University" target="University of New South Wales">
+  <data key="d0">1</data>
+</edge>
+<edge source="Zhejiang University" target="Shannon.AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="Zhejiang University" target="Alibaba">
+  <data key="d0">1</data>
+</edge>
+<edge source="Zhejiang University" target="City University of Hong Kong">
+  <data key="d0">1</data>
+</edge>
+<edge source="Zhejiang University" target="Tianjin University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Zhejiang University" target="LLNL">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salesforce Research" target="Nanjing University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salesforce Research" target="California Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salesforce Research" target="Northeastern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salesforce Research" target="Barcelona Supercomputing Center">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salesforce Research" target="Polytechnic University of Catalonia">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of New South Wales" target="University of Technology Sydney">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of New South Wales" target="WuHan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of New South Wales" target="City University of Hong Kong">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of New South Wales" target="Linköping University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UC San Diego" target="University of Melbourne">
+  <data key="d0">1</data>
+</edge>
+<edge source="The Ohio State University" target="Southern University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="The Ohio State University" target="Northeastern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="The Ohio State University" target="Iowa State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="The Ohio State University" target="University of California Davis">
+  <data key="d0">1</data>
+</edge>
+<edge source="The Ohio State University" target="Ohio State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Allen Institute for Artificial Intelligence" target="AI2">
+  <data key="d0">1</data>
+</edge>
+<edge source="IIIT Delhi" target="IIT Delhi">
+  <data key="d0">1</data>
+</edge>
+<edge source="IIIT Delhi" target="Indian Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="IIIT Delhi" target="University of Vienna">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nankai University" target="Shandong University">
+  <data key="d0">1</data>
+</edge>
+<edge source="California Institute of Technology" target="Texas A&amp;M University">
+  <data key="d0">1</data>
+</edge>
+<edge source="California Institute of Technology" target="NVIDIA Corporation">
+  <data key="d0">2</data>
+</edge>
+<edge source="California Institute of Technology" target="Northeastern University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Science and Technology of China" target="Nanjing University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Science and Technology of China" target="Texas A&amp;M University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Science and Technology of China" target="Green Valley Pharmaceutical LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Science and Technology of China" target="University of Surrey">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Science and Technology of China" target="iFLYTEK Research">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Science and Technology of China" target="Sun Yat-sen University">
+  <data key="d0">1</data>
+</edge>
+<edge source="State University of New York at Buffalo" target="University at Buffalo">
+  <data key="d0">2</data>
+</edge>
+<edge source="State University of New York at Buffalo" target="Sony">
+  <data key="d0">1</data>
+</edge>
+<edge source="Washington University in St. Louis" target="Tianjin University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Washington University in St. Louis" target="IIE, CAS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Washington University in St. Louis" target="National University of Defense Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Copenhagen" target="INRIA Lille">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Copenhagen" target="ENS Rennes">
+  <data key="d0">1</data>
+</edge>
+<edge source="Samsung Research" target="Renmin University of China">
+  <data key="d0">1</data>
+</edge>
+<edge source="Samsung Research" target="Skolkovo Institute of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Samsung Research" target="National Research University Higher School of Economics">
+  <data key="d0">1</data>
+</edge>
+<edge source="University at Buffalo" target="Sony">
+  <data key="d0">1</data>
+</edge>
+<edge source="INRS" target="Quebec) Canada">
+  <data key="d0">1</data>
+</edge>
+<edge source="IIT Bombay" target="University of Genoa">
+  <data key="d0">1</data>
+</edge>
+<edge source="Institut d'Études Politiques de Paris" target="FSU">
+  <data key="d0">1</data>
+</edge>
+<edge source="INRIA Lille" target="Orange Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="INRIA Lille" target="ENS Rennes">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stony Brook University" target="Bain and Company">
+  <data key="d0">1</data>
+</edge>
+<edge source="Stony Brook University" target="Queens College">
+  <data key="d0">1</data>
+</edge>
+<edge source="Bain and Company" target="Queens College">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tianjin University" target="Fudan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tianjin University" target="Alibaba">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tianjin University" target="NetEase">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tianjin University" target="IIE, CAS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tianjin University" target="National University of Defense Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="National University of Singapore" target="BITS Pilani, K K Birla Goa Campus">
+  <data key="d0">1</data>
+</edge>
+<edge source="National University of Singapore" target="IIT Kanpur">
+  <data key="d0">1</data>
+</edge>
+<edge source="National University of Singapore" target="Shandong University">
+  <data key="d0">1</data>
+</edge>
+<edge source="National University of Singapore" target="RIKEN Center for Advanced Intelligence Project">
+  <data key="d0">1</data>
+</edge>
+<edge source="National University of Singapore" target="University of Tokyo">
+  <data key="d0">1</data>
+</edge>
+<edge source="National University of Singapore" target="University of Luxembourg">
+  <data key="d0">1</data>
+</edge>
+<edge source="National University of Singapore" target="University of Nebraska–Lincoln">
+  <data key="d0">1</data>
+</edge>
+<edge source="KTH Royal Institute of Technology" target="University of Barcelona">
+  <data key="d0">1</data>
+</edge>
+<edge source="KTH Royal Institute of Technology" target="Karolinska Institutet">
+  <data key="d0">1</data>
+</edge>
+<edge source="KTH Royal Institute of Technology" target="Science for Life Laboratory">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Nebraska–Lincoln" target="Ant Financial Services Group">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Nebraska–Lincoln" target="East China Normal University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Burapha University" target="UIC)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Northeastern University" target="Boston University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Northeastern University" target="Khoury College of Computer Sciences">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nanyang Technological University" target="University of Queensland">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nanyang Technological University" target="RIKEN Center for Advanced Intelligence Project">
+  <data key="d0">3</data>
+</edge>
+<edge source="Nanyang Technological University" target="University of Tokyo">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nanyang Technological University" target="Southeast University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Yale University" target="Texas A&amp;M University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Yale University" target="The Open University of Israel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Yale University" target="University of Haifa">
+  <data key="d0">1</data>
+</edge>
+<edge source="Yale University" target="Emory University">
+  <data key="d0">1</data>
+</edge>
+<edge source="UMass Amherst" target="University of Massachusetts Amherst">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of North Carolina at Chapel Hill" target="North Carolina State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of North Carolina at Chapel Hill" target="University of North Carolina at Charlotte">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rensselaer Polytechnic Institute" target="General Electric">
+  <data key="d0">1</data>
+</edge>
+<edge source="Rensselaer Polytechnic Institute" target="Mitsubishi Electric Research Laboratories">
+  <data key="d0">1</data>
+</edge>
+<edge source="Indian Institute of Technology" target="IIT Delhi">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Technology Sydney" target="University of Queensland">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Technology Sydney" target="RIKEN Center for Advanced Intelligence Project">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Technology Sydney" target="University of Tokyo">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Technology Sydney" target="4Paradigm">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Technology Sydney" target="Linköping University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Maastricht University" target="Moscow Institute of Physics and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="RIKEN Center for Advanced Intelligence Project" target="University of Queensland">
+  <data key="d0">2</data>
+</edge>
+<edge source="RIKEN Center for Advanced Intelligence Project" target="Shandong University">
+  <data key="d0">1</data>
+</edge>
+<edge source="RIKEN Center for Advanced Intelligence Project" target="University of Tokyo">
+  <data key="d0">7</data>
+</edge>
+<edge source="RIKEN Center for Advanced Intelligence Project" target="4Paradigm">
+  <data key="d0">2</data>
+</edge>
+<edge source="RIKEN Center for Advanced Intelligence Project" target="Hong Kong University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="RIKEN Center for Advanced Intelligence Project" target="Southeast University">
+  <data key="d0">1</data>
+</edge>
+<edge source="RIKEN Center for Advanced Intelligence Project" target="National Taiwan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="RIKEN Center for Advanced Intelligence Project" target="NEC Laboratories Europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Queensland" target="University of Tokyo">
+  <data key="d0">2</data>
+</edge>
+<edge source="University of Queensland" target="4Paradigm">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Queensland" target="Southeast University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Tokyo" target="Shandong University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Tokyo" target="4Paradigm">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Tokyo" target="Southeast University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Tokyo" target="National Taiwan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Tokyo" target="NEC Laboratories Europe">
+  <data key="d0">1</data>
+</edge>
+<edge source="4Paradigm" target="Nanjing University">
+  <data key="d0">1</data>
+</edge>
+<edge source="4Paradigm" target="Hong Kong University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Southeast University" target="Xi'an Jiaotong University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Korea University" target="Naver Corp">
+  <data key="d0">1</data>
+</edge>
+<edge source="Naver Corp" target="Technical University of Munich">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technical University of Munich" target="Pontifical Catholic University of Rio de Janeiro">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technical University of Munich" target="University of Bristol">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technical University of Munich" target="University of Bath">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technical University of Munich" target="Spotify Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technical University of Munich" target="Siemens Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technical University of Munich" target="University of Munich">
+  <data key="d0">1</data>
+</edge>
+<edge source="SenseTime Research" target="Nanjing University">
+  <data key="d0">1</data>
+</edge>
+<edge source="East China Normal University" target="Ant Financial Services Group">
+  <data key="d0">1</data>
+</edge>
+<edge source="East China Normal University" target="Army Academy of Artillery and Air Defense">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Melbourne" target="Baidu">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Melbourne" target="University of Pittsburgh">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hong Kong University of Science and Technology" target="Fudan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hong Kong University of Science and Technology" target="MSRA">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hong Kong University of Science and Technology" target="RJ Research Consulting">
+  <data key="d0">1</data>
+</edge>
+<edge source="Alibaba" target="Fudan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Alibaba" target="Renmin University of China">
+  <data key="d0">1</data>
+</edge>
+<edge source="Alibaba" target="LLNL">
+  <data key="d0">1</data>
+</edge>
+<edge source="CASIA" target="Chinese Academy of Sciences">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nanjing University" target="JD AI Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nanjing University" target="University of Pittsburgh">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nanjing University" target="Texas A&amp;M University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nanjing University" target="Green Valley Pharmaceutical LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nanjing University" target="University of Iowa">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nanjing University" target="U.S.) Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="Barcelona Supercomputing Center" target="Polytechnic University of Catalonia">
+  <data key="d0">1</data>
+</edge>
+<edge source="JD AI Research" target="CBSR, NLPR, CASIA">
+  <data key="d0">1</data>
+</edge>
+<edge source="JD AI Research" target="University of Chinese Academy of Sciences">
+  <data key="d0">1</data>
+</edge>
+<edge source="JD AI Research" target="University of Iowa">
+  <data key="d0">1</data>
+</edge>
+<edge source="JD AI Research" target="U.S.) Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pittsburgh" target="Simon Fraser University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pittsburgh" target="Baidu">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pittsburgh" target="Huazhong Agricultural University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Texas A&amp;M University" target="Green Valley Pharmaceutical LLC">
+  <data key="d0">1</data>
+</edge>
+<edge source="Texas A&amp;M University" target="NVIDIA Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="Texas A&amp;M University" target="Fudan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Texas A&amp;M University" target="National Chiao Tung University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Texas A&amp;M University" target="Emory University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Iowa" target="BASIS Independent Silicon Valley">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Iowa" target="U.S.) Inc.">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Hong Kong" target="The Chinese University of Hong Kong">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Hong Kong" target="Simon Fraser University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Hong Kong" target="Chinese University of Hong Kong">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Hong Kong" target="DaLian University of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Hong Kong" target="Southern University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Baidu" target="Missouri University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Baidu" target="Styling AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="Baidu" target="University of Macau">
+  <data key="d0">1</data>
+</edge>
+<edge source="Renmin University of China" target="University of Surrey">
+  <data key="d0">1</data>
+</edge>
+<edge source="Renmin University of China" target="Fudan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Missouri University of Science and Technology" target="Styling AI">
+  <data key="d0">1</data>
+</edge>
+<edge source="iFLYTEK Research" target="University of Surrey">
+  <data key="d0">1</data>
+</edge>
+<edge source="BITS Pilani, K K Birla Goa Campus" target="IIT Kanpur">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université de Bourgogne" target="University of Montpellier">
+  <data key="d0">1</data>
+</edge>
+<edge source="UMR 8049), CNRS, ESIEE Paris" target="LISIC, Université du Littoral Côte d'Opale">
+  <data key="d0">1</data>
+</edge>
+<edge source="Istituto Italiano di Tecnologia" target="Istituto Italiano di Tecnologia - Genova">
+  <data key="d0">1</data>
+</edge>
+<edge source="Istituto Italiano di Tecnologia" target="University of Milan">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Warwick" target="Australian National University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Warwick" target="Alan Turing Institute">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Warwick" target="Vrije Universitéit Amsterdam">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Warwick" target="Technische Universität Dresden">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Warwick" target="Osaka University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Vrije Universitéit Amsterdam" target="Technische Universität Dresden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Vrije Universitéit Amsterdam" target="Osaka University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technische Universität Dresden" target="Osaka University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osaka University" target="Nagoya Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osaka University" target="National Institute for Materials Science">
+  <data key="d0">1</data>
+</edge>
+<edge source="North Carolina State University" target="London School of Economics and Political Science">
+  <data key="d0">1</data>
+</edge>
+<edge source="The Open University of Israel" target="University of Haifa">
+  <data key="d0">1</data>
+</edge>
+<edge source="NVIDIA Corporation" target="D-Wave">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mohamed bin Zayed University of Artificial Intelligence" target="Inception Institute of Artificial Intelligence Abu Dhabi">
+  <data key="d0">1</data>
+</edge>
+<edge source="LLNL" target="Lawrence Livermore National Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="CBSR, NLPR, CASIA" target="University of Chinese Academy of Sciences">
+  <data key="d0">1</data>
+</edge>
+<edge source="South China University of Technology" target="Ant Financial Services Group">
+  <data key="d0">1</data>
+</edge>
+<edge source="South China University of Technology" target="University of Texas at Arlington">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ant Financial Services Group" target="University of Texas at Arlington">
+  <data key="d0">1</data>
+</edge>
+<edge source="Institute of Science and Technology Austria" target="TU Wien">
+  <data key="d0">2</data>
+</edge>
+<edge source="Institute of Science and Technology Austria" target="Neural Magic">
+  <data key="d0">1</data>
+</edge>
+<edge source="99andBeyond" target="University of Delaware">
+  <data key="d0">1</data>
+</edge>
+<edge source="Fudan University" target="MSRA">
+  <data key="d0">1</data>
+</edge>
+<edge source="Fudan University" target="NetEase">
+  <data key="d0">1</data>
+</edge>
+<edge source="Haverford College" target="University of Arizona">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pontifical Catholic University of Rio de Janeiro" target="University of Verona">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Bristol" target="University of Bath">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Bristol" target="Spotify Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Bath" target="Spotify Research">
+  <data key="d0">1</data>
+</edge>
+<edge source="Siemens Corporation" target="University of Munich">
+  <data key="d0">2</data>
+</edge>
+<edge source="Jagiellonian University" target="University of Wrocław">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Liège" target="University of Lucerne">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Tübingen" target="Jean Monnet University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Tübingen" target="MMax Planck Institute for Informatics">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Tübingen" target="Robert Bosch GmbH">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jean Monnet University" target="Laboratoire Hubert Curien">
+  <data key="d0">1</data>
+</edge>
+<edge source="MMax Planck Institute for Informatics" target="Gottfried Wilhelm Leibniz Universität Hannover">
+  <data key="d0">1</data>
+</edge>
+<edge source="Robert Bosch GmbH" target="Health Policy and Management, Yale School of Public Health">
+  <data key="d0">1</data>
+</edge>
+<edge source="Laboratoire Hubert Curien" target="CREATIS">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Florida" target="New Jersey Institute of Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Florida" target="Kent State University[10]">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Florida" target="University of Oregon">
+  <data key="d0">1</data>
+</edge>
+<edge source="New Jersey Institute of Technology" target="Kent State University[10]">
+  <data key="d0">1</data>
+</edge>
+<edge source="New Jersey Institute of Technology" target="University of Oregon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kent State University[10]" target="University of Oregon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Yonsei University" target="AITRICS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ulsan National Institute of Science and Technology" target="Korea Advanced Institute of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="The Chinese University of Hong Kong" target="Simon Fraser University">
+  <data key="d0">1</data>
+</edge>
+<edge source="The Chinese University of Hong Kong" target="Chinese University of Hong Kong">
+  <data key="d0">1</data>
+</edge>
+<edge source="The Chinese University of Hong Kong" target="Hong Kong Baptist University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Simon Fraser University" target="Chinese University of Hong Kong">
+  <data key="d0">1</data>
+</edge>
+<edge source="Simon Fraser University" target="National Institute of Informatics">
+  <data key="d0">1</data>
+</edge>
+<edge source="DaLian University of Technology" target="Southern University of Science and Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="Southern University of Science and Technology" target="Ohio State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of the Witwatersrand" target="University of Johannesburg">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tokyo Institute of Technology" target="Cyberagent">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chongqing University" target="Arizona State University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Calgary" target="WuHan University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Pisa" target="University of Bologna">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Mons" target="Katholieke Universiteit Leuven">
+  <data key="d0">1</data>
+</edge>
+<edge source="Free University of Berlin" target="FU Berlin">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lehigh University" target="Xiamen University">
+  <data key="d0">1</data>
+</edge>
+<edge source="NEC Laboratories America" target="NEC Corporation">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Trento" target="UCAS">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Surrey" target="University of Aberdeen">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Surrey" target="University of Sheffield">
+  <data key="d0">1</data>
+</edge>
+<edge source="Technische Universität Kaiserslautern" target="University at Albany">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalhousie University" target="Imagia">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université́ catholique de Louvain" target="Boston University">
+  <data key="d0">1</data>
+</edge>
+<edge source="NORCE" target="Università della Svizzera italiana">
+  <data key="d0">1</data>
+</edge>
+<edge source="Università della Svizzera italiana" target="University of Manitoba">
+  <data key="d0">1</data>
+</edge>
+<edge source="Aix-Marseille University" target="AMU LIS">
+  <data key="d0">1</data>
+</edge>
+<edge source="IIE, CAS" target="National University of Defense Technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Aberdeen" target="University of Sheffield">
+  <data key="d0">1</data>
+</edge>
+<edge source="York University" target="McMaster University">
+  <data key="d0">1</data>
+</edge>
+<edge source="York University" target="Scotiabank">
+  <data key="d0">1</data>
+</edge>
+<edge source="McMaster University" target="Scotiabank">
+  <data key="d0">1</data>
+</edge>
+<edge source="University Paris Diderot" target="Paris Dauphine University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Indian Institute of Technology Madras" target="1989">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mitsubishi Electric Research Laboratories" target="Tufts University">
+  <data key="d0">1</data>
+</edge>
+<edge source="DLR)" target="German Aerospace Center">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Barcelona" target="Karolinska Institutet">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Barcelona" target="Science for Life Laboratory">
+  <data key="d0">1</data>
+</edge>
+<edge source="Karolinska Institutet" target="Science for Life Laboratory">
+  <data key="d0">1</data>
+</edge>
+<edge source="Kingston University" target="Leeds Beckett University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Bytedance" target="Taiwan AI Labs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volkswagen" target="ML Research, VW Group">
+  <data key="d0">1</data>
+</edge>
+<edge source="Volkswagen" target="Autonomous Intelligent Driving GmbH">
+  <data key="d0">1</data>
+</edge>
+<edge source="ML Research, VW Group" target="Autonomous Intelligent Driving GmbH">
+  <data key="d0">1</data>
+</edge>
+<edge source="TU Berlin" target="Technische Universität Berlin (TUB)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nagoya Institute of Technology" target="National Institute for Materials Science">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nagoya Institute of Technology" target="Nagoya University Riken AIP">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nagoya Institute of Technology" target="Griffith University">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Paderborn" target="Paderborn University">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecole Centrale de Lille" target="Univ Lille">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nagoya University Riken AIP" target="Griffith University">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>
