@@ -1,0 +1,123 @@
+Strongly Incremental Constituency Parsing with Graph Neural Networks
+Adversarial Attack on Graph Neural Networks with Limited Node Access
+On the equivalence of molecular graph convolution and molecular wave function with poor basis set
+Generative 3D Part Assembly via Dynamic Graph Learning
+Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs
+Evolving Graphical Planner: Contextual Global Planning for Vision-and-Language Navigation
+Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver?
+Graph Cross Networks with Vertex Infomax Pooling
+Open Graph Benchmark: Datasets for Machine Learning on Graphs
+Cross-scale Internal Graph Convolution Network for Image Super-Resolution
+Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction
+Graduated Assignment for Joint Multi-Graph Matching and Clustering with Application to Unsupervised Graph Matching Network Learning
+Provable Overlapping Community Detection in Weighted Graphs
+GPS-Net: Graph-based Photometric Stereo Network
+A graph similarity for deep learning
+Path Integral Based Convolution and Pooling for Graph Neural Networks
+Domain Adaptation as a Problem of Inference on Graphical Models
+Stochastic Deep Gaussian Processes over Graphs
+Scalable Graph Neural Networks via Bidirectional Propagation
+GROVER: Self-Supervised Message Passing Transformer on Large-scale Molecular Graphs
+Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion
+Set2Graph: Learning Graphs From Sets
+Multipole Graph Neural Operator for Parametric Partial Differential Equations
+Parameterized Explainer for Graph Neural Network
+Random Walk Graph Neural Networks
+Dirichlet Graph Variational Autoencoder
+Natural Graph Networks
+Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks
+Fast Epigraphical Projection-based Incremental Algorithms for Wasserstein Distributionally Robust Support Vector Machine
+Weisfeiler and Leman go sparse: Towards scalable higher-order graph embeddings
+Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models
+Efficient Algorithms for Device Placement of DNN Graph Operators
+PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks
+Sparse Graphical Memory for Robust Planning
+Implicit Graph Neural Networks
+GNNGuard: Defending Graph Neural Networks against Adversarial Attacks
+Towards Deeper Graph Neural Networks with Differentiable Group Normalization
+COPT: Coordinated Optimal Transport on Graphs
+Less is More: A Deep Graph Metric Learning Perspective Using Few Proxies
+Probabilistic Circuits for Variational Inference in Discrete Graphical Models
+Searching Recurrent Architecture for Path-based Knowledge Graph Embedding
+Universal Function Approximation on Graphs
+CASTLE: Regularization via Auxiliary Causal Graph Discovery
+Deep Relational Topic Modeling via Graph Poisson Gamma Belief Network
+Towards Scale-Invariant Graph-related Problem Solving by Iterative Homogeneous GNNs
+Graph Stochastic Neural Networks for Semi-supervised Learning
+How hard is to distinguish graphs with graph neural networks?
+Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian
+Language and Visual Entity Relationship Graph for Agent Navigation
+Graph Random Neural Networks for Semi-Supervised Learning on Graphs
+Robust Multi-Object Matching via Iterative Reweighting of the Graph Connection Laplacian
+Digraph Inception Convolutional Networks
+Learning of Discrete Graphical Models with Neural Networks
+Graph Meta Learning via Local Subgraphs
+Dense Correspondences between Human Bodies via Learning Transformation Synchronization on Graphs
+Building powerful and equivariant graph neural networks with message-passing
+Reinforcement Learning with Feedback Graphs
+Can Graph Neural Networks Count Substructures?
+Manifold structure in graph embeddings
+Attribution for Graph Neural Networks
+Convergence and Stability of Graph Convolutional Networks on Large Random Graphs
+Learning Graph Structure with A Finite-State Automaton Layer
+Learning Dynamic Belief Graphs to Generalize on Text-Based Games
+Principal Neighbourhood Aggregation for Graph Nets
+Graphon Neural Networks and the Transferability of Graph Neural Networks
+Factorizable Graph Convolutional Networks
+Handling Missing Data with Graph Representation Learning
+EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning
+Distance Encoding -- Design Provably More Powerful GNNs for Structural Representation Learning
+Design Space for Graph Neural Networks
+Pointer Graph Networks
+Learning Physical Graph Representations from Visual Scenes
+Reward Propagation Using Graph Convolutional Networks
+Learning Some Popular Gaussian Graphical Models without Condition Number Bounds
+Subgraph Neural Networks
+Strongly local p-norm-cut algorithms for semi-supervised learning and local graph clustering
+Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs
+Efficient Learning of Discrete Graphical Models
+Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting
+Uncertainty Aware Semi-Supervised Learning on Graph Data
+Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks
+Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs
+Learning to Decode: Reinforcement Learning for Decoding of Sparse Graph-Based Channel Codes
+Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks
+GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs
+Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations
+Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings
+Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks
+Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding
+A Novel Approach for Constrained Optimization in Graphical Models
+Adversarially-learned Inference via an Ensemble of Discrete Undirected Graphical Models
+Nonconvex Sparse Graph Learning under Laplacian-structured Graphical Model
+DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation
+Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs
+Binary Matrix Completion with Hierarchical Graph Side Information
+Graph Geometry Interaction Learning
+Fairness without Demographics through Adversarially Reweighted Learning
+Bandit Samplers for Training Graph Neural Networks
+On the Power of Louvain for Graph Clustering
+Multimodal Graph Networks for Compositional Generalization in Visual Question Answering
+Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs
+Factor Graph Neural Networks
+Graph Policy Network for Transferable Active Learning on Graphs
+DiffGCN: Graph Convolutional Networks via Differential Operators and Algebraic Multigrid Pooling
+Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting
+Curvature Regularization to Prevent Distortion in Graph Embedding
+A polynomial-time algorithm for learning nonparametric causal graphs
+Generalized Independent Noise Condition for Estimating Linear Non-Gaussian Latent Variable Graphs
+AI Feynman 2.0: Pareto-optimal symbolic regression exploiting graph modularity
+Universal Steganography and Watermarking: Towards Understanding and Utilizing Deep Hiding
+Higher-Order Spectral Clustering of Directed Graphs
+Reliable Graph Neural Networks via Robust Location Estimation
+Iterative Deep Graph Learning for Graph NeuralNetworks: Better and Robust Node Embeddings
+Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking
+Towards practical differentially private causal graph discovery
+Neural Topographic Factor Analysis for fMRI Data
+Provable, Scalable and Automatic Perturbation Analysis on General Computational Graphs
+Adaptive Shrinkage Estimation for Streaming Graphs
+Graph Information Bottleneck
+Adversarial Attacks on Deep Graph Matching
+Factor Graph Grammars
+Rethinking pooling in graph neural networks
+Transferable Graph Optimizers for ML Compilers

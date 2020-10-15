@@ -1,0 +1,2039 @@
+Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence Learning
+Zhen He (University College London) · Shaobing Gao (Sichuan University) · Liang Xiao (National University of Defense Technology) · David Barber (University College London)
+
+Concentration of Multilinear Functions of the Ising Model with Applications to Network Data
+Constantinos Daskalakis (MIT) · Nishanth Dikkala (MIT) · Gautam Kamath (MIT)
+
+Deep Subspace Clustering Network
+Pan Ji (University of Adelaide) · Tong Zhang (The Australian National University) · Hongdong Li (Australian National University) · Mathieu Salzmann (EPFL) · Ian Reid (University of Adelaide)
+
+Attentional Pooling for Action Recognition
+Rohit Girdhar (Carnegie Mellon University) · Deva Ramanan (Carnegie Mellon University)
+
+On the Consistency of Quick Shift
+Heinrich Jiang (Google)
+
+Rethinking Feature Discrimination and Polymerization for Large-scale Recognition
+Yu Liu (The Chinese University of Hong Kong) · Hongyang Li (The Chinese University of Hong Kong) · Xiaogang Wang (The Chinese University of Hong Kong)
+
+Breaking the Nonsmooth Barrier: A Scalable Parallel Method for Composite Optimization
+Fabian Pedregosa (UC Berkeley / ETH Zurich) · Rémi Leblond (INRIA) · Simon Lacoste-Julien (INRIA / ENS Paris)
+
+Dual-Agent GANs for Photorealistic and Identity Preserving Profile Face Synthesis
+Jian Zhao (National University of Singapore) · Lin Xiong (Panasonic R&D; Center Singapore) · Panasonic Karlekar Jayashree (Panasonic, Singapore) · Jianshu Li (National University of Singapore) · Fang Zhao (National University of Singapore) · Zhecan Wang (Franklin. W. Olin College of Engineering) · Panasonic Sugiri Pranata (Panasonic, Singapore) · Panasonic Shengmei Shen (Panasonic, Singapore) · Jiashi Feng (National University of Singapore)
+
+Dilated Recurrent Neural Networks
+Shiyu Chang (IBM T.J. Watson Research Center) · Yang Zhang (IBM T. J. Watson Research) · Wei Han (University of Illinois at Urbana-Champaign) · Mo Yu (Johns Hopkins University) · Xiaoxiao Guo (IBM Research) · Wei Tan (IBM T. J. Watson Research Center) · Xiaodong Cui () · Michael Witbrock (IBM Research, USA) · Mark A Hasegawa-Johnson (University of Illinois) · Thomas Huang (UIUC)
+
+Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs
+Saurabh Verma (University of Minnesota) · Zhi-Li Zhang (University of Minnesota)
+
+Scalable Generalized Linear Bandits: Online Computation and Hashing
+Kwang-Sung Jun (UW-Madison) · Aniruddha Bhargava (University of Wisconsin-Madison) · Robert Nowak (University of Wisconsion-Madison) · Rebecca Willett (University of Wisconsin)
+
+Probabilistic Models for Integration Error in the Assessment of Functional Cardiac Models
+Chris Oates (Newcastle University) · Steven Niederer (Kings College London) · Angela Lee (King's College London) · François-Xavier Briol (University of Warwick) · Mark Girolami (Imperial College London)
+
+Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent
+Peva Blanchard () · El Mahdi El Mhamdi (EPFL) · Rachid Guerraoui () · Julien Stainer ()
+
+Dynamic Safe Interruptibility for Decentralized Multi-Agent Reinforcement Learning
+El Mahdi El Mhamdi (EPFL) · Rachid Guerraoui () · Hadrien Hendrikx (EPFL) · Alexandre Maurer (EPFL)
+
+Interactive Submodular Bandit
+Lin Chen (Yale University) · Andreas Krause (ETHZ) · Amin Karbasi (Yale)
+
+Scene Physics Acquisition via Visual De-animation
+Jiajun Wu (MIT) · Erika Lu (University of Oxford) · Pushmeet Kohli (DeepMind) · Bill Freeman (MIT/Google) · Josh Tenenbaum (MIT)
+
+Label Efficient Learning of Transferable Representations acrosss Domains and Tasks
+Zelun Luo (Stanford University) · Yuliang Zou (Virginia Tech) · Judy Hoffman (UC Berkeley) · Li Fei-Fei (Stanford Uniersity)
+
+Decoding with Value Networks for Neural Machine Translation
+Di He (Microsoft Research) · Hanqing Lu (Zhejiang University) · Yingce Xia (University of Science and Technology of China) · Tao Qin (Microsoft Research) · Liwei Wang (Peking University) · Tieyan Liu (Microsoft Research)
+
+Parametric Simplex Method for Sparse Learning
+Haotian Pang (Princeton University) · Tuo Zhao (Georgia Tech) · Han Liu (Tencent AI Lab) · Robert J Vanderbei (Princeton University)
+
+Group Sparse Additive Machine
+Hong Chen (University of Pittsburgh) · Xiaoqian Wang (University of Pittsburgh) · Heng Huang (Computer Science and Engineering University of Texas at Arlington)
+
+Uprooting and Rerooting Higher-order Graphical Models
+Adrian Weller (University of Cambridge) · Mark Rowland (University of Cambridge)
+
+The Unreasonable Effectiveness of Structured Random Orthogonal Embeddings
+Krzysztof Choromanski () · Mark Rowland (University of Cambridge) · Adrian Weller (University of Cambridge)
+
+From Parity to Preference: Learning with Cost-effective Notions of Fairness
+Muhammad Bilal Zafar (MPI-SWS) · Isabel Valera () · Manuel Rodriguez (MPI SWS) · Krishna Gummadi (Max Planck Institute for Software Systems) · Adrian Weller (University of Cambridge)
+
+Inferring Generative Model Structure with Static Analysis
+Paroma Varma (Stanford University) · Bryan He (Stanford University) · Payal Bajaj (Stanford University) · Nishith Khandwala () · Christopher Ré (Stanford)
+
+Structured Embedding Models for Grouped Data
+Maja Rudolph (Columbia University) · Francisco Ruiz () · David Blei (Columbia University)
+
+A Linear-Time Kernel Goodness-of-Fit Test
+Wittawat Jitkrittum (Gatsby unit, University College London) · Wenkai Xu (Gatsby Unit, UCL) · Zoltan Szabo (Ecole Polytechnique) · Kenji Fukumizu (Institute of Statistical Mathematics) · Arthur Gretton (Gatsby Unit, UCL)
+
+Cortical microcircuits as gated-recurrent neural networks
+Rui Costa (University of Oxford) · Ioannis Alexandros Assael (DeepMind) · Brendan Shillingford (University of Oxford) · Nando de Freitas (University of Oxford) · TIm Vogels (University of Oxford)
+
+k-Support and Ordered Weighted Sparsity for Overlapping Groups: Hardness and Algorithms
+Cong Han Lim (University of Wisconsin-Madison) · Stephen Wright (UW-Madison)
+
+A simple model of recognition and recall memory
+Nisheeth Srivastava (IIT Kanpur) · Edward Vul (UCSD)
+
+On Structured Prediction Theory with Calibrated Convex Surrogate Losses
+Anton Osokin () · Francis Bach (Inria) · Simon Lacoste-Julien (INRIA / ENS Paris)
+
+Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model
+Jiasen Lu (Georgia Tech) · Anitha Kannan () · Jianwei Yang (Georgia Tech) · Dhruv Batra () · Devi Parikh (Georgia Tech / Facebook AI Research (FAIR))
+
+MaskRNN: Instance Level Video Object Segmentation
+Yuan-Ting Hu (UIUC) · Jia-Bin Huang (Virginia Tech) · Alexander Schwing (University of Illinois at Urbana-Champaign)
+
+Gated Recurrent Convolution Neural Network for OCR
+Jianfeng Wang (Beijing University of Posts and Telecommunications) · Xiaolin Hu (Tsinghua University)
+
+Towards Accurate Binary Convolutional Neural Network
+Wei Pan (DJI) · Xiaofan Lin (DJI) · Cong Zhao (DJI)
+
+Semi-Supervised Learning for Optical Flow with Generative Adversarial Networks
+Wei-Sheng Lai (University of California, Merced) · Jia-Bin Huang (Virginia Tech) · Ming-Hsuan Yang (UC Merced)
+
+Learning a Multi-View Stereo Machine
+Abhishek Kar (UC Berkeley) · Jitendra Malik () · Christian Häne (UC Berkeley)
+
+Phase Transitions in the Pooled Data Problem
+Jonathan Scarlett (EPFL) · Volkan Cevher (EPFL)
+
+Universal Style Transfer via Feature Transforms
+Yijun Li (University of California, Merced) · Chen Fang (Adobe Research) · Jimei Yang (Adobe Research) · Zhaowen Wang (Adobe Research) · Xin Lu (Adobe) · Ming-Hsuan Yang (UC Merced)
+
+On the Model Shrinkage Effect of Gamma Process Edge Partition Models
+Iku Ohama (Panasonic Corporation) · Issei Sato (The University of Tokyo/RIKEN) · Takuya Kida (Hokkaido University) · Hiroki Arimura (Hokkaido University)
+
+Pose Guided Person Image Generation
+Liqian Ma (KU Leuven) · Xu Jia (KU Leuven) · Qianru Sun (MPI Informatics) · Bernt Schiele (Max Planck Institute for Informatics) · Tinne Tuytelaars (KU Leuven) · Luc Van Gool (KU Leuven)
+
+Inference in Graphical Models via Semidefinite Programming Hierarchies
+Murat Erdogdu (Microsoft Research) · Yash Deshpande (MIT) · Andrea Montanari (Stanford)
+
+Variable Importance Using Decision Trees
+Arash A Amini (UCLA) · Seyed Jalil Kazemitabar (University of California, Los Angeles) · Adam Bloniarz (Google) · Ameet S Talwalkar (CMU)
+
+Preventing Gradient Explosions in Gated Recurrent Units
+Sekitoshi Kanai (NTT) · Yasuhiro Fujiwara (NTT Software Innovation Center) · Sotetsu Iwamura (NTT Software Innovation center)
+
+On the Power of Truncated SVD for General High-rank Matrix Estimation Problems
+Simon Du (Carnegie Mellon University) · Yining Wang (Carnegie Mellon University) · Aarti Singh (CMU)
+
+f-GANs in an Information Geometric Nutshell
+Richard Nock (Data61, The Australian National University & The University of Sydney) · Zac Cranko (The Australian National University & Data61) · Aditya K Menon (Data61/CSIRO) · Lizhen Qu (Data61) · Robert C Williamson (Australian National University & Data61)
+
+Multimodal Image-to-Image Translation by Enforcing Bi-Cycle Consistency
+Jun-Yan Zhu (UC Berkeley) · Richard Zhang (University of California, Berkeley) · Deepak Pathak (UC Berkeley) · Trevor Darrell (UC Berkeley) · Oliver Wang (Adobe Research) · Eli Shechtman () · Alexei Efros (UC Berkeley)
+
+Mixture-Rank Matrix Approximation for Collaborative Filtering
+Dongsheng Li (IBM Research - China) · Chao Chen (Tongji University) · Wei Liu (Tencent Technology (Shenzhen) Company Limited) · Tun Lu (Fudan University) · Ning Gu (Fudan University) · Stephen Chu (IBM Research - China)
+
+Non-monotone Continuous DR-submodular Maximization: Structure and Algorithms
+An Bian (ETH Zurich) · Joachim M Buhmann (ETH Zurich) · Andreas Krause (ETHZ) · Kfir Levy (ETH)
+
+Learning with Average Top-k Loss
+Yanbo Fan (NLPR, CASIA) · Siwei Lyu (SUNY at Albany) · Yiming Ying (State University of New York at Albany) · Baogang Hu (Chinese Academy of Sciences)
+
+Learning multiple visual domains with residual adapters
+Sylvestre-Alvise Rebuffi (University of Oxford) · Hakan Bilen (University of Oxford) · Andrea Vedaldi (University of Oxford)
+
+Dykstra's Algorithm, ADMM, and Coordinate Descent: Connections, Insights, and Extensions
+Ryan Tibshirani (Carnegie Mellon University)
+
+Flat2Sphere: Learning Spherical Convolution for Fast Features from 360° Imagery
+Yu-Chuan Su (UT Austin) · Kristen Grauman (UT Austin)
+
+3D Shape Reconstruction by Modeling 2.5D Sketch
+Jiajun Wu (MIT) · Yifan Wang (ShanghaiTech University) · Tianfan Xue (MIT CSAIL) · Xingyuan Sun (Shanghai Jiao Tong University) · Bill Freeman (MIT/Google) · Josh Tenenbaum (MIT)
+
+Multimodal Learning and Reasoning for Visual Question Answering
+Ilija Ilievski (National University of Singapore) · Jiashi Feng (National University of Singapore)
+
+Adversarial Surrogate Losses for Ordinal Regression
+Rizal Fathony (University of Illinois at Chicago) · Mohammad Ali Bashiri (University of Illinois at Chicago) · Brian Ziebart (University of Illinois at Chicago)
+
+Hypothesis Transfer Learning via Transformation Functions
+Simon Du (Carnegie Mellon University) · Jayanth Koushik (Carnegie Mellon University) · Aarti Singh (CMU) · Barnabas Poczos (Carnegie Mellon University)
+
+Adversarial Invariant Feature Learning
+Qizhe Xie (Carnegie Mellon University) · Zihang Dai (CMU) · Yulun Du (Carnegie Mellon University) · Eduard Hovy (CMU) · Graham Neubig (Carnegie Mellon University)
+
+Convergence Analysis of Two-layer Neural Networks with ReLU Activation
+Yuanzhi Li (Princeton University) · Yang Yuan (Cornell University)
+
+Doubly Accelerated Stochastic Variance Reduced Dual Averaging Method for Regularized Empirical Risk Minimization
+Tomoya Murata (NTT DATA Mathematical Systems Inc.) · Taiji Suzuki ()
+
+Langevin Dynamics with Continuous Tempering for Training Deep Neural Networks
+Nanyang Ye (University of Cambridge) · Zhanxing Zhu (Peking University & Beijing Institute of Big Data Research) · Rafal Mantiuk (University of Cambridge)
+
+Efficient Online Linear Optimization with Approximation Algorithms
+Dan Garber (Technion - Israel Institute of Technology)
+
+Geometric Descent Method for Convex Composite Minimization
+Shixiang Chen (The Chinese University of HongKong) · Shiqian Ma (UC Davis) · Wei Liu (Tencent Technology (Shenzhen) Company Limited)
+
+Diffusion Approximations for Online Principal Component Estimation and Global Convergence
+Chris Junchi Li (Princeton University) · Mengdi Wang (Princeton University) · Tong Zhang (Tencent AI Lab)
+
+Avoiding Discrimination through Causal Reasoning
+Niki Kilbertus (MPI Tuebingen & Cambridge) · Mateo Rojas Carulla (University of Cambridge, Max Planck for Intelligent Systems) · Giambattista Parascandolo () · Moritz Hardt (UC Berkeley) · Dominik Janzing (MPI Tübingen) · Bernhard Schölkopf (MPI for Intelligent Systems)
+
+Nonparametric Online Regression while Learning the Metric
+Ilja Kuzborskij (EPFL) · Nicolò Cesa-Bianchi (Università degli Studi di Milano, Italy)
+
+Recycling for Fairness: Learning with Conditional Distribution Matching Constraints
+Novi Quadrianto (University of Sussex and HSE) · Viktoriia Sharmanska (Imperial College London)
+
+Safe and Nested Subgame Solving for Imperfect-Information Games
+Noam Brown (Carnegie Mellon University) · Tuomas Sandholm (Carnegie Mellon University)
+
+Unsupervised Image-to-Image Translation Networks
+Ming-Yu Liu (NVIDIA) · Thomas Breuel () · Jan Kautz (NVIDIA)
+
+Coded Distributed Computing for Inverse Problems
+Yaoqing Yang (Carnegie Mellon University) · Pulkit Grover (CMU) · Soummya Kar (Carnegie Mellon University)
+
+A Screening Rule for l1-Regularized Ising Model Estimation
+Zhaobin Kuang (University of Wisconsin, Madison) · Sinong Geng (University of Wisconsin Madison) · David Page (UW-Madison)
+
+Improved Dynamic Regret for Non-degeneracy Functions
+Lijun Zhang (Nanjing University (NJU)) · Tianbao Yang (The University of Iowa) · Jinfeng Yi (IBM Thomas J. Watson Research Center) · Rong Jin () · Zhi-Hua Zhou (Nanjing University)
+
+Learning Efficient Object Detection Models with Knowledge Distillation
+Guobin Chen (University of Missouri) · Wongun Choi (NEC Laboratories) · Xiang Yu (NEC Laboratories America) · Tony Han (University of Missouri) · Manmohan Chandraker (University of California, San Diego)
+
+One-Sided Unsupervised Domain Mapping
+Sagie Benaim (Tel Aviv University) · Lior Wolf (Facebook AI Research)
+
+Deep Mean-Shift Priors for Image Restoration
+Siavash Arjomand Bigdeli (Universität Bern) · Matthias Zwicker (University of Maryland, College Park) · Paolo Favaro (University of Bern) · Meiguang Jin (University of Bern)
+
+Greedy Algorithms for Cone Constrained Optimization with Convergence Guarantees
+Francesco Locatello (MPI - ETH Zürich) · Michael Tschannen (ETH Zurich) · Gunnar Raetsch (ETHZ) · Martin Jaggi (EPFL)
+
+A New Theory for Nonconvex Matrix Completion
+Guangcan Liu (Nanjing University of Information Science & Technology (NUIST)) · Xiaotong Yuan () · Qingshan Liu ()
+
+Robust Hypothesis Test for Functional Effect with Gaussian Processes
+Jeremiah Liu (Harvard University) · Brent Coull (Harvard University)
+
+Lower bounds on the robustness to adversarial perturbations
+Jonathan Peck (Ghent University) · Yvan Saeys (Ghent University) · Bart Goossens (Ghent University) · Joris Roels (Ghent University)
+
+Minimizing a Submodular Function from Samples
+Eric Balkanski (Harvard University) · Yaron Singer (Harvard University)
+
+Introspective Classification with Convolutional Nets
+Long Jin (University of California San Diego) · Justin Lazarow (UC San Diego) · Zhuowen Tu ()
+
+Label Distribution Learning Forests
+Wei Shen (Shanghai University) · KAI ZHAO (Nankai University) · Yilu Guo (Shanghai University) · Alan Yuille (Johns Hopkins University)
+
+Unsupervised object learning from dense equivariant image labelling
+James Thewlis (University of Oxford) · Andrea Vedaldi (University of Oxford) · Hakan Bilen (University of Oxford)
+
+Compression-aware Training of Deep Neural Networks
+Jose Alvarez (TRI) · Mathieu Salzmann (EPFL)
+
+Multiscale Semi-Markov Dynamics for Intracortical Brain-Computer Interfaces
+Daniel Milstein (Brown University) · Jason Pacheco (Brown University) · Brown Leigh Hochberg (Brown, MGH, VA, Harvard) · John D Simeral (Brown University) · Beata Jarosiewicz (Stanford University) · Erik Sudderth (University of California, Irvine)
+
+PredRNN: Recurrent Neural Networks for Video Prediction using Spatiotemporal LSTMs
+Yunbo Wang (Tsinghua University) · Mingsheng Long (Tsinghua University) · Jianmin Wang (Tsinghua University) · Philip S Yu (UIC)
+
+Detrended Partial Cross Correlation for Brain Connectivity Analysis
+Jaime Ide (Yale University) · Fábio Cappabianco (Federal University of Sao Paulo) · Fabio Faria (Federal University of Sao Paulo) · Chiang-shan R Li (Yale University)
+
+Contrastive Learning for Image Captioning
+Bo Dai (The Chinese University of Hong Kong) · Dahua Lin (The Chinese University of Hong Kong)
+
+Safe Model-based Reinforcement Learning with Stability Guarantees
+Felix Berkenkamp (ETH Zurich) · Matteo Turchetta (ETH Zurich) · Angela Schoellig () · Andreas Krause (ETHZ)
+
+Online multiclass boosting
+Young Hun Jung (Universith of Michigan) · Jack Goetz (University of Michigan) · Ambuj Tewari (University of Michigan)
+
+Matching on Balanced Nonlinear Representations for Treatment Effects Estimation
+Sheng Li (Adobe Research) · Yun Fu (Northeastern University)
+
+Learning Overcomplete HMMs
+Vatsal Sharan (Stanford University) · Sham Kakade (University of Washington) · Percy Liang (Stanford University) · Gregory Valiant (Stanford University)
+
+GP CaKe: Effective brain connectivity with causal kernels
+Luca Ambrogioni (Donders Institute) · Max Hinne (Radboud University) · Marcel Van Gerven (Radboud University) · Eric Maris (Donders Institute)
+
+Decoupling "when to update" from "how to update"
+Eran Malach (Hebrew University Jerusalem Israel) · Shai Shalev-Shwartz (Mobileye & HUJI)
+
+Self-Normalizing Neural Networks
+Günter Klambauer (LIT AI Lab / University Linz) · Thomas Unterthiner (LIT AI Lab / University Linz) · Andreas Mayr (LIT AI Lab / University Linz) · Sepp Hochreiter (LIT AI Lab / University Linz)
+
+Learning to Pivot with Adversarial Networks
+Gilles Louppe (New York University) · Michael Kagan (SLAC / Stanford) · Kyle Cranmer (New York University)
+
+MolecuLeNet: A continuous-filter convolutional neural network for modeling quantum interactions
+Kristof Schütt (TU Berlin) · Pieter-Jan Kindermans (Google Brain Resident) · Huziel E. Sauceda (Fritz-Haber-Institut der Max-Planck-Gesellschaft) · Stefan Chmiela (Technische Universität Berlin) · Alexandre Tkatchenko (University of Luxembourg) · Klaus-Robert Müller (TU Berlin)
+
+Active Bias: Training a More Accurate Neural Network by Emphasizing High Variance Samples
+Haw-Shiuan Chang (UMass, Amherst) · Andrew McCallum (UMass Amherst) · Erik Learned-Miller (UMass Amherst)
+
+Differentiable Learning of Submodular Functions
+Josip Djolonga (ETH Zurich) · Andreas Krause (ETHZ)
+
+Inductive Representation Learning on Large Graphs
+Will Hamilton (Stanford University) · Zhitao Ying (Stanford University) · Jure Leskovec (Stanford University)
+
+Subset Selection for Sequential Data
+Ehsan Elhamifar (Northeastern University)
+
+Question Asking as Program Generation
+Anselm Rothe (New York University) · Brenden Lake (New York University) · Todd Gureckis (New York University)
+
+Revisiting Perceptron: Efficient and Label-Optimal Learning of Halfspaces
+Songbai Yan (University of California, San Diego) · Chicheng Zhang (University of California San Diego)
+
+Gradient Descent Can Take Exponential Time to Escape Saddle Points
+Simon Du (Carnegie Mellon University) · Chi Jin (UC Berkeley) · Jason D Lee (USC) · Michael Jordan (UC Berkeley) · Aarti Singh (CMU) · Barnabas Poczos (Carnegie Mellon University)
+
+Union of Intersections (UoI) for Interpretable Data Driven Discovery and Prediction
+Kristofer Bouchard (Lawrence Berkeley National Laboratory) · Alejandro Bujan (UC Berkeley) · Farbod Roosta-Khorasani (University of California Berkeley) · Shashanka Ubaru (University of Minnesota) · Mr. Prabhat (LBL/NERSC) · Antoine Snijders () · Jian-Hua Mao () · Edward Chang () · Michael W Mahoney (UC Berkeley) · Sharmodeep Bhattacharya ()
+
+One-Shot Imitation Learning
+Yan Duan (UC Berkeley) · Marcin Andrychowicz (OpenAI) · Bradly Stadie (OpenAI) · OpenAI Jonathan Ho (OpenAI, UC Berkeley) · Jonas Schneider (OpenAI) · Ilya Sutskever () · Pieter Abbeel (OpenAI / UC Berkeley / Gradescope) · Wojciech Zaremba (OpenAI)
+
+Learning the Morphology of Brain Signals Using Alpha-Stable Convolutional Sparse Coding
+Mainak Jas (Télécom ParisTech) · Tom Dupré la Tour (Télécom ParisTech) · Umut Simsekli (Bogazici University) · Alexandre Gramfort (LTCI, CNRS, Télécom ParisTech, Université Paris-Saclay)
+
+Integration Methods and Optimization Algorithms
+Damien Scieur (INRIA - ENS) · Vincent Roulet (INRIA / ENS Ulm) · Francis Bach (Inria) · Alexandre d'Aspremont (CNRS - Ecole Normale Supérieure)
+
+Sharpness, Restart and Acceleration
+Vincent Roulet (INRIA / ENS Ulm) · Alexandre d'Aspremont (CNRS - Ecole Normale Supérieure)
+
+Learning Koopman Invariant Subspaces for Dynamic Mode Decomposition
+Naoya Takeishi (The University of Tokyo) · Yoshinobu Kawahara (Osaka University) · Takehisa Yairi (The University of Tokyo)
+
+Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations
+Eirikur Agustsson (ETH Zurich) · Fabian Mentzer (ETH Zurich) · Michael Tschannen (ETH Zurich) · Lukas Cavigelli (ETH Zurich) · Radu Timofte (ETH Zurich) · Luca Benini (ETH Zurich) · Luc V Gool (Computer Vision Lab, ETH Zurich)
+
+Learning spatiotemporal piecewise-geodesic trajectories from longitudinal manifold-valued data
+Stéphanie ALLASSONNIERE (Ecole Polytechnique) · Juliette Chevallier (École polytechnique)
+
+Improving Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms and Its Applications
+Qinshi Wang (Princeton University) · Wei Chen (Microsoft Research)
+
+Predictive-State Decoders: Encoding the Future into Recurrent Networks
+Arun Venkatraman (Carnegie Mellon University) · Nicholas Rhinehart (Carnegie Mellon University) · Wen Sun (Carnegie Mellon University) · Lerrel Pinto () · Martial Hebert (cmu) · Byron Boots (Georgia Tech / Google Brain) · Kris Kitani (Carnegie Mellon University) · J. Bagnell (Carnegie Mellon University)
+
+Posterior sampling for reinforcement learning: worst-case regret bounds
+Shipra Agrawal () · Randy Jia (Columbia University)
+
+Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results
+Antti Tarvainen (The Curious AI Company) · Harri Valpola (The Curious AI Company)
+
+Matching neural paths: transfer from recognition to correspondence search
+Nikolay Savinov (ETH Zurich) · Lubor Ladicky (ETH Zurich) · Marc Pollefeys (ETH Zurich)
+
+Linearly constrained Gaussian processes
+Carl Jidling (Uppsala University) · Niklas Wahlström (Uppsala University) · Adrian Wills (University of Newcastle, Australia) · Thomas B Schön (Uppsala University)
+
+Fixed-Rank Approximation of a Positive-Semidefinite Matrix from Streaming Data
+Joel A Tropp (Caltech) · Alp Yurtsever (École Polytechnique Fédérale de Lausanne, Switzerland) · Madeleine Udell (Cornell) · Volkan Cevher (EPFL)
+
+Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets
+Karol Hausman (University of Southern California) · Yevgen Chebotar (University of Southern California) · Stefan Schaal (USC) · Gaurav Sukhatme (USC) · Joseph J Lim (University of Southern California)
+
+Learning to Inpaint for Image Compression
+Mohammad Haris Baig (Dartmouth College) · Vladlen Koltun (Intel Labs) · Lorenzo Torresani (Dartmouth)
+
+Adaptive Bayesian Sampling with Monte Carlo EM
+Anirban Roychowdhury (Ohio State University) · Srinivasan Parthasarathy (The Ohio State University)
+
+No More Fixed Penalty Parameter in ADMM: Faster Convergence with New Adaptive Penalization
+Yi Xu (The University of Iowa) · Mingrui Liu (The University of Iowa) · Tianbao Yang (The University of Iowa) · Univ Qihang Lin (Univ Iowa, faculty)
+
+Shape and Material from Sound
+zhoutong zhang (MIT) · Qiujia Li (University of Cambridge) · Zhengjia Huang () · Jiajun Wu (MIT) · Josh Tenenbaum (MIT) · Bill Freeman (MIT/Google)
+
+Flexible statistical inference for mechanistic models of neural dynamics
+Jan-Matthis Lueckmann (research center caesar, an associate of the Max Planck Society) · Pedro J Goncalves (research center caesar, an associate of the Max Planck Society) · Giacomo Bassetto (research center caesar) · Kaan Oecal (research center caesar) · Marcel Nonnenmacher (research center caesar, an associate of the Max Planck Society) · Jakob H Macke (research center caesar, an associate of the Max Planck Society)
+
+Online Prediction with Selfish Experts
+Tim Roughgarden (Stanford University) · Okke Schrijvers (Facebook Inc.)
+
+Tensor Biclustering
+Soheil Feizi (Stanford University) · Hamid Javadi (Stanford University) · David Tse (Stanford University)
+
+DPSCREEN: Dynamic Personalized Screening
+Kartik Ahuja (University of California, Los Angeles) · William Zame (UCLA) · Mihaela van der Schaar (UCLA and Oxford University)
+
+Learning Unknown Markov Decision Processes: A Thompson Sampling Approach
+Yi Ouyang (University of California, Berkeley) · Mukul Gagrani (University of Southern California) · Ashutosh Nayyar (University of Southern California) · Rahul Jain (University of Southern California)
+
+Testing and Learning on Distributions with Symmetric Noise Invariance
+Law Ho Chung (University Of Oxford) · Christopher Yau (University of Oxford) · Dino Sejdinovic (University of Oxford)
+
+A Dirichlet Mixture Model of Hawkes Processes for Event Sequence Clustering
+Hongteng Xu (Duke University) · Hongyuan Zha (Georgia Tech)
+
+Deanonymization in the Bitcoin P2P Network
+Giulia Fanti (Carnegie Mellon University) · Pramod Viswanath (UIUC)
+
+Accelerated consensus via Min-Sum Splitting
+Patrick Rebeschini (University of Oxford) · Sekhar C Tatikonda (Yale University)
+
+Generalized Linear Model Regression under Distance-to-set Penalties
+Jason Xu (NSF Postdoctoral Fellow UCLA) · Eric Chi (North Carolina State University) · Kenneth Lange (UCLA)
+
+Adaptive sampling for a population of neurons
+Benjamin Cowley (Carnegie Mellon University) · Ryan Williamson (Carnegie Mellon University) · Katerina Clemens (University of Pittsburgh) · Matthew Smith (University of Pittsburgh) · Byron M Yu (Carnegie Mellon University)
+
+Nonbacktracking Bounds on the Influence in Independent Cascade Models
+Emmanuel Abbe (Princeton University) · Sanjeev Kulkarni (Princeton University) · Eun Jee Lee (Princeton University)
+
+Learning with Feature Evolvable Streams
+Bo-Jian Hou (LAMDA Group) · Lijun Zhang (Nanjing University (NJU)) · Zhi-Hua Zhou (Nanjing University)
+
+Online Convex Optimization with Stochastic Constraints
+Hao Yu (University of Southern California) · Michael Neely (Univ. Southern California) · Xiaohan Wei (University of Southern California)
+
+Max-Margin Invariant Features from Transformed Unlabelled Data
+Dipan Pal (Carnegie Mellon University) · Ashwin Kannan (Carnegie Mellon University) · Gautam Arakalgud (Carnegie Mellon University) · Marios Savvides (Carnegie Mellon University)
+
+Cognitive Impairment Prediction in Alzheimer’s Disease with Regularized Modal Regression
+Xiaoqian Wang (University of Pittsburgh) · Hong Chen (University of Pittsburgh) · Dinggang Shen (UNC-Chapel Hill) · Heng Huang (Computer Science and Engineering University of Texas at Arlington)
+
+Translation Synchronization via Truncated Least Squares
+Xiangru Huang (UT Austin) · Zhenxiao Liang (Tsinghua University) · Chandrajit Bajaj (The University of Texas at Austin) · Qixing Huang (The University of Texas at Austin)
+
+From which world is your graph
+Cheng Li (College of William and Mary) · Varun Kanade (University of Oxford) · Felix MF Wong (Google) · Zhenming Liu (William and Mary)
+
+A New Alternating Direction Method for Linear Programming
+Sinong Wang (The Ohio State University) · Ness Shroff (The Ohio State University)
+
+Regret Analysis for Continuous Dueling Bandit
+Wataru Kumagai (Kanagawa University)
+
+Best Response Regression
+Omer Ben Porat (Technion – Israel Institute of Technology) · Moshe Tennenholtz (Technion--Israel Institute of Technology)
+
+TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning
+Wei Wen (Duke University) · Cong Xu (Hewlett Packard Labs) · Feng Yan (University of Nevada, Reno) · Chunpeng Wu (Duke University) · Yandan Wang (University of Pittsburgh) · Yiran Chen (Duke University) · Hai Li (Duke University)
+
+Learning Affinity via Spatial Propagation Networks
+Sifei Liu (Nvidia) · Guangyu Zhong (Dalian University of Technology) · Ming-Hsuan Yang (UC Merced) · Shalini De Mello (NVIDIA) · Jan Kautz (NVIDIA) · Jinwei Gu (NVIDIA Research)
+
+Linear regression without correspondence
+Daniel Hsu () · Kevin Shi (Columbia University) · Xiaorui Sun (Columbia University)
+
+NeuralFDR: Learning Discovery Thresholds from Hypothesis Features
+Martin J Zhang (Stanford University) · Fei Xia (Stanford University) · James Zou (Stanford) · David Tse (Stanford University)
+
+Cost efficient gradient boosting
+Sven Peter (University Heidelberg) · Ferran Diego () · Fred Hamprecht (Heidelberg University) · Boaz Nadler (Weizmann Institute of Science)
+
+Probabilistic Rule Realization and Selection
+Haizi Yu (University of Illinois at Urbana-Champaign) · Tianxi Li (University of Michigan) · Lav Varshney (University of Illinois at Urbana-Champaign)
+
+Nearest-Neighbor Sample Compression: Efficiency, Consistency, Infinite Dimensions
+Aryeh Kontorovich (Ben Gurion University) · Sivan Sabato (Ben Gurion University) · Roi Weiss (Weizmann institute of science)
+
+A Scale Free Algorithm for Stochastic Bandits with Bounded Kurtosis
+Tor Lattimore (DeepMind)
+
+Learning Multiple Tasks with Deep Relationship Networks
+Mingsheng Long (Tsinghua University) · Jianmin Wang (Tsinghua University) · Philip S Yu (UIC)
+
+Deep Hyperalignment
+Muhammad Yousefnezhad (Nanjing University of Aeronautics and Astronautics) · Daoqiang Zhang (Nanjing University of Aeronautics and Astronautics)
+
+Online to Offline Conversions and Adaptive Minibatch Sizes
+Kfir Levy (ETH)
+
+Stochastic Optimization with Variance Reduction for Infinite Datasets with Finite Sum Structure
+Alberto Bietti (Inria) · Julien Mairal (Inria)
+
+Deep Learning with Topological Signatures
+Christoph Hofer (University of Salzburg) · Roland Kwitt (University of Salzburg) · Marc Niethammer (UNC Chapel Hill) · Andreas Uhl (University of Salzburg)
+
+Predicting User Activity Level In Point Process Models With Mass Transport Equation
+Yichen Wang (Georgia Tech) · Xiaojing Ye (Georgia State University) · Hongyuan Zha (Georgia Tech) · Le Song (Georgia Institute of Technology)
+
+Submultiplicative Glivenko-Cantelli and Uniform Convergence of Revenues
+Noga Alon (Tel Aviv University) · Moshe Babaioff (Microsoft Research) · Yannai A. Gonczarowski (The Hebrew University of Jerusalem and Microsoft Research) · Yishay Mansour (Tel Aviv University) · Shay Moran (IAS, Princeton) · Amir Yehudayoff (Technion - Israel institue of Technology)
+
+Deep Dynamic Poisson Factorization Model
+Chengyue Gong (PeKing University) · win-bin huang (peking university)
+
+Positive-Unlabeled Learning with Non-Negative Risk Estimator
+Ryuichi Kiryo (UTokyo/RIKEN) · Gang Niu (The University of Tokyo) · Marthinus C du Plessis (The University of Tokyo) · Masashi Sugiyama (RIKEN / University of Tokyo)
+
+Optimal Sample Complexity of M-wise Data for Top-K Ranking
+Minje Jang (KAIST) · Sunghyun Kim (ETRI) · Changho Suh (KAIST) · Sewoong Oh (UIUC)
+
+What-If Reasoning using Counterfactual Gaussian Processes
+Peter Schulam (Johns Hopkins University) · Suchi Saria (Johns Hopkins University)
+
+Communication-Efficient Stochastic Gradient Descent, with Applications to Neural Networks
+Dan Alistarh (IST Austria & ETH Zurich) · Demjan Grubic (ETH Zurich) · Jerry Li (MIT) · Ryota Tomioka (Microsoft Research Cambridge) · Milan Vojnovic (London School of Economics and Political Science (LSE))
+
+On the Convergence of Block Coordinate Descent in Training DNNs with Tikhonov Regularization
+Ziming Zhang (MERL) · Matthew Brand (Mitsubishi Electric Research Labs)
+
+Train longer, generalize better: closing the generalization gap in large batch training of neural networks
+Elad Hoffer (Technion) · Itay Hubara (Technion) · Daniel Soudry (Technion)
+
+Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks
+Arjun K Bansal (Intel Nervana) · William Constable (Intel) · Oguz Elibol (Intel) · Stewart Hall (Intel) · Luke Hornof (Intel) · Amir Khosrowshahi (Intel) · Carey Kloss (Intel) · Urs Köster (Intel Corporation) · Marcel Nassar (Intel Corporation) · Naveen Rao (Intel) · Xin Wang (Intel Corporation) · Tristan Webb (Intel / Nervana)
+
+Model evidence from nonequilibrium simulations
+Michael Habeck (Max Planck Institute Goettingen)
+
+Minimal Exploration in Structured Stochastic Bandits
+Stefan Magureanu (KTH) · Richard Combes (Centrale-Supelec) · Alexandre Proutiere (KTH)
+
+Learned D-AMP: Principled Neural-network-based Compressive Image Recovery
+Chris Metzler (Rice University) · Ali Mousavi (Rice University) · Richard Baraniuk (Rice University)
+
+Deliberation Networks: Sequence Generation Beyond One-Pass Decoding
+Yingce Xia (University of Science and Technology of China) · Lijun Wu (Sun Yat-sen University) · Jianxin Lin (USTC) · Fei Tian (Miicrosoft Research) · Tao Qin (Microsoft Research) · Tie-Yan Liu (Microsoft Research)
+
+Adaptive Clustering through Semidefinite Programming
+Martin Royer (Université Paris-Saclay)
+
+Log-normality and Skewness of Estimated State/Action Values in Reinforcement Learning
+Liangpeng Zhang (University of Birmingham) · Ke Tang (University of Science and Technology of China) · Xin Yao (University of Birmingham)
+
+Repeated Inverse Reinforcement Learning
+Kareem Amin (Google Research) · Nan Jiang (Microsoft Research) · Satinder Singh (University of Michigan)
+
+The Numerics of GANs
+Lars Mescheder (Max-Planck Institute Tuebingen) · Sebastian Nowozin (Microsoft Research Cambridge) · Andreas Geiger (MPI Tübingen)
+
+Practical Bayesian Optimization for Model Fitting with Bayesian Adaptive Direct Search
+Luigi Acerbi (New York University) · Wei Ji (New York University)
+
+Learning Chordal Markov Networks via Branch and Bound
+Kari Rantanen (University of Helsinki) · Antti Hyttinen (University of Helsinki) · Matti Järvisalo (University of Helsinki)
+
+Revenue Optimization with Approximate Bid Predictions
+Andres Munoz () · Sergei Vassilvitskii (Google)
+
+Solving (Almost) all Systems of Random Quadratic Equations
+Gang Wang (University of Minnesota) · Georgios Giannakis (University of Minnesota) · Yousef Saad (University of Minnesota) · Jie Chen (Beijing Institute of Technology)
+
+Unsupervised Learning of Disentangled Latent Representations from Sequential Data
+Wei-Ning Hsu (Massachusetts Institute of Technology) · Yu Zhang (Google Brain) · James Glass (MIT CSAIL)
+
+Lookahead Bayesian Optimization with Inequality Constraints
+Remi Lam (MIT) · Karen Willcox (MIT)
+
+Hierarchical Methods of Moments
+Matteo Ruffini (UPC) · Guillaume Rabusseau (McGill University) · Borja Balle ()
+
+Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts
+Raymond Yeh (University of Illinois at Urbana–Champaign) · Jinjun Xiong (IBM Research) · Wen-Mei Hwu () · Minh Do (University of Illinois) · Alexander Schwing (University of Illinois at Urbana-Champaign)
+
+Revisit Fuzzy Neural Network: Demystifying Batch Normalization and ReLU with Generalized Hamming Network
+Lixin Fan (Nokia Technologies)
+
+Speeding Up Latent Variable Gaussian Graphical Model Estimation via Nonconvex Optimization
+Pan Xu (University of Virginia) · Jian Ma (Carnegie Mellon University) · Quanquan Gu (University of Virginia)
+
+Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models
+Sergey Ioffe (Google)
+
+Generating steganographic images via adversarial training
+Jamie Hayes (University College London) · George Danezis (University College London)
+
+Near-linear time approximation algorithms for optimal transport via Sinkhorn iteration
+Jason Altschuler (MIT) · Jonathan Weed (MIT) · Philippe Rigollet (MIT)
+
+PixelGAN Autoencoders
+Alireza Makhzani (University of Toronto) · Brendan J Frey (Deep Genomics, Vector Institute, Univ. Toronto)
+
+Consistent Multitask Learning with Nonlinear Output Relations
+Carlo Ciliberto (University College London) · Alessandro Rudi (University of Genova) · Lorenzo Rosasco (University of Genova- MIT - IIT) · Massimiliano Pontil (University College London & Italian Institute of Technology)
+
+Fast Alternating Minimization Algorithms for Dictionary Learning
+Niladri Chatterji (UC Berkeley) · Peter Bartlett (UC Berkeley)
+
+Learning ReLUs via Gradient Descent
+Mahdi Soltanolkotabi (University of Southern california)
+
+Stabilizing Training of Generative Adversarial Networks through Regularization
+Kevin Roth (ETH) · Aurelien Lucchi (ETH Zurich) · Sebastian Nowozin (Microsoft Research Cambridge) · Thomas Hofmann (ETH Zurich)
+
+Expectation Propagation with Stochastic Kinetic Model in Complex Interaction Systems
+Wen Dong (University at Buffalo) · Le Fang (University at Buffalo-SUNY) · Fan Yang (University at Buffalo) · Tong Guan () · Chunming Qiao ()
+
+Data-Efficient Reinforcement Learning in Continuous State-Action Gaussian-POMDPs
+Rowan McAllister (University of Cambridge) · Carl Edward Rasmussen (University of Cambridge)
+
+Compatible Reward Inverse Reinforcement Learning
+Alberto Maria Metelli (Politecnico di Milano) · Matteo Pirotta (INRIA Lille-Nord Europe) · Marcello Restelli ()
+
+First-Order Adaptive Sample Size Methods to Reduce Complexity of Empirical Risk Minimization
+Aryan Mokhtari (University of Pennsylvania) · Alejandro Ribeiro (University of Pennsylvania)
+
+Hiding Images in Plain Sight: Deep Steganography
+Google Shumeet Baluja (Google, Inc.)
+
+Neural Program Meta-Induction
+Jacob Devlin (Microsoft Research) · Rudy R Bunel (Oxford University) · Rishabh Singh (Microsoft Research) · Matthew Hausknecht (Microsoft Research) · Pushmeet Kohli (DeepMind)
+
+Bayesian Dyadic Trees and Histograms for Regression
+Stéphanie van der Pas (Leiden University) · Veronika Rockova (University of Chicago)
+
+A graph-theoretic approach to multitasking
+Noga Alon (Tel Aviv University) · Daniel Reichman (University of California, Berkeley) · Igor Shinkar (UC Berkeley) · Tal Wagner (MIT) · Sebastian Musslick () · Tom Griffiths (UC Berkeley) · Jonathan D Cohen (Princeton University) · Biswadip dey (Princeton University) · Kayhan Ozcimder (Princeton University)
+
+Consistent Robust Regression
+Kush Bhatia (UC Berkeley) · Prateek Jain (Microsoft Research) · Purushottam Kar (Indian Institute of Technology Kanpur)
+
+Natural value approximators: learning when to trust past estimates
+Tom Schaul (DeepMind) · Zhongwen Xu (DeepMind) · Joseph Modayil (Deepmind) · Hado van Hasselt (DeepMind) · Andre Barreto (DeepMind) · David Silver (DeepMind)
+
+Bandits Dueling on Partially Ordered Sets
+CMLA Julien Audiffren (CMLA, ENS CACHAN) · Liva Ralaivola (LIF, Aix-Marseille University, CNRS)
+
+Elementary Symmetric Polynomials for Optimal Experimental Design
+Zelda E. Mariet (MIT) · Suvrit Sra (MIT)
+
+Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols
+Serhii Havrylov (University of Amsterdam) · Ivan Titov ()
+
+Backprop without Learning Rates Through Coin Betting
+Francesco Orabona (Stony Brook University) · Tatiana Tommasi (University of Rome La Sapienza)
+
+Pixels to Graphs by Associative Embedding
+Alejandro Newell (University of Michigan) · Jia Deng (University of Michigan)
+
+Runtime Neural Pruning
+Ji Lin (Tsinghua University) · Yongming Rao (Tsinghua University) · Jiwen Lu (Tsinghua University)
+
+Compressing the Gram Matrix for Learning Neural Networks in Polynomial Time
+Surbhi Goel (University of Texas at Austin) · Adam Klivans (UT Austin)
+
+MMD GAN: Towards Deeper Understanding of Moment Matching Network
+Chun-Liang Li (Carnegie Mellon University) · Wei-Cheng Chang (Carnegie Mellon University) · Yu Cheng (AI Foundations, IBM Research) · Yiming Yang (CMU) · Barnabas Poczos (Carnegie Mellon University)
+
+The Reversible Residual Network: Backpropagation Without Storing Activations
+Aidan N Gomez (University of Toronto) · Mengye Ren (University of Toronto) · Raquel Urtasun (University of Toronto) · Roger Grosse (University of Toronto)
+
+Fast Rates for Bandit Optimization with Upper-Confidence Frank-Wolfe
+Quentin Berthet (University of Cambridge) · Vianney Perchet (ENS Paris-Saclay & Criteo Research)
+
+Zap Q-Learning
+Adithya M Devraj (University of Florida) · Sean P Meyn (University of Florida)
+
+Expectation Propagation for t-Exponential Family Using Q-Algebra
+Futoshi Futami (University of Tokyo/RIKEN) · Issei Sato (The University of Tokyo/RIKEN) · Masashi Sugiyama (RIKEN / University of Tokyo)
+
+Few-Shot Learning Through an Information Retrieval Lens
+Eleni Triantafillou (University of Toronto) · Richard Zemel (University of Toronto) · Raquel Urtasun (University of Toronto)
+
+Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation
+Matthias Hein (Saarland University) · Maksym Andriushchenko (Saarland University)
+
+Associative Embedding: End-to-End Learning for Joint Detection and Grouping
+Alejandro Newell (University of Michigan) · Zhiao Huang (IIIS, Tsinghua University) · Jia Deng (University of Michigan)
+
+Practical Locally Private Heavy Hitters
+kobbi nissim (Georgetown University) · Raef Bassily (UCSD) · Uri Stemmer (Harvard University) · Abhradeep Thakurta (APPLE Inc)
+
+Large-Scale Quadratically Constrained Quadratic Program via Low-Discrepancy Sequences
+Kinjal Basu (LinkedIn) · Ankan Saha (University of Chicago) · Shaunak Chatterjee ()
+
+Inhomogoenous Hypergraph Clustering with Applications
+Pan Li (University of Illinois Urbana-Champaign) · Olgica Milenkovic (University of Illinois at Urbana-Champaign)
+
+Differentiable Learning of Logical Rules for Knowledge Base Reasoning
+Fan Yang (Carnegie Mellon University) · Zhilin Yang (Carnegie Mellon University) · William W Cohen (Carnegie Mellon University)
+
+Deep Multi-task Gaussian Processes for Survival Analysis with Competing Risks
+Ahmed Ibrahim (UCLA) · Mihaela van der Schaar (UCLA and Oxford University)
+
+Masked Autoregressive Flow for Density Estimation
+George Papamakarios (University of Edinburgh) · Iain Murray (University of Edinburgh) · Theo Pavlakou (The University of Edinburgh)
+
+Non-convex Finite-Sum Optimization Via SCSG Methods
+Lihua Lei (UC Berkeley) · Cheng Ju (University of California, Berkeley) · Jianbo Chen (University of California, Berkeley) · Michael Jordan (UC Berkeley)
+
+Beyond normality: Learning sparse probabilistic graphical models in the non-Gaussian setting
+Rebecca Morrison (Massachusetts Institute of Technology) · Ricardo Baptista (MIT) · Youssef Marzouk (Massachusetts Institute of Technology)
+
+Inner-loop free ADMM using Auxiliary Deep Neural Networks
+Kai Fan (Duke University) · Qi Wei (Duke University) · Katherine A Heller (Duke)
+
+OnACID: Online Analysis of Calcium Imaging Data in Real Time
+Andrea Giovannucci (Flatiron Institute, Simons Foundation) · Johannes Friedrich (Columbia University) · Matt Kaufman (Cold Spring Harbor Laboratory) · Anne Churchland (Cold Spring Harbor Laboratory) · Dmitri Chklovskii (Simons Foundation) · Liam Paninski (Columbia University) · Eftychios Pnevmatikakis (Flatiron Institute)
+
+Collaborative PAC Learning
+Avrim Blum (CMU) · Nika Haghtalab (Carnegie Mellon University) · Ariel D Procaccia (Carnegie Mellon University) · IIIS Mingda Qiao (IIIS, Tsinghua University)
+
+Fast Black-box Variational Inference through Stochastic Trust-Region Optimization
+Jeffrey Regier (UC Berkeley) · Michael Jordan (UC Berkeley) · Jon McAuliffe (UC Berkeley)
+
+Scalable Demand-Aware Recommendation
+Jinfeng Yi (IBM Thomas J. Watson Research Center) · Cho-Jui Hsieh (UC Davis) · Kush R Varshney (IBM Research) · Lijun Zhang (Nanjing University (NJU)) · Yao Li (University of California, Davis)
+
+SGD Learns the Conjugate Kernel Class of the Network
+Amit Daniely (Google Research)
+
+Noise-Tolerant Interactive Learning Using Pairwise Comparisons
+Yichong Xu (Carnegie Mellon University) · Hongyang Zhang (Carnegie Mellon University) · Aarti Singh (Carnegie Mellon University) · Artur Dubrawski (Carnegie Mellon University) · Kyle Miller (Carnegie Mellon University)
+
+Analyzing Hidden Representations in End-to-End Automatic Speech Recognition Systems
+Yonatan Belinkov (MIT)
+
+Generative Local Metric Learning for Kernel Regression
+Yung-Kyun Noh (Seoul National University) · Masashi Sugiyama (RIKEN / University of Tokyo) · Kee-Eung Kim (KAIST) · Frank Park (Seoul National University) · Daniel Lee (University of Pennsylvania)
+
+Information Theoretic Properties of Markov Random Fields, and their Algorithmic Applications
+Linus Hamilton (MIT) · Frederic Koehler (MIT) · Ankur Moitra ()
+
+Fitting Low-Rank Tensors in Constant Time
+Kohei Hayashi (AIST / RIKEN) · Yuichi Yoshida (National Institute of Informatics and Preferred Infrastructure, Inc.)
+
+Deep supervised discrete hashing
+Qi Li (Institute of Automation, Chinese Academy of Sciences) · Zhenan Sun (Institute of Automation, Chinese Academy of Sciences (CASIA)) · Ran He (CASIA) · Tieniu Tan (Chinese Academy of Sciences)
+
+Using Options and Covariance Testing for Long Horizon Off-Policy Policy Evaluation
+Zhaohan Guo (Carnegie Mellon University/Stanford) · Philip S. Thomas (CMU) · Emma Brunskill (CMU)
+
+How regularization affects the critical points in linear networks
+Amirhossein Taghvaei (University of Illinois at Urbana-Champaign) · Jin W Kim (University of Illinois) · Prashant Mehta (University of Illinois)
+
+Fisher GAN
+Youssef Mroueh (IBM T.J Watson Research Center) · Tom Sercu (IBM Research)
+
+Information-theoretic analysis of generalization capability of learning algorithms
+Maxim Raginsky (University of Illinois at Urbana-Champaign) · Aolin Xu (University of Illinois at Urbana-Champaign)
+
+Sparse Approximate Conic Hulls
+Greg Van Buskirk (UT Dallas) · Ben Raichel (UT Dallas) · Nicholas Ruozzi (UTDallas)
+
+Rigorous Dynamics and Consistent Estimation in Arbitrarily Conditioned Linear Systems
+Alyson Fletcher (UCLA, UCSC, & UC Berkeley) · Sundeep Rangan (NYU-Poly) · Mojtaba Sahraee-Ardakan (UCLA) · Philip Schniter (Ohio State University)
+
+Toward Goal-Driven Neural Network Models for the Rodent Whisker-Trigeminal System
+Chengxu Zhuang (Stanford University) · Jonas Kubilius (Massachusetts Institute of Technology) · Mitra JZ Hartmann (Northwestern University) · Daniel Yamins (Stanford University)
+
+Accuracy First: Selecting a Differential Privacy Level for Accuracy Constrained ERM
+Steven Wu (Microsoft Research) · Bo Waggoner () · Seth Neel (University of Pennsylvania) · Aaron Roth (University of Pennsylvania) · Katrina Ligett ()
+
+EX2: Exploration with Exemplar Models for Deep Reinforcement Learning
+Justin Fu (UC Berkeley) · John Co-Reyes (UC Berkeley) · Sergey Levine (UC Berkeley)
+
+Multitask Spectral Learning of Weighted Automata
+Guillaume Rabusseau (McGill University) · Borja Balle () · Joelle Pineau (McGill University)
+
+Multi-way Interacting Regression via Factorization Machines
+Mikhail Yurochkin (University of Michigan) · XuanLong Nguyen (University of Michigan) · nikolaos Vasiloglou (LogicBlox)
+
+Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network
+Wengong Jin (MIT CSAIL) · Connor W Coley (MIT Department of Chemical Engineering) · Regina Barzilay (Massachusetts Institute of Technology) · Tommi Jaakkola (MIT)
+
+Practical Data-Dependent Metric Compression with Provable Guarantees
+Piotr Indyk (MIT) · Ilya Razenshteyn (Columbia University) · Tal Wagner (MIT)
+
+REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models
+George Tucker (Google Brain) · Andriy Mnih () · Chris J Maddison (University of Oxford / DeepMind) · John Lawson (Google Brain) · Jascha Sohl-Dickstein (Google Brain)
+
+Nonlinear random matrix theory for deep learning
+Jeffrey Pennington (Google Brain) · Pratik Worah (Google)
+
+Parallel Streaming Wasserstein Barycenters
+Matthew Staib (MIT) · Sebastian Claici (MIT) · Justin M Solomon (MIT) · Stefanie Jegelka (MIT)
+
+ELF: An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games
+Yuandong Tian (Facebook AI Research) · Qucheng Gong (Facebook AI Research) · Wenling Shang (University of Amsterdam) · Yuxin Wu (Facebook AI Research) · C. Lawrence Zitnick (Facebook AI Research)
+
+Dual Discriminator Generative Adversarial Nets
+Tu Nguyen (Deakin University) · Trung Le (Deakin University) · Hung Vu (Deakin University) · Dinh Phung (Deakin University)
+
+Dynamic Revenue Sharing
+Santiago Balseiro (Duke University) · Max Lin (Google) · Vahab Mirrokni (Google Research NYC) · Renato Leme (Google Research) · IIIS Song Zuo (IIIS, Tsinghua University)
+
+Decomposition-Invariant Conditional Gradient for General Polytopes with Line Search
+Mohammad Ali Bashiri (University of Illinois at Chicago) · Xinhua Zhang (University of Illinois at Chicago)
+
+Multi-agent Predictive Modeling with Attentional CommNets
+Yedid Hoshen (Facebook AI Research)
+
+An Empirical Bayes Approach to Optimizing Machine Learning Algorithms
+James McInerney (Spotify Research)
+
+Differentially Private Empirical Risk Minimization Revisited: Faster and More General
+Di Wang (State University of New York at Buffalo) · Minwei Ye (University at Buffalo) · Jinhui Xu (SUNY at Buffalo)
+
+Variational Inference via $\chi$ Upper Bound Minimization
+Adji Bousso Dieng (Columbia University) · Dustin Tran (Columbia University & OpenAI) · Rajesh Ranganath (Princeton University) · John Paisley () · David Blei (Columbia University)
+
+On Quadratic Convergence of DC Proximal Newton Algorithm in Nonconvex Sparse Learning
+Xingguo Li (University of Minnesota) · Lin Yang () · Jason Ge (Princeton University) · Jarvis Haupt (University of Minnesota) · Tong Zhang (Tencent AI Lab) · Tuo Zhao (Georgia Tech)
+
+#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning
+Haoran Tang (UC Berkeley) · Pieter Abbeel (OpenAI / UC Berkeley / Gradescope) · Davis Foote (Google Brain) · Yan Duan () · OpenAI Xi Chen (OpenAI, UC Berkeley) · Rein Houthooft (OpenAI) · Adam Stooke (UC Berkeley) · Filip DeTurck ()
+
+An Empirical Study on The Properties of Random Bases for Kernel Methods
+Maximilian Alber (TU Berlin) · Pieter-Jan Kindermans (Google Brain Resident) · Kristof Schütt (TU Berlin) · Klaus-Robert Müller (TU Berlin) · Fei Sha (University of Southern California (USC))
+
+Bridging the Gap Between Value and Policy Based Reinforcement Learning
+Ofir Nachum (Google) · Mohammad Norouzi () · Kelvin Xu (Google) · Dale Schuurmans (Google)
+
+Premise Selection for Theorem Proving by Deep Graph Embedding
+Mingzhe Wang (University of Michigan) · Yihe Tang (University of Michigan) · Jian Wang (University of Michigan) · Jia Deng (University of Michigan)
+
+A Bayesian Data Augmentation Approach for Learning Deep Models
+Toan Tran (The University of Adelaide) · Trung T Pham (The University of Adelaide) · Gustavo Carneiro (The University of Adelaide) · Lyle Palmer (The University of Adelaide) · Ian Reid (University of Adelaide)
+
+Principles of Riemannian Geometry in Neural Networks
+Michael Hauser (Pennsylvania State University) · Asok Ray (Pennsylvania State University)
+
+Cold-Start Reinforcement Learning with Softmax Policy Gradients
+Nan Ding (Google) · Radu Soricut (Google)
+
+Online Dynamic Programming
+Holakou Rahmanian (University of California at Santa Cruz) · Manfred K Warmuth (Univ. of Calif. at Santa Cruz)
+
+Alternating Estimation for Structured High-Dimensional Multi-Response Models
+Sheng Chen (University of Minnesota) · Arindam Banerjee (University of Minnesota)
+
+Convolutional Gaussian Processes
+Mark van der Wilk (University of Cambridge) · Carl Edward Rasmussen (University of Cambridge) · James Hensman (PROWLER.io)
+
+Estimation of the covariance structure of heavy-tailed distributions
+Xiaohan Wei (University of Southern California) · Stanislav Minsker (USC)
+
+Mean Field Residual Networks: On the Edge of Chaos
+Ge Yang (Harvard University)
+
+Decomposable Submodular Function Minimization: Discrete and Continuous
+Alina Ene (University of Warwick) · Huy Nguyen (Northeastern University) · Laszlo Vegh (London School of Economics)
+
+Gauging Variational Inference
+Sung-Soo Ahn (KAIST) · Michael Chertkov (Los Alamos National Laboratory) · Jinwoo Shin (KAIST)
+
+Deep Recurrent Neural Network-Based Identification of Precursor microRNAs
+Seunghyun Park (Seoul National University) · Seonwoo Min (Seoul National University) · Hyun-soo Choi (Seoul Nation University) · Sungroh Yoon (Seoul National University)
+
+Robust Estimation of Neural Signals in Calcium Imaging
+Hakan Inan (Stanford University) · Murat Erdogdu (Microsoft Research) · Mark Schnitzer (Stanford University)
+
+State Aware Imitation Learning
+Yannick Schroecker (Georgia Institute of Technology) · Charles L Isbell (Georgia Tech)
+
+Beyond Parity: Fairness Objectives for Collaborative Filtering
+Sirui Yao (Virginia Polytechnic Institute and State University) · Bert Huang (Virginia Tech)
+
+A PAC-Bayesian Analysis of Randomized Learning with Application to Stochastic Gradient Descent
+Ben London (Amazon)
+
+Fully Decentralized Policies for Multi-Agent Systems: An Information Theoretic Approach
+Roel Dobbe (UC Berkeley) · David Fridovich-Keil (UC Berkeley) · Claire Tomlin (UC Berkeley)
+
+Model-Powered Conditional Independence Test
+Rajat Sen (University of Texas at Austin) · Ananda Theertha Suresh (Google) · Karthikeyan Shanmugam (IBM Research, NY) · Alexandros Dimakis (University of Texas, Austin) · Sanjay Shakkottai (The University of Texas at Austin)
+
+Deep Voice 2: Multi-Speaker Neural Text-to-Speech
+Andrew Gibiansky (Baidu Research)
+
+Variance-based Regularization with Convex Objectives
+Hongseok Namkoong (Stanford University) · John C Duchi (Stanford)
+
+Deep Lattice Networks and Partial Monotonic Functions
+Seungil You (Google) · David Ding (Google) · Kevin Canini (Google) · Jan Pfeifer (Google) · Maya Gupta (Google)
+
+Continual Learning with Deep Generative Replay
+Hanul Shin (Massachusetts Institute of Technology) · Jung Kwon Lee (SK T-Brain) · Jaehong Kim (T-Brain) · Jiwon Kim (SK T-Brain)
+
+AIDE: An algorithm for measuring the accuracy of probabilistic inference algorithms
+Marco Cusumano-Towner (Massachusetts Institute of Technology) · Vikash K Mansinghka (Massachusetts Institute of Technology)
+
+Learning Causal Structures Using Regression Invariance
+AmirEmad Ghassami (University of Illinois at Urbana–Champaign) · Saber Salehkaleybar (University of Illinois at Urbana-Champaign) · Negar Kiyavash (UIUC) · Kun Zhang (CMU)
+
+Online Influence Maximization under Independent Cascade Model with Semi-Bandit Feedback
+Zheng Wen (Adobe Research) · Branislav Kveton (Adobe Research) · Michal Valko (Inria Lille - Nord Europe) · Sharan Vaswani (University of British Columbia)
+
+Minimax Optimal Players for the Finite-Time 3-Expert Prediction Problem
+Yasin Abbasi (Adobe Research) · Peter Bartlett (UC Berkeley) · Victor Gabillon (QUT - ACEMS)
+
+Reinforcement Learning under Model Mismatch
+Aurko Roy (Google Brain) · Huan Xu () · Sebastian Pokutta (Georgia Institute of Technology)
+
+Hierarchical Attentive Recurrent Tracking
+Adam Kosiorek (University of Oxford) · Alex Bewley (University of Oxford) · Ingmar Posner (Oxford University)
+
+Tomography of the London Underground: a Scalable Model for Origin-Destination Data
+Nicolò Colombo (University College London) · Ricardo Silva (University College London) · Soong Moon Kang (University College London)
+
+Rotting Bandits
+Nir Levine (Technion - Israel Institute of Technology) · Koby Crammer (Technion) · Shie Mannor (Technion)
+
+Unbiased estimates for linear regression via volume sampling
+Michal Derezinski (UC Santa Cruz) · Manfred K Warmuth (Univ. of Calif. at Santa Cruz)
+
+An Applied Algorithmic Foundation for Hierarchical Clustering
+Joshua Wang (Stanford University) · Benjamin Moseley (Washington University in St Lo)
+
+Adaptive Accelerated Gradient Converging Method under H\"{o}lderian Error Bound Condition
+Mingrui Liu (The University of Iowa) · Tianbao Yang (The University of Iowa)
+
+Stein Variational Gradient Descent as Gradient Flow
+Qiang Liu (Dartmouth College)
+
+Partial Hard Thresholding: A Towards Unified Analysis of Support Recovery
+Jie Shen (Rutgers University) · Ping Li (Rugters University)
+
+Shallow Updates for Deep Reinforcement Learning
+Nir Levine (Technion - Israel Institute of Technology) · Tom Zahavy (The Technion) · Daniel J Mankowitz (Technion) · Aviv Tamar (UC Berkeley) · Shie Mannor (Technion)
+
+A Highly Efficient Gradient Boosting Decision Tree
+Guolin Ke (Microsoft Research) · Qi Meng (Peking University) · Taifeng Wang (Microsoft Research) · Wei Chen (Microsoft Research) · Weidong Ma (Microsoft Research) · Tie-Yan Liu (Microsoft Research)
+
+Adversarial Ranking for Language Generation
+Dianqi Li (University of Washington) · Kevin Lin (University of Washington) · Xiaodong He (Microsoft Research, Redmond, WA) · Ming-ting Sun (University of Washington) · Zhengyou Zhang (Microsoft Research)
+
+Regret Minimization in MDPs with Options without Prior Knowledge
+Ronan Fruit (Inria Lille) · Matteo Pirotta (INRIA Lille-Nord Europe) · Alessandro Lazaric (INRIA Lille-Nord Europe) · Emma Brunskill (CMU)
+
+Net-Trim: Convex Pruning of Deep Neural Networks with Performance Guarantee
+Alireza Aghasi (IBM TJ Watson Research Center) · Nam Nguyen (IBM Thomas J. Watson Research Center) · Justin Romberg (Georgia Institute of Technology)
+
+Graph Matching via Multiplicative Update Algorithm
+Bo Jiang (Anhui University) · Jin Tang () · Bin Luo ()
+
+Dynamic Importance Sampling for Anytime Bounds of the Partition Function
+Qi Lou (UCI) · Rina Dechter (UCI) · Alexander Ihler (UC Irvine)
+
+Is the Bellman residual a bad proxy?
+Matthieu Geist (Université de Lorraine) · Bilal Piot (DeepMind) · Olivier Pietquin (DeepMind)
+
+Generalization Properties of Learning with Random Features
+Alessandro Rudi (INRIA) · Lorenzo Rosasco (University of Genova- MIT - IIT)
+
+Differentially private Bayesian learning on distributed data
+Mikko Heikkilä (University of Helsinki) · Eemil Lagerspetz (University of Helsinki) · Samuel Kaski (Aalto University) · Kana Shimizu (Waseda University) · Sasu Tarkoma (University of Helsinki) · Antti Honkela (University of Helsinki)
+
+Learning to Compose Domain-Specific Transformations for Data Augmentation
+Alexander Ratner (Stanford) · Henry Ehrenberg (Stanford University) · Zeshan Hussain (Stanford University) · Jared Dunnmon (Stanford University) · Christopher Ré (Stanford)
+
+Wasserstein Learning of Deep Generative Point Process Models
+SHUAI XIAO (Georgia Institute of Technology) · Mehrdad Farajtabar (Georgia Tech) · Xiaojing Ye (Georgia State University) · Junchi Yan (IBM Research - China) · Le Song (Georgia Institute of Technology) · Hongyuan Zha (Georgia Tech)
+
+Ensemble Sampling
+Xiuyuan Lu (Stanford University) · Benjamin Van Roy (Stanford University)
+
+Language modeling with recurrent highway hypernetworks
+Joseph Suarez (Stanford University)
+
+Searching in the Dark: Practical SVRG Methods under Error Bound Conditions with Guarantee
+Yi Xu (The University of Iowa) · Univ Qihang Lin (Univ Iowa, faculty) · Tianbao Yang (The University of Iowa)
+
+Bayesian Compression for Deep Learning
+Christos Louizos (University of Amsterdam) · Karen Ullrich (University of Amsterdam) · Max Welling (University of Amsterdam and University of California Irvine and CIFAR)
+
+Streaming Sparse Gaussian Process Approximations
+Thang D Bui (University of Cambridge) · Cuong Nguyen (University of Cambridge) · Richard E Turner (University of Cambridge)
+
+VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning
+Akash Srivastava (University of Edinburgh) · Lazar Valkoz (University of Edinburgh) · Chris Russell (The Alan Turing Institute/ The University of Surrey) · Michael Gutmann (University of Edinburgh) · Charles Sutton (University of Edinburgh)
+
+Sparse k-Means Embedding
+Weiwei Liu (UTS) · Xiaobo Shen (NJUST) · Ivor Tsang (University of Technology, Sydney)
+
+Utile Context Tree Weighting
+Joao V Messias (Morpheus Labs) · Shimon Whiteson (Oxford University)
+
+A Regularized Framework for Sparse and Structured Neural Attention
+Vlad Niculae (Cornell University) · Mathieu Blondel (NTT)
+
+Multi-output Polynomial Networks and Factorization Machines
+Mathieu Blondel (NTT) · Vlad Niculae (Cornell University) · Takuma Otsuka (NTT Communication Science Labs) · Naonori Ueda (NTT Communication Science Laboratories)
+
+Clustering Billions of Reads for DNA Data Storage
+Cyrus Rashtchian (University of Washington) · Konstantin Makarychev (Microsoft) · Luis Ceze (Microsoft) · Karin Strauss (Microsoft Research) · Sergey Yekhanin (Microsoft) · Djordje Jevdjic (Microsoft Research) · Miklos Racz (Princeton University) · Siena Ang (Microsoft)
+
+Multi-Objective Non-parametric Sequential Prediction
+Guy Uziel (Technion) · Ran El-Yaniv (Technion)
+
+A Universal Analysis of Large-Scale Regularized Least Squares Solutions
+Ashkan Panahi (North Carolina State University) · Babak Hassibi (Caltech)
+
+Deep Sets
+Manzil Zaheer (Carnegie Mellon University) · Satwik Kottur (Carnegie Mellon University) · Siamak Ravanbakhsh (CMU/UBC) · Barnabas Poczos (Carnegie Mellon University) · Ruslan Salakhutdinov () · Alexander Smola (Amazon - We are hiring!)
+
+ExtremeWeather: A large-scale climate dataset for semi-supervised detection, localization, and understanding of extreme weather events
+MILA Tegan Maharaj (MILA, Polytechnic Montreal) · Evan Racah () · Christopher J Beckham (Montreal Institute of Learning Algorithms) · Mr. Prabhat (LBL/NERSC) · Chris Pal (Montréal Institute for Learning Algorithms)
+
+Process-constrained batch Bayesian optimisation
+Pratibha Vellanki (Deakin University) · Santu Rana (Deakin University) · Sunil Gupta (Deakin University) · David Rubin () · Alessandra Sutti (Deakin University) · Thomas Dorin (Deakin University) · Murray Height () · Paul Sanders () · Svetha Venkatesh (Deakin University)
+
+Bayesian Inference of Individualized Treatment Effects using Multi-task Gaussian Processes
+Ahmed Ibrahim (UCLA) · Mihaela van der Schaar (UCLA and Oxford University)
+
+Spherical convolutions and their application in molecular modelling
+Wouter Boomsma (University of Copenhagen) · Jes Frellsen (IT University of Copenhagen)
+
+Efficient Optimization for Linear Dynamical Systems with Applications to Clustering and Sparse Coding
+Wenbing Huang (Tencent AI Lab) · Fuchun Sun (Tsinghua University) · Tong Zhang (The Australian National University) · Junzhou Huang (University of Texas at Arlington) · Mehrtash Harandi (Data61)
+
+On Optimal Generalizability in Parametric Learning
+Ahmad Beirami (Harvard University & MIT) · Meisam Razaviyayn (University of Southern California) · Shahin Shahrampour (Harvard University) · Vahid Tarokh (Harvard University)
+
+Near Optimal Sketching of Low-Rank Tensor Regression
+Xingguo Li (University of Minnesota) · Jarvis Haupt (University of Minnesota) · David Woodruff ()
+
+Tractability in Structured Probability Spaces
+Arthur Choi (UCLA) · Yujia Shen (UCLA) · Adnan Darwiche (UCLA)
+
+Model-based Bayesian inference of neural activity and connectivity from all-optical interrogation of a neural circuit
+Laurence Aitchison (University of Cambridge) · Lloyd Russell (University College London) · Adam Packer (University College London) · Jinyao Yan (Janelia Research Campus) · Philippe Castonguay (University of Montreal) · Michael Hausser (UCL) · Srinivas C Turaga (Janelia Research Campus, Howard Hughes Medical Institute)
+
+Gaussian process based nonlinear latent structure discovery in multivariate spike train data
+Anqi Wu (Princeton University) · Nicholas Roy (Princeton Neuroscience Institute) · Stephen Keeley (Princeton University) · Jonathan W Pillow (Princeton University)
+
+Neural system identification for large populations separating "what" and "where"
+David Klindt (CIN, University of Tuebingen) · Alexander Ecker (University of Tuebingen) · Thomas Euler (University of Tübingen) · Matthias Bethge (CIN, University Tübingen)
+
+Certified Defenses for Data Poisoning Attacks
+Jacob Steinhardt (Stanford University) · Pang Wei W Koh (Stanford University) · Percy Liang (Stanford University)
+
+Eigen-Distortions of Hierarchical Representations
+Alexander Berardino (New York University) · Valero Laparra (Universitat de València) · Johannes Ballé (Google Inc.) · Eero P Simoncelli (HHMI / New York University)
+
+Limitations on Variance-Reduction and Acceleration Schemes for Finite Sums Optimization
+Yossi Arjevani (The Weizmann Institute)
+
+Unsupervised Sequence Classification using Sequential Output Statistics
+Yu Liu (SUNY Buffalo) · Jianshu Chen (Microsoft Research, Redmond, W) · Li Deng (Citadel)
+
+Subset Selection under Noise
+Chao Qian (University of Science and Technology of China) · Jing-Cheng Shi (Nanjing University) · Yang Yu () · Ke Tang (University of Science and Technology of China) · Zhi-Hua Zhou (Nanjing University)
+
+Collecting Telemetry Data Privately
+Bolin Ding (Microsoft) · Janardhan Kulkarni (Microsoft Research) · Sergey Yekhanin (Microsoft)
+
+Concrete Dropout
+Yarin Gal (University of Oxford) · Jiri Hron (University of Cambridge) · Alex Kendall (University of Cambridge)
+
+Adaptive Batch Size for Safe Policy Gradients
+Matteo Papini (Politecnico di Milano) · Matteo Pirotta (INRIA Lille-Nord Europe) · Marcello Restelli ()
+
+A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning
+Marco Fraccaro (Technical University of Denmark (DTU)) · Simon Kamronn (Technical University of Denmark) · Ulrich Paquet () · Ole Winther (Technical University of Denmark)
+
+PASS-GLM: polynomial approximate sufficient statistics for scalable Bayesian GLM inference
+Jonathan Huggins (Massachusetts Institute of Technology) · Ryan Adams () · Tamara Broderick (MIT)
+
+Bayesian GANs
+Yunus Saatci (Uber AI Labs) · Andrew Wilson (Cornell University)
+
+Off-policy evaluation for slate recommendation
+Adith Swaminathan (Microsoft Research) · Akshay Krishnamurthy () · Alekh Agarwal (Microsoft Research) · Miro Dudik (Microsoft Research) · John Langford (Microsoft Research) · Damien Jose (Microsoft) · Imed Zitouni (Microsoft)
+
+A multi-agent reinforcement learning model of common-pool resource appropriation
+Julien Pérolat (CNRS) · Joel Leibo (DeepMind) · Vinicius Zambaldi (Deepmind) · Charles Beattie (DeepMind) · Karl Tuyls (University of Liverpool) · Thore Graepel (DeepMind)
+
+On the Optimization Landscape of Tensor Decompositions
+Rong Ge (Duke University) · Tengyu Ma (Facebook AI Research)
+
+High-Order Attention Models for Visual Question Answering
+Idan Schwartz (Technion) · Alexander Schwing (University of Illinois at Urbana-Champaign) · Tamir Hazan (Technion)
+
+Sparse convolutional coding for neuronal assembly detection
+Sven Peter (University Heidelberg) · Elke Kirschbaum (HCI/IWR, Heidelberg University) · Martin Both (Institute for Physiology and Pathophysiology Heidelberg University) · Intramural Lee Campbell (Intramural Research Program, National Institute on Drug Abuse) · Intramural Brandon Harvey (Intramural Research Program, National Institute on Drug Abuse) · Intramural Conor Heins (Intramural Research Program, National Institute on Drug Abuse) · Daniel Durstewitz (CIMH Heidelberg University) · Ferran Diego () · Fred Hamprecht (Heidelberg University)
+
+Quantifying how much sensory information in a neural code is relevant for behavior
+Giuseppe Pica (Istituto Italiano di Tecnologia) · Eugenio Piasini (Istituto Italiano di Tecnologia) · Houman Safaai (Harvard Medical School) · Caroline Runyan (University of Pittsburgh) · Christopher Harvey (Harvard Medical School) · Mathew Diamond (International School for Advanced Studies) · Christoph Kayser (University of Glasgow) · Tommaso Fellin (Istituto Italiano di Tecnologia) · Stefano Panzeri (Istituto Italiano di Tecnologia)
+
+Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks
+Federico Monti (Università della Svizzera italiana) · Michael Bronstein (USI Lugano / Tel Aviv University / Intel) · Xavier Bresson (NTU)
+
+Reducing Reparameterization Gradient Variance
+Andrew Miller (Harvard) · Nick Foti (University of Washington) · Alexander D'Amour () · Ryan Adams ()
+
+Visual Reference Resolution using Attention Memory for Visual Dialog
+Paul Hongsuck Seo (POSTECH) · Andreas Lehrmann (Disney Research) · Bohyung Han (POSTECH) · Leonid Sigal (Disney Research / University of British Columbia)
+
+Joint distribution optimal transportation for domain adaptation
+Nicolas Courty (IRISA / University South Brittany) · Rémi Flamary (Université Côte d'Azur) · Amaury Habrard (University of Saint-Etienne, Univ. Lyon, Lab. H Curien, France) · Alain Rakotomamonjy (Université de Rouen Normandie)
+
+Multiresolution Kernel Approximation for Gaussian Process Regression
+Yi Ding (University of Chicago) · Risi Kondor (The University of Chicago) · Jonathan Eskreis-Winkler (University of Chicago)
+
+Collapsed variational Bayes for Markov jump processes
+Boqian Zhang (Purdue University) · Jiangwei Pan (Facebook) · Vinayak A Rao (Purdue University)
+
+Universal consistency and minimax rates for online Mondrian Forest
+Jaouad Mourtada (Ecole Polytechnique) · Stéphane Gaïffas (Ecole polytechnique) · Erwan Scornet (Ecole Polytechnique)
+
+Efficiency Guarantees from Data
+Darrell Hoy (Tremor Technologies) · Denis Nekipelov (University of Virginia) · Vasilis Syrgkanis (Microsoft Research)
+
+Diving into the shallows: a computational perspective on large-scale shallow learning
+SIYUAN MA (The Ohio State University) · Mikhail Belkin (Ohio State University)
+
+End-to-end Differentiable Proving
+Tim Rocktäschel (University of Oxford) · Sebastian Riedel (University College London)
+
+Influence Maximization with $\varepsilon$-Almost Submodular Threshold Function
+Qiang Li (Institute of Computing Technol) · Wei Chen (Microsoft Research) · Institute of Computing Xiaoming Sun (Institute of Computing Technology, Chinese Academy of Sciences) · Institute of Computing Jialin Zhang (Institute of Computing Technology, Chinese Academy of Sciences)
+
+Inferring The Latent Structure of Human Decision-Making from Raw Visual Inputs
+Yunzhu Li (MIT) · Jiaming Song (Stanford University) · Stefano Ermon (Stanford)
+
+Variational Laws of Visual Attention for Dynamic Scenes
+Dario Zanca (University of Florence, University of Siena) · Marco Gori ()
+
+Recursive Sampling for the Nystrom Method
+Cameron Musco (Massachusetts Institute of Technology) · Christopher Musco (Mass. Institute of Technology)
+
+Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement Learning
+Shixiang Gu (University of Cambridge and Max Planck Institute for Intelligent Systems ) · Tim Lillicrap (Google DeepMind) · Richard E Turner (University of Cambridge) · Zoubin Ghahramani (Uber and University of Cambridge) · Bernhard Schölkopf (MPI for Intelligent Systems) · Sergey Levine (UC Berkeley)
+
+Dynamic Routing Between Capsules
+Sara Sabour (Google) · Nicholas Frosst (Google) · Geoffrey E Hinton (Google & University of Toronto)
+
+Incorporating Side Information by Adaptive Convolution
+Di Kang (City University of Hong Kong) · Debarun Dhar (City University of Hong Kong) · Antoni Chan (City University of Hong Kong)
+
+Conic Scan Coverage algorithm for nonparametric topic modeling
+Mikhail Yurochkin (University of Michigan) · Aritra Guha (University of Michigan) · XuanLong Nguyen (University of Michigan)
+
+FALKON: An Optimal Large Scale Kernel Method
+Alessandro Rudi (INRIA) · Luigi Carratino (University of Genoa) · Lorenzo Rosasco (University of Genova- MIT - IIT)
+
+Structured Generative Adversarial Networks
+Hao Zhang (Carnegie Mellon University) · Zhijie Deng (Tsinghua University) · Xiaodan Liang (Carnegie Mellon University) · Jun Zhu (Tsinghua University) · Eric P Xing (Carnegie Mellon University)
+
+Conservative Contextual Linear Bandits
+Abbas Kazerouni (Stanford University) · Mohammad Ghavamzadeh (DeepMind) · Yasin Abbasi (Adobe Research) · Benjamin Van Roy (Stanford University)
+
+Variational Memory Addressing in Generative Models
+Jörg Bornschein (DeepMind) · Andriy Mnih () · Daniel Zoran (DeepMind) · Danilo Jimenez Rezende (Google DeepMind)
+
+On Tensor Train Rank Minimization : Statistical Efficiency and Scalable Algorithm
+Masaaki Imaizumi (Institute of Statistical Mathematics / RIKEN) · Takanori Maehara (RIKEN AIP) · Kohei Hayashi (AIST / RIKEN)
+
+Scalable Levy Process Priors for Spectral Kernel Learning
+Phillip A Jang (Cornell University) · Andrew Loeb (Cornell University) · Matthew Davidow (Cornell University) · Andrew Wilson (Cornell University)
+
+Deep Hyperspherical Learning
+Weiyang Liu (Georgia Tech) · Yan-Ming Zhang (Institute of Automation, Chinese Academy of Sciences) · Xingguo Li (University of Minnesota) · Zhiding Yu (Carnegie Mellon University) · Bo Dai (Georgia Tech) · Tuo Zhao (Georgia Tech) · Le Song (Georgia Institute of Technology)
+
+Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction
+Dan Xu (University of Trento) · Wanli Ouyang (The Chinese University of Hong Kong) · Xavier Alameda-Pineda (INRIA) · Elisa Ricci () · Xiaogang Wang (The Chinese University of Hong Kong) · Nicu Sebe (University of Trento)
+
+On-the-fly Operation Batching in Dynamic Computation Graphs
+Graham Neubig (Carnegie Mellon University) · Yoav Goldberg (Bar-Ilan University) · Chris Dyer (DeepMind)
+
+Nonlinear Acceleration of Stochastic Algorithms
+Damien Scieur (INRIA - ENS) · Francis Bach (Inria) · Alexandre d'Aspremont (CNRS - Ecole Normale Supérieure)
+
+Optimized Pre-Processing for Discrimination Prevention
+Flavio Calmon (Harvard University) · Dennis Wei (IBM Research) · Karthikeyan Ramamurthy () · Bhanukiran Vinzamuri (IBM Research) · Kush R Varshney (IBM Research)
+
+YASS: Yet Another Spike Sorter
+Jin Hyung Lee (Columbia University) · David E Carlson (Duke University) · Hooshmand Shokri Razaghi (Columbia University) · Weichi Yao (Columbia University) · Georges A Goetz (Stanford University) · E.J. Chichilnisky (Stanford University) · Espen Hagen () · Gaute T. Einevoll (Norwegian University of Life Sciences) · Liam Paninski (Columbia University)
+
+Independence clustering (without a matrix)
+Daniil Ryabko (INRIA)
+
+Fast amortized inference of neural activity from calcium imaging data with variational autoencoders
+Artur Speiser (research center caesar, an associate of the Max Planck Society) · Jinyao Yan (Janelia Research Campus) · Evan Archer () · Lars Buesing (DeepMind) · Srinivas C Turaga (Janelia Research Campus, Howard Hughes Medical Institute) · Jakob H Macke (research center caesar, an associate of the Max Planck Society)
+
+Adaptive Active Hypothesis Testing under Limited Information
+Fabio Cecchi (Eindhoven University of Technology) · Nidhi Hegde (Nokia Bell Labs)
+
+Streaming Weak Submodularity: Interpreting Neural Networks on the Fly
+Ethan Elenberg (University of Texas at Austin) · Alexandros Dimakis (University of Texas, Austin) · Moran Feldman (Open University of Israel) · Amin Karbasi (Yale)
+
+Successor Features for Transfer in Reinforcement Learning
+Andre Barreto (DeepMind) · Will Dabney (DeepMind) · Remi Munos (DeepMind) · Jonathan Hunt (DeepMind) · Tom Schaul (DeepMind) · David Silver (DeepMind) · Hado van Hasselt (DeepMind)
+
+Counterfactual Fairness
+Matt Kusner (Alan Turing Institute) · Joshua Loftus (The Alan Turing Institute) · Chris Russell (The Alan Turing Institute/ The University of Surrey) · Ricardo Silva (University College London)
+
+Prototypical Networks for Few-shot Learning
+Jake Snell (University of Toronto) · Kevin Swersky (Google Brain) · Richard Zemel (University of Toronto)
+
+Triple Generative Adversarial Nets
+Chongxuan LI (Tsinghua University) · Kun Xu () · Jun Zhu (Tsinghua University) · Bo Zhang (Tsinghua University)
+
+Efficient Sublinear-Regret Algorithms for Online Sparse Linear Regression
+Shinji Ito (NEC Coorporation) · Akihiro Yabe () · Ken-Ichi Kawarabayashi () · Naonori Kakimura () · Takuro Fukunaga (National Institute of Informatics) · Daisuke Hatano (National Institute of Informatics) · Hanna Sumita (National Institute of Informatics)
+
+Mapping distinct timescales of functional interactions among brain networks
+Mali Sundaresan (Indian Institute of Science) · Arshed Nabeel (Indian Institute of Science, Bangalore) · Devarajan Sridharan ()
+
+Multi-Armed Bandits with Metric Movement Costs
+Tomer Koren (Google) · Roi Livni (Princeton) · Yishay Mansour (Tel Aviv University)
+
+Learning A Structured Optimal Bipartite Graph for Co-Clustering
+Feiping Nie (University of Texas Arlington) · Xiaoqian Wang (University of Pittsburgh) · Heng Huang (Computer Science and Engineering University of Texas at Arlington)
+
+Learning Low-Dimensional Metrics
+Blake Mason (University of Wisconsin - Madison) · Lalit Jain (University of Michigan) · Robert Nowak (University of Wisconsion-Madison)
+
+The Marginal Value of Adaptive Gradient Methods in Machine Learning
+Ashia C Wilson (UC Berkeley) · Rebecca Roelofs (UC Berkeley) · Mitchell Stern (UC Berkeley) · Nati Srebro (TTI-Chicago) · Benjamin Recht (UC Berkeley)
+
+Aggressive Sampling for Multi-class to Binary Reduction with Applications to Text Classification
+Bikash Joshi (University of Grenoble Alpes) · Massih-Reza Amini (University Grenoble Alps) · Ioannis Partalas (Expedia LPS Geneva) · Franck Iutzeler (Univ. Grenoble Alpes) · Yury Maximov (Los Alamos National Laboratory and Skolkovo Institute of Science and Technology)
+
+Deconvolutional Paragraph Representation Learning
+Yizhe Zhang (Duke University) · Dinghan Shen (Duke University) · Guoyin Wang (Duke University) · zhe Gan (duke) · Ricardo Henao (Duke University) · Lawrence Carin (Duke University)
+
+Random Permutation Online Isotonic Regression
+Wojciech Kotlowski (Poznan University of Technology) · Wouter Koolen (Centrum Wiskunde & Informatica) · Alan Malek (MIT)
+
+A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning
+Marc Lanctot () · Vinicius Zambaldi (Deepmind) · Audrunas Gruslys (Google DeepMind) · Angeliki Lazaridou (DeepMind) · karl Tuyls (DeepMind) · Julien Perolat () · David Silver (DeepMind) · Thore Graepel (DeepMind)
+
+Inverse Filtering for Hidden Markov Models
+Robert Mattila (KTH Royal Institute of Technology) · Cristian Rojas (KTH Royal Institute of Technology) · Vikram Krishnamurthy (Cornell University) · Bo Wahlberg (KTH Royal Inst. of Technology)
+
+Non-parametric Neural Networks
+Andreas Lehrmann (Disney Research) · Leonid Sigal (Disney Research / University of British Columbia)
+
+Learning Active Learning from Data
+Ksenia Konyushkova (EPFL) · Raphael Sznitman (University of Bern) · Pascal Fua ()
+
+VAE Learning via Stein Variational Gradient Descent
+Yuchen Pu (Duke University) · zhe Gan (duke) · Ricardo Henao (Duke University) · Chunyuan Li (Duke University) · Shaobo Han (Duke University) · Lawrence Carin (Duke University)
+
+Deep adversarial neural decoding
+Yağmur Güçlütürk (Radboud University) · Umut Güçlü (Donders Institute) · Katja Seeliger (Donders Institute for Brain, Cognition and Behaviour) · Sander Bosch (Radboud University) · Rob van Lier (Donders Institute for Brain, Cognition and Behaviour, Radboud University) · Marcel A. J. van Gerven (Radboud Universiteit)
+
+Efficient Use of Limited-Memory Resources to Accelerate Linear Learning
+Celestine Dünner (IBM Research) · Thomas Parnell (IBM Research) · Martin Jaggi (EPFL)
+
+Temporal Coherency based Criteria for Predicting Video Frames using Deep Multi-stage Generative Adversarial Networks
+Prateep Bhattacharjee (Indian Institute of Technology Madras) · Sukhendu Das (IIT Madras)
+
+Sobolev Training for Neural Networks
+Wojciech M. Czarnecki (DeepMind) · Simon Osindero (DeepMind) · Max Jaderberg (DeepMind) · Grzegorz M Swirszcz (DeepMind @ Google) · Razvan Pascanu (Google DeepMind)
+
+Multi-Information Source Optimization
+Matthias Poloczek (Cornell University) · Jialei Wang (Cornell) · Peter Frazier (Cornell University)
+
+Deep Reinforcement Learning from Human Preferences
+Paul F Christiano (OpenAI) · Jan Leike (DeepMind) · Tom Brown (OpenAI) · Miljan Martic (DeepMind) · Shane Legg (DeepMind) · Dario Amodei (OpenAI)
+
+On the Fine-Grained Complexity of Empirical Risk Minimization: Kernel Methods and Neural Networks
+Arturs Backurs (MIT) · Piotr Indyk (MIT) · Ludwig Schmidt (MIT)
+
+Policy Gradient With Value Function Approximation For Collective Multiagent Planning
+Duc Thien Nguyen (Singapore Management University) · Akshat Kumar (Singapore Management Universit) · Hoong Chuin Lau (Singapore Management University)
+
+Adversarial Symmetric Variational Autoencoder
+Yuchen Pu (Duke University) · Weiyao Wang (Duke University) · Ricardo Henao (Duke University) · Liqun Chen (Duke University) · zhe Gan (duke) · Chunyuan Li (Duke University) · Lawrence Carin (Duke University)
+
+Tensor encoding and decomposition of brain connectomes with application to tractography evaluation
+Cesar F Caiafa (Indiana University) · Olaf Sporns (Department of Psychological and Brain Sciences - Indiana University) · Andrew Saykin (IUPUI) · Franco Pestilli (Indiana University)
+
+A Minimax Optimal Algorithm for Crowdsourcing
+Richard Combes (Centrale-Supelec) · Thomas Bonald (Telecom ParisTech)
+
+Estimating Accuracy from Unlabeled Data: A Probabilistic Logic Approach
+Emmanouil Platanios (Carnegie Mellon University) · Hoifung Poon (Microsoft Research) · Tom M Mitchell (Carnegie Mellon University) · Eric J Horvitz (Microsoft Research)
+
+A Decomposition of Forecast Error in Prediction Markets
+Miro Dudik (Microsoft Research) · Sebastien Lahaie (Google) · Ryan M Rogers (University of Pennsylvania) · Jennifer Wortman Vaughan (Microsoft Research)
+
+Safe Adaptive Importance Sampling
+Sebastian Stich (EPFL) · Anant Raj (Max Planck Institute for Intelligent Systems) · Martin Jaggi (EPFL)
+
+Variational Walkback: Learning a Transition Operator as a Stochastic Recurrent Net
+Anirudh Goyal ALIAS PARTH GOYAL (Université de Montréal) · Nan Ke (MILA, École Polytechnique de Montréal) · Surya Ganguli (Stanford) · Yoshua Bengio (U. Montreal)
+
+Polynomial Codes: an Optimal Design for High-Dimensional Coded Matrix Multiplication
+Qian Yu (University of Southern Califor) · Mohammad Maddah-Ali (Nokia Bell Labs) · Salman Avestimehr (USC)
+
+Unsupervised Learning of Disentangled Representations from Video
+Emily Denton (New York University) · vighnesh Birodkar (New York University)
+
+Federated Multi-Task Learning
+Virginia Smith (UC Berkeley) · Maziar Sanjabi (University of California, Los Angeles) · Chao-Kai Chiang (University of Southern California) · Ameet S Talwalkar (CMU)
+
+Is Input Sparsity Time Possible for Kernel Low-Rank Approximation?
+Cameron Musco (Massachusetts Institute of Technology) · David Woodruff ()
+
+The Expxorcist: Nonparametric Graphical Models Via Conditional Exponential Densities
+Arun Suggala (Carnegie Mellon University) · Mladen Kolar (University of Chicago) · Pradeep Ravikumar (Carnegie Mellon University)
+
+Improved Graph Laplacian via Geometric Self-Consistency
+Dominique Joncas (Google) · Marina Meila (University of Washington) · James McQueen (University of Washington)
+
+Dual Path Networks
+Yunpeng Chen (National University of Singapore) · Jianan Li (Beijing Institute of Technology) · Huaxin Xiao (NUDT) · Xiaojie Jin (National University of Singapore) · Shuicheng Yan (Qihoo 360 AI Institute) · Jiashi Feng (National University of Singapore)
+
+Faster and Non-ergodic O(1/K) Stochastic Alternating Direction Method of Multipliers
+Cong Fang (Peking University) · Feng Cheng (Peking University) · Zhouchen Lin (Peking University)
+
+A Probabilistic Framework for Nonlinearities in Stochastic Neural Networks
+Qinliang Su (Duke University) · xuejun Liao () · Lawrence Carin (Duke University)
+
+DisTraL: Robust multitask reinforcement learning
+Yee Teh (DeepMind) · Victor Bapst (DeepMind) · Razvan Pascanu (Google DeepMind) · Nicolas Heess (Google DeepMind) · John Quan (Google DeepMind) · James Kirkpatrick (Google DeepMind) · Wojciech M. Czarnecki (DeepMind) · Raia Hadsell (DeepMind)
+
+Online Learning of Optimal Bidding Strategy in Repeated Multi-Commodity Auctions
+Mukadder Baltaoglu (Cornell University) · Lang Tong (Cornell University) · Qing Zhao (Cornell University)
+
+Trimmed Density Ratio Estimation
+Song Liu (The Institute of Statistical Mathematics) · Akiko Takeda (The Institute of Statistical Mathematics / RIKEN) · Taiji Suzuki () · Kenji Fukumizu (Institute of Statistical Mathematics)
+
+Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems
+Ingmar Kanitscheider (UT Austin) · Ila Fiete ()
+
+Visual Interaction Networks
+Nicholas Watters (Google DeepMind) · Daniel Zoran (DeepMind) · Theophane Weber (DeepMind) · Peter Battaglia (DeepMind) · Razvan Pascanu (Google DeepMind) · Andrea Tacchetti (MIT)
+
+Reconstruct & Crush Network
+Erinc Merdivan (Austrian Institute of Tech.) · Mohammad Reza Loghmani (TU Wien) · Matthieu Geist (Université de Lorraine)
+
+Streaming Robust Submodular Maximization:A Partitioned Thresholding Approach
+Slobodan Mitrovic (EPFL) · Ilija Bogunovic (EPFL Lausanne) · Ashkan Norouzi-Fard (EPFL) · Jakub M Tarnawski (EPFL) · Volkan Cevher (EPFL)
+
+Simple strategies for recovering inner products from coarsely quantized random projections
+Ping Li (Rugters University) · Martin Slawski ()
+
+Discovering Potential Influence via Information Bottleneck
+Weihao Gao (UIUC) · Sreeram Kannan () · Hyeji Kim (University of Illinois Urbana-Champaign) · Sewoong Oh (UIUC) · Pramod Viswanath (UIUC)
+
+Doubly Stochastic Variational Inference for Deep Gaussian Processes
+Hugh Salimbeni (Imperial College London) · Marc Deisenroth (Imperial College London)
+
+Ranking Data with Continuous Labels through Oriented Recursive Partitions
+Stéphan Clémençon (Telecom ParisTech) · Mastane Achab (Télécom ParisTech)
+
+Scalable Model Selection for Belief Networks
+Zhao Song (Duke University) · Yusuke Muraoka () · Ryohei Fujimaki (NEC Data Science Research Laboratories) · Lawrence Carin (Duke University)
+
+Targeting EEG/LFP Synchrony with Neural Nets
+Yitong Li (Duke University) · David E Carlson (Duke University) · Lawrence Carin (Duke University)
+
+Near-Optimal Edge Evaluation in Explicit Generalized Binomial Graphs
+Sanjiban Choudhury (Carnegie Mellon University) · Shervin Javdani (Carnegie Mellon University) · Siddhartha Srinivasa (Carnegie Mellon University) · Sebastian Scherer (Carnegie Mellon University)
+
+Non-Stationary Spectral Kernels
+Sami Remes (Aalto University) · Markus Heinonen (Aalto University) · Samuel Kaski (Aalto University)
+
+Overcoming Catastrophic Forgetting by Incremental Moment Matching
+Sang-Woo Lee (Seoul National University) · Jin-Hwa Kim (Seoul National University) · Jaehyun Jun (Seoul National University) · Jung-Woo Ha (Clova, NAVER Corp.) · Byoung-Tak Zhang (Seoul National University & Surromind Robotics)
+
+Balancing information exposure in social networks
+Kiran Garimella (Aalto University) · Aristides Gionis (Aalto University) · Nikos Parotsidis (University of Rome Tor Vergata) · Nikolaj Tatti (Aalto University)
+
+SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud
+Zahra Ghodsi (New York University) · Tianyu Gu (NYU) · Siddharth Garg (NYU)
+
+Query Complexity of Clustering with Side Information
+Barna Saha (University of Massachusetts Amherst) · Arya Mazumdar (University of Massachusetts Amherst)
+
+QMDP-Net: Deep Learning for Planning under Partial Observability
+Peter Karkus (NUS) · David Hsu (National University of Singapore) · Wee Sun Lee (National University of Singapore)
+
+Robust Optimization for Non-Convex Objectives
+Yaron Singer (Harvard University) · Robert S Chen (Harvard University) · Vasilis Syrgkanis (Microsoft Research) · Brendan Lucier (Microsoft Research)
+
+Thy Friend is My Friend: Iterative Collaborative Filtering for Sparse Matrix Estimation
+Christian Borgs (Microsoft Research New England) · Jennifer Chayes (Microsoft Research) · Christina Lee (Microsoft Research) · Devavrat Shah (Massachusetts Institute of Technology)
+
+Adaptive Classification for Prediction Under a Budget
+Feng Nan (Boston University) · Venkatesh Saligrama (Boston University)
+
+Convergence rates of a partition based Bayesian multivariate density estimation method
+Linxi Liu (Columbia University) · Dangna Li (Stanford University) · Wing Hung Wong (Stanford university)
+
+Affine-Invariant Online Optimization
+Tomer Koren (Google) · Roi Livni (Princeton)
+
+Beyond Worst-case: A Probabilistic Analysis of Affine Policies in Dynamic Optimization
+Omar El Housni (Columbia University) · Vineet Goyal (Columbia University)
+
+A unified approach to interpreting model predictions
+Scott M Lundberg (University of Washington) · Su-In Lee (University of Washington)
+
+Stochastic Approximation for Canonical Correlation Analysis
+Raman Arora (Johns Hopkins University) · Teodor Vanislavov Marinov (Johns Hopkins University) · Poorya Mianjy (Johns Hopkins University)
+
+Investigating the learning dynamics of deep neural networks using random matrix theory
+Jeffrey Pennington (Google Brain) · Samuel Schoenholz (Google Brain) · Surya Ganguli (Stanford)
+
+Sample and Computationally Efficient Learning Algorithms under S-Concave Distributions
+Maria-Florina Balcan (Carnegie Mellon University) · Hongyang Zhang (Carnegie Mellon University)
+
+Scalable Variational Inference for Dynamical Systems
+Stefan Bauer (ETH Zürich) · Nico S Gorbach (Swiss Federal Institute of Technology Zurich (ETHZ)) · Joachim M Buhmann (ETH Zurich)
+
+Context Selection for Embedding Models
+Liping Liu (Tufts University) · Francisco Ruiz () · David Blei (Columbia University)
+
+Working hard to know your neighbor's margins: Local descriptor learning loss
+Anastasiia Mishchuk (Szkocka Research Group, Ukraine) · Dmytro Mishkin (Czech Technical University in Prague) · Filip Radenovic (Visual Recognition Group, CTU in Prague) · Jiri Matas (Czech Technical University)
+
+Accelerated Stochastic Greedy Coordinate Descent by Soft Thresholding Projection onto Simplex
+Chaobing Song (Tsinghua University) · Shaobo Cui (Tsinghua University) · Shu-Tao Xia (Tsinghua University) · Yong Jiang (Tsinghua-Berkeley Shenzhen Institute)
+
+Multi-Task Learning for Contextual Bandits
+Aniket Anand Deshmukh (University of Michigan, Ann Arbor) · Urun Dogan (Microsoft) · Clay Scott (University of Michigan)
+
+Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon
+Xin Dong (Nanyang Technological Univ) · Shangyu Chen (Nanyang Technological Unvi) · Sinno Pan (NTU)
+
+Accelerated First-order Methods for Geodesically Convex Optimization on Riemannian Manifolds
+Yuanyuan Liu (The Chinese University of Hong Kong) · Fanhua Shang (The Chinese University of Hong Kong) · James Cheng (The Chinese University of Hong Kong) · Hong Cheng (The Chinese University of Hong Kong) · Licheng Jiao (Xidian University)
+
+Selective Classification for Deep Neural Networks
+Yonatan Geifman (Technion) · Ran El-Yaniv (Technion)
+
+Minimax Estimation of Bandable Precision Matrices
+Addison Hu (Yale University) · Sahand Negahban (Yale University)
+
+Monte-Carlo Tree Search by Best Arm Identification
+Emilie Kaufmann (CNRS & CRIStAL (SequeL)) · Wouter Koolen (Centrum Wiskunde & Informatica)
+
+Group Additive Structure Identification for Kernel Nonparametric Regression
+Chao Pan (Purdue University) · Michael Zhu (Purdue University)
+
+Fast, Sample-Efficient Algorithms for Structured Phase Retrieval
+Gauri Jagatap (Iowa State University) · Chinmay Hegde (Iowa State University)
+
+Hash Embeddings for Efficient Word Representations
+Dan Tito Svenstrup (DTU) · Jonas Hansen (Findzebra) · Ole Winther (Technical University of Denmark)
+
+Online Learning for Multivariate Hawkes Processes
+Yingxiang Yang (UIUC) · Jalal Etesami (UIUC) · Niao He (UIUC) · Negar Kiyavash (UIUC)
+
+Maximum Margin Interval Trees
+Alexandre Drouin (Université Laval + Element AI) · Toby D Hocking (McGill Genome Center, McGill University) · Francois Laviolette (Université Laval)
+
+DropoutNet: Addressing Cold Start in Recommender Systems
+Maksims Volkovs (layer6.ai) · Guangwei Yu (Layer6 AI, University of Toronto) · Tomi Poutanen ()
+
+A simple neural network module for relational reasoning
+Adam Santoro (DeepMind) · David Raposo (DeepMind) · David Barrett (DeepMind) · Mateusz Malinowski (DeepMind) · Razvan Pascanu (Google DeepMind) · Peter Battaglia (DeepMind) · Tim Lillicrap (Google DeepMind)
+
+Q-LDA: Uncovering Latent Patterns in Text-based Sequential Decision Processes
+Jianshu Chen (Microsoft Research, Redmond, W) · Chong Wang () · Lin Xiao (Microsoft Research) · Ji He (University Washington) · Lihong Li (Microsoft Research) · Li Deng (Citadel)
+
+Online Reinforcement Learning in Stochastic Games
+Chen-Yu Wei (Academia Sinica) · Yi-Te Hong (Dept. of Computer Science, National Taiwan University) · Chi-Jen Lu (Academia Sinica)
+
+Position-based Multiple-play Multi-armed Bandit Problem with Unknown Position Bias
+Junpei Komiyama (The University of Tokyo) · Junya Honda (The University of Tokyo) · Akiko Takeda (The Institute of Statistical Mathematics / RIKEN)
+
+Active Exploration for Learning Symbolic Representations
+Garrett Andersen (PROWLER.io) · George Konidaris (Brown University)
+
+Clone MCMC: Parallel High-Dimensional Gaussian Gibbs Sampling
+Andrei-Cristian Barbos (University of Bordeaux) · Francois Caron () · Jean-François Giovannelli (University of Bordeaux) · Arnaud Doucet (Oxford)
+
+Fair Clustering Through Fairlets
+Flavio Chierichetti (Sapienza University) · Ravi Kumar (Google) · Silvio Lattanzi (Google) · Sergei Vassilvitskii (Google)
+
+Polynomial time algorithms for dual volume sampling
+Chengtao Li (MIT) · Stefanie Jegelka (MIT) · Suvrit Sra (MIT)
+
+Hindsight Experience Replay
+Marcin Andrychowicz (OpenAI) · Filip Wolski (OpenAI) · Alex Ray (OpenAI) · Jonas Schneider (OpenAI) · Rachel Fong (OpenAI) · Peter Welinder (OpenAI) · Bob McGrew (OpenAI) · Josh Tobin (OpenAI) · OpenAI Pieter Abbeel (OpenAI, UC Berkeley) · Wojciech Zaremba (OpenAI)
+
+Stochastic and Adversarial Online Learning without Hyperparameters
+Ashok Cutkosky (Stanford University) · Kwabena A Boahen (Stanford University)
+
+Teaching Machines to Describe Images with Natural Language Feedback
+huan ling (university of toronto) · Sanja Fidler (University of Toronto)
+
+Perturbative Black Box Variational Inference
+Cheng Zhang (Disney Research) · Robert Bamler (Disney Research) · Manfred Opper (TU Berlin) · Stephan Mandt (Disney Research)
+
+GibbsNet: Iterative Adversarial Inference for Deep Graphical Models
+Alex Lamb (UMontreal (MILA)) · Devon Hjelm (MILA) · Yaroslav Ganin (Université de Montréal) · Joseph Paul Cohen (Montreal Institute for Learning Algorithms) · Aaron C Courville (U. Montreal) · Yoshua Bengio (U. Montreal)
+
+PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
+Charles Ruizhongtai Qi (Stanford University) · Li Yi (Stanford University) · Hao Su (Stanford) · Leonidas J Guibas (stanford.edu)
+
+Regularizing Deep Neural Networks by Noise: Its Interpretation and Optimization
+Hyeonwoo Noh (POSTECH) · Tackgeun You (Pohang University of Science and Technology) · Jonghwan Mun (POSTECH) · Bohyung Han (POSTECH)
+
+Learning Graph Embeddings with Embedding Propagation
+Alberto Garcia Duran (NEC Europe) · Mathias Niepert (NEC Labs Europe)
+
+Efficient Modeling of Latent Information in Supervised Learning using Gaussian Processes
+Zhenwen Dai (Amazon) · Mauricio A. Álvarez (University of Sheffield) · Neil Lawrence (Amazon.com)
+
+A-NICE-MC: Adversarial Training for MCMC
+Jiaming Song (Stanford University) · Shengjia Zhao (Stanford University) · Stefano Ermon (Stanford)
+
+Excess Risk Bounds for the Bayes Risk using Variational Inference in Latent Gaussian Models
+Rishit Sheth (Tufts University) · Roni Khardon (Tufts University)
+
+Real-Time Bidding with Side Information
+arthur flajolet (MIT) · Patrick Jaillet (Massachusetts Institute of Technology)
+
+Saliency-based Sequential Image Attention with Multiset Prediction
+Sean Welleck (NYU) · Kyunghyun Cho (NYU) · Zheng Zhang (Shanghai New York Univeristy)
+
+Variational Inference for Gaussian Process Models with Linear Complexity
+Ching-An Cheng (Georgia Tech) · Byron Boots (Georgia Tech / Google Brain)
+
+K-Medoids For K-Means Seeding
+James Newling (Idiap Research Institute & EPFL) · François Fleuret (Idiap Research Institute)
+
+Identifying Outlier Arms in Multi-Armed Bandit
+Honglei Zhuang (University of Illinois) · Chi Wang (Microsoft Research) · Yifan Wang (Tsinghua University)
+
+Online Learning with Transductive Regret
+Scott Yang (D. E. Shaw & Co.) · Mehryar Mohri (Courant Institute and Google)
+
+Riemannian approach to batch normalization
+Minhyung Cho (Gracenote) · Jaehyung Lee (Gracenote)
+
+Self-supervised Learning of Motion Capture
+Hsiao-Yu Tung (Carnegie Mellon University) · Hsiao-Wei Tung (University of Pittsburgh) · Ersin Yumer (Adobe Research) · Katerina Fragkiadaki ()
+
+Triangle Generative Adversarial Networks
+zhe Gan (duke) · Liqun Chen (Duke University) · Weiyao Wang (Duke University) · Yuchen Pu (Duke University) · Yizhe Zhang (Duke university) · Lawrence Carin (Duke University)
+
+Preserving Proximity and Global Ranking for Node Embedding
+Yi-An Lai (National Taiwan University) · Chin-Chi Hsu (Academia Sinica) · Wen Hao Chen (National Taiwan University) · Mi-Yen Yeh (Academia Sinica) · Shou-De Lin (National Taiwan University)
+
+Bayesian Optimization with Gradients
+Jian Wu (AQR Capital Management) · Matthias Poloczek (Cornell University) · Andrew Wilson (Cornell University) · Peter Frazier (Cornell University)
+
+Second-order Optimization in Deep Reinforcement Learning using Kronecker-factored Approximation
+Yuhuai Wu (University of Toronto) · Elman Mansimov (New York University) · Roger Grosse (University of Toronto) · Shun Liao (University of Toronto) · Jimmy Ba (University of Toronto / Vector Institute)
+
+Renyi Differential Privacy Mechanisms for Posterior Sampling
+Joseph Geumlek (UCSD) · Shuang Song (UC San Diego) · Kamalika Chaudhuri (UCSD)
+
+Online Learning with a Hint
+Ofer Dekel (Microsoft Research) · arthur flajolet (MIT) · Nika Haghtalab (Carnegie Mellon University) · Patrick Jaillet (Massachusetts Institute of Technology)
+
+Identification of Gaussian Process State Space Models
+Stefanos Eleftheriadis (PROWLER.io) · Tom Nicholson (PROWLER.IO) · Marc Deisenroth (Imperial College London) · James Hensman (PROWLER.io)
+
+Robust Imitation of Diverse Behaviors
+Ziyu Wang (Deepmind) · Josh Merel (DeepMind) · Scott Reed (Google DeepMind) · Nando de Freitas (DeepMind) · Gregory Wayne (Google DeepMind) · Nicolas Heess (Google DeepMind)
+
+Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent
+Xiangru Lian (University of Rochester) · Ce Zhang (ETH Zurich) · Huan Zhang () · Cho-Jui Hsieh (UC Davis) · Wei Zhang (IBM T.J.Watson Research Center) · Ji Liu (University of Rochester)
+
+Local Aggregative Games
+Vikas Garg (MIT) · Tommi Jaakkola (MIT)
+
+A Sample Complexity Measure with Applications to Learning Optimal Auctions
+Vasilis Syrgkanis (Microsoft Research)
+
+Thinking Fast and Slow with Deep Learning and Tree Search
+Thomas Anthony (UCL) · Zheng Tian (UCL) · David Barber (University College London)
+
+EEG-GRAPH: A Factor Graph Based Model for Capturing Spatial, Temporal, and Observational Relationships in Electroencephalograms
+Yogatheesan Varatharajah (University of Illinois at Urbana Champaign) · Min Jin Chong (University of Illinois at Urbana-Champaign) · Krishnakant Saboo () · Brent Berry (Mayo Clinic) · Benjamin Brinkmann (Mayo Clinic) · Gregory Worrell (Mayo Clinic, Rochester) · Ravishankar Iyer ()
+
+Improving the Expected Improvement Algorithm
+Chao Qin (Columbia University) · Diego Klabjan (Northwestern University) · Daniel Russo (Stanford University)
+
+Hybrid Reward Architecture for Reinforcement Learning
+Harm Van Seijen (Microsoft Research) · Romain Laroche () · Mehdi Fatemi () · Joshua Romoff (McGill University)
+
+Approximate Supermodularity Bounds for Experimental Design
+Luiz Chamon (University of Pennsylvania) · Alejandro Ribeiro (University of Pennsylvania)
+
+Maximizing Subset Accuracy with Recurrent Neural Networks in Multi-label Classification
+Jinseok Nam (TU Darmstadt) · Eneldo Mencía (TU Darmstadt) · Hyunwoo J Kim (University of Wisconsin-Madison) · Johannes Fürnkranz (TU Darmstadt)
+
+AdaGAN: Boosting Generative Models
+Ilya Tolstikhin (MPI for Intelligent Systems) · Sylvain Gelly (Google Brain) · Olivier Bousquet (Google) · Carl-Johann SIMON-GABRIEL (Max Planck Institute for Intelligent Systems) · Bernhard Schölkopf (MPI for Intelligent Systems)
+
+Straggler Mitigation in Distributed Optimization Through Data Encoding
+Can Karakus (UCLA) · Yifan Sun () · Suhas Diggavi (UCLA) · Wotao Yin (University of California, Los Angeles)
+
+Multi-View Decision Processes
+Christos Dimitrakakis (Chalmers / Harvard / Lille / Oslo) · David C Parkes (Harvard University ) · Goran Radanovic (Harvard) · Paul Tylkin (Harvard University)
+
+A Greedy Approach for Budgeted Maximum Inner Product Search
+Hsiang-Fu Yu (U Texas) · Cho-Jui Hsieh (UC Davis) · Qi Lei (Institute for Computational Engineering and Sciences, University of Texas at Austin) · Inderjit S Dhillon (University of Texas at Austin)
+
+SVD-Softmax: Fast Softmax Approximation on Large Vocabulary Neural Networks
+Kyuhong Shim (Seoul National University) · Minjae Lee (Seoul National University) · Iksoo Choi (Seoul National University) · Yoonho Boo (Seoul National University) · Wonyong Sung (Seoul National University)
+
+Plan, Attend, Generate: Planning for Sequence-to-Sequence Models
+Caglar Gulcehre (Deepmind) · Francis Dutil (MILA) · Adam Trischler (Microsoft) · Yoshua Bengio (U. Montreal)
+
+Task-based End-to-end Model Learning in Stochastic Optimization
+Priya Donti (Carnegie Mellon University) · J. Zico Kolter (Carnegie Mellon University) · Brandon Amos (Carnegie Mellon University)
+
+Towards Understanding Adversarial Learning for Joint Distribution Matching
+Chunyuan Li (Duke University) · Hao Liu (Nanjing University) · Ricardo Henao (Duke University) · Liqun Chen (Duke University) · Yuchen Pu (Duke University) · Changyou Chen (University at Buffalo) · Lawrence Carin (Duke University)
+
+Finite sample analysis of the GTD Policy Evaluation Algorithms in Markov Setting
+Yue Wang (Beijing Jiaotong University)
+
+On the Complexity of Learning Neural Networks
+Le Song (Georgia Institute of Technology) · Santosh Vempala (Georgia Tech) · John Wilmes (Georgia Institute of Technology) · Bo Xie (Georgia Tech)
+
+Hierarchical Implicit Models and Likelihood-Free Variational Inference
+Dustin Tran (Columbia University & OpenAI) · Rajesh Ranganath (Princeton University) · David Blei (Columbia University)
+
+Improved Semi-supervised Learning with GANs using Manifold Invariances
+Abhishek Kumar (IBM Research) · Prasanna Sattigeri (IBM Research) · Tom Fletcher (University of Utah)
+
+Approximation and Convergence Properties of Generative Adversarial Learning
+Shuang Liu (University of California, San Diego) · Olivier Bousquet (Google) · Kamalika Chaudhuri (UCSD)
+
+From Bayesian Sparsity to Gated Recurrent Nets
+Hao He (PekingUniversity) · Bo Xin (Microsoft Research) · David Wipf (Microsoft Research)
+
+Min-Max Propagation
+Christopher Srinivasa (University of Toronto/RBC Research Institute) · Inmar Givoni () · Siamak Ravanbakhsh (CMU/UBC) · Brendan J Frey (Deep Genomics, Vector Institute, Univ. Toronto)
+
+What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?
+Alex Kendall (University of Cambridge) · Yarin Gal (University of Oxford)
+
+Gradient descent GAN optimization is locally stable
+Vaishnavh Nagarajan (Carnegie Mellon University) · J. Zico Kolter (Carnegie Mellon University)
+
+Toward Robustness against Label Noise in Training Deep Discriminative Neural Networks
+Arash Vahdat (D-Wave Systems Inc.)
+
+Dualing GANs
+Yujia Li (University of Toronto) · Alexander Schwing (University of Illinois at Urbana-Champaign) · Kuan-Chieh Wang (University of Toronto) · Richard Zemel (University of Toronto)
+
+Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model
+Xingjian Shi (HKUST) · Hao Wang (HKUST) · Zhihan Gao (HKUST) · Leonard Lausen (HKUST) · Dit-Yan Yeung (HKUST, Hong Kong) · Wang-chun WOO (HKO) · Wai-kin Wong (HKO)
+
+Do Deep Neural Networks Suffer from Crowding?
+Anna Volokitin (ETH Zurich) · Gemma Roig (Massachusetts Institute of Technology) · Tomaso A Poggio (MIT)
+
+Learning from Complementary Labels
+Takashi Ishida (Sumitomo Mitsui Asset Management, The University of Tokyo, RIKEN) · Masashi Sugiyama (RIKEN / University of Tokyo) · Gang Niu (The University of Tokyo)
+
+More powerful and flexible rules for online FDR control with memory and weights
+Aaditya Ramdas (University of California, Berkeley) · Fanny Yang (University of California, Berkeley) · Martin Wainwright (UC Berkeley) · Michael Jordan (UC Berkeley)
+
+Learning from uncertain curves: The 2-Wasserstein metric for Gaussian processes
+Anton Mallasto (University of Copenhagen) · Aasa Feragen (University of Copenhagen)
+
+Discriminative State Space Models
+Vitaly Kuznetsov (Google Research) · Mehryar Mohri (Courant Institute and Google)
+
+On Fairness and Calibration
+Geoff Pleiss (Cornell University) · Manish Raghavan (Cornell University) · Felix Wu () · Jon Kleinberg (Cornell University) · Kilian Q Weinberger (Cornell University)
+
+Imagination-Augmented Agents for Deep Reinforcement Learning
+Sébastien Racanière (Google DeepMind) · David Reichert (DeepMind) · Theophane Weber (DeepMind) · Oriol Vinyals (Google DeepMind) · Daan Wierstra (DeepMind Technologies) · Lars Buesing (DeepMind) · Peter Battaglia (DeepMind) · Razvan Pascanu (Google DeepMind) · Yujia Li (DeepMind) · Nicolas Heess (Google DeepMind) · Arthur Guez (Google) · Danilo Jimenez Rezende (Google DeepMind) · Adrià Puigdomènech Badia (Google DeepMind) · David Silver (DeepMind)
+
+Extracting low-dimensional dynamics from multiple large-scale neural population recordings by learning to predict correlations
+Marcel Nonnenmacher (Research center caesar) · Srinivas C Turaga (Janelia Research Campus, Howard Hughes Medical Institute) · Jakob H Macke (research center caesar, an associate of the Max Planck Society)
+
+Unifying PAC and Regret: Uniform PAC Bounds for Episodic Reinforcement Learning
+Christoph Dann (Carnegie Mellon University) · Tor Lattimore (DeepMind) · Emma Brunskill (Stanford University)
+
+Gradients of Generative Models for Improved Discriminative Analysis of Tandem Mass Spectra
+John Halloran (University of California, Davis) · University of California David Rocke (University of California, Davis)
+
+Asynchronous Parallel Coordinate Minimization for MAP Inference
+Ofer Meshi (Google) · Alexander Schwing (University of Illinois at Urbana-Champaign)
+
+Multiscale Quantization for Fast Similarity Search
+Xiang Wu (Google) · Ruiqi Guo (Google) · Ananda Theertha Suresh (Google) · Daniel Holtmann-Rice (Google Inc) · David Simcha (Google) · Felix Yu (Google Research) · Sanjiv Kumar (Google Research)
+
+Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space
+Liwei Wang (University of Illinois at Urbana–Champaign) · Alexander Schwing (University of Illinois at Urbana-Champaign) · Svetlana Lazebnik ()
+
+Improved Training of Wasserstein GANs
+Ishaan Gulrajani (Google) · Faruk Ahmed (MILA) · Martin Arjovsky (New York University) · Vincent Dumoulin (Université de Montréal) · Aaron C Courville (U. Montreal)
+
+Optimally Learning Populations of Parameters
+Kevin Tian (Stanford University) · Weihao Kong (Stanford University) · Gregory Valiant (Stanford University)
+
+Clustering with Noisy Queries
+Barna Saha (University of Massachusetts Amherst) · Arya Mazumdar (University of Massachusetts Amherst)
+
+Higher-Order Total Variation Classes on Grids: Minimax Theory and Trend Filtering Methods
+Veeranjaneyulu Sadhanala (CMU) · Yu-Xiang Wang (CMU / Amazon AI) · James Sharpnack () · Ryan Tibshirani (Carnegie Mellon University)
+
+Training Quantized Nets: A Deeper Understanding
+Hao Li (University of Maryland, College Park) · Soham De (University of Maryland, College Park) · Zheng Xu (University of Maryland, College Park) · Christoph Studer (Cornell University) · Hanan Samet (University of Maryland at College Park) · Tom Goldstein (University of Maryland)
+
+Permutation-based Causal Inference Algorithms with Interventions
+Yuhao Wang (MIT) · Liam Solus (KTH Royal Institute of Technology) · Karren Yang (MIT) · Caroline Uhler (Massachusetts Institute of Technology)
+
+Time-dependent spatially varying graphical models, with application to brain fMRI data analysis
+Kristjan Greenewald (University of Michigan) · Seyoung Park (Yale University) · Shuheng Zhou (University of Michigan) · Alexander Giessing (University of Michigan)
+
+Gradient Methods for Submodular Maximization
+Hamed Hassani (UPenn) · Mahdi Soltanolkotabi (University of Southern california) · Amin Karbasi (Yale)
+
+Smooth Primal-Dual Coordinate Descent Algorithms for Nonsmooth Convex Optimization
+Ahmet Alacaoglu (EPFL) · Quoc Tran Dinh (Department of Statistics and Operations Research, UNC, North Carolina) · Olivier Fercoq (Telecom ParisTech) · Volkan Cevher (EPFL)
+
+Maximizing the Spread of Influence from Training Data
+Eric Balkanski (Harvard University) · Nicole Immorlica (Microsoft Research) · Yaron Singer (Harvard University)
+
+Multiplicative Weights Update with Constant Step-Size in Congestion Games: Convergence, Limit Cycles and Chaos
+gerasimos Palaiopanos (SUTD) · Ioannis Panageas (MIT) · Georgios Piliouras (Singapore University of Technology and Design)
+
+Learning Neural Representations of Human Cognition across Many fMRI Studies
+Arthur Mensch (Inria Parietal) · Julien Mairal (Inria) · Danilo Bzdok (RWTH Aachen University) · Bertrand Thirion (INRIA) · Gael Varoquaux (Parietal Team, INRIA)
+
+A KL-LUCB algorithm for Large-Scale Crowdsourcing
+Ervin Tanczos (University of Wisconsin - Madison) · Robert Nowak (University of Wisconsion-Madison) · Bob Mankoff (Former Cartoon Editor of The New Yorker)
+
+Collaborative Deep Learning in Fixed Topology Networks
+Zhanhong Jiang (Iowa State University) · Aditya Balu (Iowa State University) · Chinmay Hegde (Iowa State University) · Soumik Sarkar (Iowa State University)
+
+Fast-Slow Recurrent Neural Networks
+Asier Mujika (ETH Zürich) · Florian Meier (ETH Zurich) · Angelika Steger (ETH Zurich)
+
+Learning Disentangled Representations with Semi-Supervised Deep Generative Models
+Siddharth N (University of Oxford) · T. Brooks Paige (Alan Turing Institute) · Jan-Willem van de Meent (Northeastern University) · Alban Desmaison (Oxford University) · Frank Wood (University of Oxford) · Noah Goodman (Stanford University) · Pushmeet Kohli (Microsoft Research) · Philip Torr (University of Oxford)
+
+Learning to Generalize Intrinsic Images with a Structured Disentangling Autoencoder
+Michael Janner (MIT) · Jiajun Wu (MIT) · Tejas Kulkarni (DeepMind) · Ilker Yildirim (MIT) · Josh Tenenbaum (MIT)
+
+Exploring Generalization in Deep Learning
+Behnam Neyshabur (Institute for Advanced Study) · Srinadh Bhojanapalli (Toyota Technological Institute at Chicago) · Nati Srebro (TTI-Chicago)
+
+A framework for Multi-A(rmed)/B(andit) Testing with Online FDR Control
+Fanny Yang (University of California, Berkeley) · Aaditya Ramdas (University of California, Berkeley) · Kevin Jamieson (UC Berkeley) · Martin Wainwright (UC Berkeley)
+
+Fader Networks: Generating Image Variations by Sliding Attribute Values
+Guillaume Lample (Facebook AI Research) · Neil Zeghidour (Facebook A.I. Research / Ecole Normale Supérieure) · Nicolas Usunier (Facebook AI Research) · Antoine Bordes (Facebook AI Research) · Ludovic DENOYER (Universite Pierre et Marie Curie - Paris) · Marc'Aurelio Ranzato (Facebook)
+
+Action Centered Contextual Bandits
+Kristjan Greenewald (University of Michigan) · Ambuj Tewari (University of Michigan) · Susan Murphy (University of Michigan) · Predag Klasnja ()
+
+Estimating Mutual Information for Discrete-Continuous Mixtures
+Weihao Gao (UIUC) · Sreeram Kannan () · Sewoong Oh (UIUC) · Pramod Viswanath (UIUC)
+
+Attention is All you Need
+Ashish Vaswani (Google Brain) · Noam Shazeer (Google) · Niki Parmar (Google) · Llion Jones (Google) · Jakob Uszkoreit (Google, Inc.) · Aidan N Gomez (University of Toronto) · Łukasz Kaiser (Google Brain)
+
+Recurrent Ladder Networks
+Isabeau Prémont-Schwarz (The Curious Ai Company) · Alexander Ilin (The Curious AI company) · Tele Hao (The Curious AI Company) · Antti Rasmus () · Rinu Boney () · Harri Valpola (The Curious AI Company)
+
+Parameter-Free Online Learning via Model Selection
+Dylan J Foster (Cornell University) · Satyen Kale (Google) · Mehryar Mohri (Courant Institute and Google) · Karthik Sridharan (Cornell University)
+
+Bregman Divergence for Stochastic Variance Reduction: Saddle-Point and Adversarial Prediction
+Zhan Shi (University of Illinois at Chicago) · Xinhua Zhang (University of Illinois at Chicago) · Yaoliang Yu ()
+
+Unbounded cache model for online language modeling with open vocabulary
+Edouard Grave () · Moustapha Cisse (Facebook AI Research) · Armand Joulin (Facebook AI research)
+
+Predictive State Recurrent Neural Networks
+Carlton Downey (Carnegie Mellon University) · Ahmed Hefny (Carnegie Mellon University) · Byron Boots (Georgia Tech / Google Brain) · Geoffrey Gordon (CMU) · Boyue Li (Carnegie Mellon University)
+
+Early stopping for kernel boosting algorithms: A general analysis with localized complexities
+Yuting Wei (University of California, Berkeley) · Fanny Yang (University of California, Berkeley) · Martin Wainwright (UC Berkeley)
+
+SVCCA: Singular Vector Canonical Correlation Analysis for Deep Understanding and Improvement
+Maithra Raghu (Cornell University and Google Brain) · Justin Gilmer (Google Brain) · Jason Yosinski (Uber) · Jascha Sohl-Dickstein (Google Brain)
+
+Convolutional Phase Retrieval
+Qing Qu (Columbia University) · Yuqian Zhang (Columbia University) · Yonina Eldar (Israel Institute of Technology) · John Wright (Columbia University)
+
+Estimating High-dimensional Non-Gaussian Multiple Index Models via Stein’s Lemma
+Zhuoran Yang (Princeton University) · krishnakumar balasubramanian (georgia tech) · Princeton Zhaoran Wang (Princeton, Phd student) · Han Liu (Tencent AI Lab)
+
+Gaussian Quadrature for Kernel Features
+Tri Dao (Stanford University) · Christopher M De Sa (Stanford) · Christopher Ré (Stanford)
+
+Value Prediction Network
+Junhyuk Oh (University of Michigan) · Satinder Singh (University of Michigan) · Honglak Lee (Google / U. Michigan)
+
+On Learning Errors of Structured Prediction with Approximate Inference
+Yuanbin Wu (East China Normal University)
+
+Efficient Second-Order Online Kernel Learning with Adaptive Embedding
+Daniele Calandriello (INRIA Lille - Nord Europe) · Michal Valko (Inria Lille - Nord Europe) · Alessandro Lazaric (INRIA Lille-Nord Europe)
+
+Implicit Regularization in Matrix Factorization
+Suriya Gunasekar (TTI Chicago) · Blake Woodworth (Toyota Technological Institute at Chicago) · Srinadh Bhojanapalli (Toyota Technological Institute at Chicago) · Behnam Neyshabur (Institute for Advanced Study) · Nati Srebro (TTI-Chicago)
+
+Optimal Shrinkage of Singular Values Under Random Data Contamination
+Danny Barash (The Hebrew University Of Jerusalem) · Matan Gavish (Hebrew University)
+
+Delayed Mirror Descent in Continuous Games
+Zhengyuan Zhou (Stanford University) · Panayotis Mertikopoulos () · Nicholas Bambos () · Peter W Glynn (Stanford University) · Claire Tomlin (UC Berkeley)
+
+Asynchronous Coordinate Descent under More Realistic Assumptions
+Tao Sun (National university of defense technology) · Robert Hannah (UCLA) · Wotao Yin (University of California, Los Angeles)
+
+Linear Convergence of a Frank-Wolfe Type Algorithm over Trace-Norm Balls
+Zeyuan Allen-Zhu (Microsoft Research) · Elad Hazan (Princeton University) · Wei Hu (Princeton University) · Yuanzhi Li (Princeton University)
+
+Hierarchical Clustering Beyond the Worst-Case
+Vincent Cohen-Addad (University of Copenhagen) · Varun Kanade (University of Oxford) · Frederik Mallmann-Trenn (ENS)
+
+Invariance and Stability of Deep Convolutional Representations
+Alberto Bietti (Inria) · Julien Mairal (Inria)
+
+Statistical Cost Sharing
+Eric Balkanski (Harvard University) · Umar Syed (Google Research) · Sergei Vassilvitskii (Google)
+
+The Expressive Power of Neural Networks: A View from the Width
+Zhou Lu (Peking University) · Hongming Pu (Peking university) · Feicheng Wang (Peking University) · Zhiqiang Hu (Peking University) · Liwei Wang (Peking University)
+
+Spectrally-normalized margin bounds for neural networks
+Matus Telgarsky (UIUC) · Peter Bartlett (UC Berkeley) · Dylan J Foster (Cornell University)
+
+Robust and Efficient Transfer Learning with Hidden Parameter Markov Decision Processes
+Samuel Daulton (Harvard University) · Taylor Killian (Harvard University) · Finale Doshi-Velez (Harvard) · George Konidaris (Brown University)
+
+Population Matching Discrepancy and Applications in Deep Learning
+Jianfei Chen (Tsinghua University) · Chongxuan LI (Tsinghua University) · Yizhong Ru (Tsinghua University) · Jun Zhu (Tsinghua University)
+
+Scalable Planning with Tensorflow for Hybrid Nonlinear Domains
+Ga Wu (University of Toronto) · Buser Say (University of Toronto) · Scott Sanner (University of Toronto)
+
+Boltzmann Exploration Done Right
+Nicolò Cesa-Bianchi (Università degli Studi di Milano, Italy) · Claudio Gentile (University of Insubria) · Gergely Neu () · Gabor Lugosi (Pompeu Fabra University)
+
+Towards the ImageNet-CNN of NLP: Pretraining Sentence Encoders with Machine Translation
+Bryan McCann (Salesforce Research) · James Bradbury (Salesforce Research) · Caiming Xiong (Salesforce Research) · Richard Socher (MetaMind)
+
+Neural Discrete Representation Learning
+Aaron van den Oord (Google Deepmind) · Oriol Vinyals (Google DeepMind) · koray kavukcuoglu (DeepMind)
+
+Generalizing GANs: A Turing Perspective
+Roderich Gross (The University of Sheffield) · Yue Gu (The University of Sheffield) · Wei Li (University of York) · Melvin Gauci (Harvard University)
+
+Scalable Log Determinants for Gaussian Process Kernel Learning
+David Eriksson (Cornell University) · Kun Dong (Cornell University) · David Bindel (Cornell University) · Andrew Wilson (Cornell University) · Hannes Nickisch (Philips Research)
+
+Poincaré Embeddings for Learning Hierarchical Representations
+Maximillian Nickel (Facebook) · Douwe Kiela (Facebook AI Research)
+
+Learning Combinatorial Optimization Algorithms over Graphs
+Elias Khalil (Georgia Tech) · Hanjun Dai (Georgia Tech) · Yuyu Zhang () · Bistra Dilkina (Georgia Institute of Technology) · Le Song (Georgia Institute of Technology)
+
+Robust Conditional Probabilities
+Yoav Wald (Hebrew University) · Amir Globerson (HUJI)
+
+Learning with Bandit Feedback in Potential Games
+Amélie C Heliou (Univ. Grenoble Alpes) · Johanne Cohen (LRI-CNRS) · Panayotis Mertikopoulos ()
+
+Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
+Ryan Lowe (McGill University) · YI WU (UC Berkeley) · Aviv Tamar (UC Berkeley) · Jean Harb (McGill University) · OpenAI Pieter Abbeel (OpenAI, UC Berkeley) · Igor Mordatch (OpenAI)
+
+Communication-Efficient Distributed Learning of Discrete Distributions
+Ilias Diakonikolas () · Elena Grigorescu (Purdue University) · Jerry Li (MIT) · Abhiram Natarajan (Purdue University) · Krzysztof Onak (IBM T.J. Watson Research Center) · Ludwig Schmidt (MIT)
+
+Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
+Balaji Lakshminarayanan (Google Deepmind) · Alexander Pritzel (Google Deepmind) · Charles Blundell (DeepMind)
+
+When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness
+Chris Russell (The Alan Turing Institute/ The University of Surrey) · Ricardo Silva (ucl.ac.uk) · Matt Kusner (Alan Turing Institute) · Joshua Loftus (The Alan Turing Institute)
+
+Matrix Norm Estimation from a Few Entries
+Sewoong Oh (UIUC) · Ashish Khetan (University of Illinois Urbana Champaign)
+
+Deep Networks for Decoding Natural Images from Retinal Signals
+Nikhil Parthasarathy (New York University) · Eleanor Batty (Columbia University) · William Falcon (Columbia University) · Thomas Rutten (Columbia University) · Mohit Rajpal (Columbia University) · E.J. Chichilnisky (Stanford University) · Liam Paninski (Columbia University)
+
+Causal Effect Inference with Deep Latent Variable Models
+Christos Louizos (University of Amsterdam) · Uri Shalit () · Joris M Mooij (University of Amsterdam) · David Sontag (MIT) · Richard Zemel (University of Toronto) · Max Welling (University of Amsterdam and University of California Irvine and CIFAR)
+
+Learning Identifiable Gaussian Bayesian Networks in Polynomial Time and Sample Complexity
+Asish Ghoshal (Purdue University) · Jean Honorio (Purdue University)
+
+Gradient Episodic Memory for Continuum Learning
+David Lopez-Paz (Facebook AI Research) · Marc'Aurelio Ranzato (Facebook)
+
+Radon Machines: Effective Parallelisation for Machine Learning
+Michael Kamp (Fraunhofer IAIS) · Mario Boley (Max Planck Institute for Informatics and Saarland University) · Olana Missura (Google Inc) · Thomas Gärtner (University of Nottingham)
+
+Semisupervised Clustering, AND-Queries and Locally Encodable Source Coding
+Arya Mazumdar (University of Massachusetts Amherst) · Soumyabrata Pal (University of Massachusetts Amherst)
+
+Clustering Stable Instances of Euclidean k-means.
+Aravindan Vijayaraghavan (Northwestern University) · Abhratanu Dutta (Northwestern University) · Alex Wang (Northwestern University)
+
+Good Semi-supervised Learning That Requires a Bad GAN
+Zihang Dai (Carnegie Mellon University) · Zhilin Yang (Carnegie Mellon University) · Fan Yang (Carnegie Mellon University) · William W Cohen (Carnegie Mellon University) · Ruslan Salakhutdinov ()
+
+On Blackbox Backpropagation and Jacobian Sensing
+Krzysztof Choromanski () · Vikas Sindhwani ()
+
+Protein Interface Prediction using Graph Convolutional Networks
+Alex Fout (Colorado State University) · Basir Shariat (Colorado State University) · Jonathon Byrd (Colorado State University) · Asa Ben-Hur (Colorado State University)
+
+Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D Electronic Densities
+Michael Eickenberg (UC Berkeley) · Georgios Exarchakis (Ecole Normale Supérieure) · Matthew Hirn (Michigan State University) · Stephane Mallat (Ecole normale superieure)
+
+Towards Generalization and Simplicity in Continuous Control
+Aravind Rajeswaran (University of Washington) · Kendall Lowrey (University of Washington) · Emanuel Todorov (University of Washington) · Sham Kakade (University of Washington)
+
+Random Projection Filter Bank for Time Series Data
+Amir-massoud Farahmand (MERL) · Sepideh Pourazarm (MERL) · Daniel Nikovski ()
+
+Filtering Variational Objectives
+Chris Maddison (Oxford) · John Lawson (Google Brain) · George Tucker (Google Brain) · Mohammad Norouzi () · Nicolas Heess (Google DeepMind) · Andriy Mnih () · Yee Teh (DeepMind) · Arnaud Doucet (Oxford)
+
+On Frank-Wolfe and Equilibrium Computation
+Jacob D Abernethy (University of Michigan) · Jun-Kun Wang (Georgia Institute of Technology)
+
+Modulating early visual processing by language
+Harm de Vries (Université de Montréal) · Florian Strub (University of Lille) · Jeremie Mary (INRIA / Univ. Lille) · Hugo Larochelle (Google Brain) · Olivier Pietquin (DeepMind) · Aaron C Courville (U. Montreal)
+
+Learning Mixture of Gaussians with Streaming Data
+Aditi Raghunathan (Stanford University) · Prateek Jain (Microsoft Research) · Ravishankar Krishnawamy (Microsoft Research India)
+
+Practical Hash Functions for Similarity Estimation and Dimensionality Reduction
+Søren Dahlgaard (University of Copenhagen) · Mathias Knudsen (University of Copenhagen) · Mikkel Thorup (University of Copenhagen)
+
+Two Time-Scale Update Rule for Generative Adversarial Nets
+Hubert Ramsauer (LIT AI Lab / University Linz) · Martin Heusel (LIT AI Lab / University Linz) · Sepp Hochreiter (LIT AI Lab / University Linz) · Bernhard Nessler (Johannes Kepler University Linz) · Thomas Unterthiner (LIT AI Lab / University Linz)
+
+The Scaling Limit of High-Dimensional Online Independent Component Analysis
+Chuang Wang (Harvard University) · Yue Lu (Harvard University)
+
+Approximation Algorithms for $\ell_0$-Low Rank Approximation
+Pavel Kolev (Max-Planck-Institut für Informatik) · Karl Bringmann (Saarland University) · David Woodruff ()
+
+The power of absolute discounting: all-dimensional distribution estimation
+Moein Falahatgar (UCSD) · Mesrob Ohannessian (Toyota Technological Institute at Chicago) · Alon Orlitsky (University of California, San Diego) · Venkatadheeraj Pichapati (UCSD)
+
+Supervised Adversarial Domain Adaptation
+Saeid Motiian (West Virginia University) · Quinn Jones (West Virginia University) · Gianfranco Doretto (West Virginia University)
+
+Spectral Mixture Kernels for Multi-Output Gaussian Processes
+Gabriel Parra (Universidad de Chile) · Felipe Tobar (Universidad de Chile)
+
+Neural Expectation Maximization
+Klaus Greff (IDSIA) · Sjoerd van Steenkiste (The Swiss AI Lab - IDSIA) · Jürgen Schmidhuber (Swiss AI Lab, IDSIA (USI & SUPSI) - NNAISENSE)
+
+Online Learning of Linear Dynamical Systems
+Elad Hazan (Princeton University) · Karan Singh (Princeton University) · Cyril Zhang (Princeton University)
+
+Z-Forcing: Training Stochastic Recurrent Networks
+Marc-Alexandre Côté (Microsoft Maluuba) · Alessandro Sordoni (Microsoft Maluuba) · Anirudh Goyal ALIAS PARTH GOYAL (Université de Montréal) · Nan Ke (MILA, École Polytechnique de Montréal) · Yoshua Bengio (U. Montreal)
+
+Thalamus Gated Recurrent Modules
+Danijar Hafner (University College London) · Alexander Irpan (Google) · James Davidson (Google Brain) · Nicolas Heess (Google DeepMind)
+
+Neural Variational Inference and Learning in Undirected Graphical Models
+Volodymyr Kuleshov (Stanford University) · Stefano Ermon (Stanford)
+
+Subspace Clustering via Tangent Cones
+Amin Jalali (Wisconsin Institute for Discovery) · Rebecca Willett (University of Wisconsin)
+
+The Neural Hawkes Process: A Neurally Self-Modulating Multivariate Point Process
+Hongyuan Mei (JOHNS HOPKINS UNIVERSITY) · Jason Eisner (Johns Hopkins University)
+
+Inverse Reward Design
+Dylan Hadfield-Menell (UC Berkeley) · Smitha Milli (UC Berkeley) · Stuart J Russell (UC Berkeley) · Pieter Abbeel (OpenAI / UC Berkeley / Gradescope) · Anca Dragan (UC Berkeley)
+
+Structured Bayesian Pruning via Log-Normal Multiplicative Noise
+Kirill Neklyudov (Yandex) · Dmitry Molchanov (Skolkovo Institute of Science and Technology) · Arsenii Ashukha (HSE, Yandex) · Dmitry Vetrov (Higher School of Economics, Yandex)
+
+Attend and Predict: Understanding Gene Regulation by Selective Attention on Chromatin
+Ritambhara Singh (University of Virginia) · Jack Lanchantin (University of Virginia) · Yanjun Qi (University of Virginia)
+
+Acceleration and Averaging in Stochastic Descent Dynamics
+Walid Krichene (Google)
+
+Kernel functions based on triplet comparisons
+Matthäus Kleindessner (University of Tübingen) · Ulrike von Luxburg (University of Tübingen)
+
+An Error Detection and Correction Framework for Connectomics
+Jonathan Zung (Princeton University) · Ignacio Tartavull (Princeton Universitiy)
+
+Style Transfer from Non-parallel Text by Cross-Alignment
+Tianxiao Shen (MIT) · Tao Lei (MIT) · Regina Barzilay (Massachusetts Institute of Technology) · Tommi Jaakkola (MIT)
+
+Cross-Spectral Factor Analysis
+Neil Gallagher (Duke University) · Kyle Ulrich () · Austin Talbot (Duke University) · Kafui Dzirasa (Duke University) · David E Carlson (Duke University) · Lawrence Carin (Duke University)
+
+Stochastic Submodular Maximization: The Case of Coverage Functions
+Mohammad Karimi (ETH Zurich) · Mario Lucic (Google Brain (Zurich)) · Hamed Hassani (UPenn) · Andreas Krause (ETHZ)
+
+On Distributed Hierarchical Clustering
+Mahsa Derakhshan (University of Maryland) · Soheil Behnezhad (University of Maryland) · Mohammadhossein Bateni (Google research) · Vahab Mirrokni (Google Research NYC) · MohammadTaghi Hajiaghayi (University of Maryland) · Silvio Lattanzi (Google Research) · Raimondas Kiveris (Google research)
+
+Unsupervised Transformation Learning via Convex Relaxations
+Tatsunori B Hashimoto (Massachusetts Institute of Technology) · Percy Liang (Stanford University) · John C Duchi (Stanford)
+
+A Sharp Error Analysis for the Fused Lasso, with Implications to Broader Settings and Approximate Screening
+Kevin Lin (Carnegie Mellon University) · James Sharpnack () · Alessandro Rinaldo (CMU) · Ryan Tibshirani (Carnegie Mellon University)
+
+Efficient Computation of Moments in Sum-Product Networks
+Han Zhao (Carnegie Mellon University)
+
+A Meta-Learning Perspective on Cold-Start Recommendations for Items
+Manasi Vartak (Massachusetts Institute of Technology) · Hugo Larochelle (Google Brain) · Arvind Thiagarajan (Twitter)
+
+Predicting Scene Parsing and Motion Dynamics in the Future
+Xiaojie Jin (National University of Singapore) · Jiashi Feng (National University of Singapore) · Huaxin Xiao (NUDT) · Yunpeng Chen (National University of Singapore) · Shuicheng Yan (Qihoo 360 AI Institute) · Xiaohui Shen (Adobe) · Jimei Yang (Adobe Research) · Zequn Jie (Tencent AI Lab) · Li Ping (Hangzhou Dianzi University, National University of Singapore)
+
+Sticking the Landing: Simple, Lower-Variance Gradient Estimators for Variational Inference
+Geoffrey Roeder (University of Toronto) · Yuhuai Wu (University of Toronto) · David Duvenaud (University of Toronto)
+
+Efficient Approximation Algorithms for Strings Kernel Based Sequence Classification
+Muhammad Farhan (LUMS) · Juvaria Tariq (Emory Univeristy) · Arif Zaman (LUMS) · Mudassir Shabbir (ITU) · Imdad Ullah Khan (LUMS)
+
+Kernel Feature Selection via Conditional Covariance Minimization
+Jianbo Chen (University of California, Berkeley) · Mitchell Stern (UC Berkeley) · Martin J Wainwright (UC Berkeley) · Michael Jordan (UC Berkeley)
+
+Statistical Convergence Analysis of Gradient EM on General Gaussian Mixture Models
+Bowei Yan (University of Texas at Austin) · Mingzhang Yin (University of Texas at Austin) · Purnamrita Sarkar (UT Austin)
+
+Real Time Image Saliency for Black Box Classifiers
+Piotr Dabkowski (Cambridge University) · Yarin Gal (University of Oxford)
+
+Houdini: Democratizing Adversarial Examples
+Moustapha Cisse (Facebook AI Research) · Yossi Adi (Bar Ilan University) · Natalia Neverova (Facebook AI Research) · Joseph Keshet (Bar-Ilan University)
+
+Efficient and Flexible Inference for Stochastic Systems
+Stefan Bauer (ETH Zürich) · Djordje Miladinovic (ETH Zurich) · Nico S Gorbach (Swiss Federal Institute of Technology Zurich (ETHZ)) · Joachim M Buhmann (ETH Zurich)
+
+When Cyclic Coordinate Descent Beats Randomized Coordinate Descent
+Mert Gurbuzbalaban (Rutgers University) · Nuri Vanli (Massachusetts Institute of Technology) · Asuman Ozdaglar (Massachusetts Institute of Technology)
+
+Active Learning from Peers
+Keerthiram Murugesan (Carnegie Mellon University) · Jaime Carbonell (CMU)
+
+Learning Causal Graphs with Latent Variables
+Murat Kocaoglu (University of Texas at Austin) · Karthikeyan Shanmugam (IBM Research, NY) · Elias Bareinboim ()
+
+Learning to Model the Tail
+Yu-Xiong Wang (Carnegie Mellon University) · Deva Ramanan (Carnegie Mellon University) · Martial Hebert (cmu)
+
+Stochastic Mirror Descent for Non-Convex Optimization
+Zhengyuan Zhou (Stanford University) · Panayotis Mertikopoulos () · Nicholas Bambos () · Stephen Boyd (Stanford University) · Peter W Glynn (Stanford University)
+
+On Separability of Loss Functions, and Revisiting Discriminative Vs Generative Models
+Adarsh Prasad (Carnegie Mellon University) · Pradeep Ravikumar (Carnegie Mellon University)
+
+Maxing and Ranking with Few Assumptions
+Venkatadheeraj Pichapati (UC San Diego) · Alon Orlitsky (University of California, San Diego) · Vaishakh Ravindrakumar (UC San Diego) · Moein Falahatgar () · Yi Hao ()
+
+On clustering network-valued data
+Soumendu Sundar Mukherjee (University of California, Berkeley) · Purnamrita Sarkar (UT Austin) · Lizhen Lin (The University of Texas at Austin)
+
+A General Framework for Robust Interactive Learning
+Ehsan Emamjomeh-Zadeh (U. of Southern California) · David Kempe (U. of Southern California)
+
+Multi-view Matrix Factorization for Linear Dynamical System Estimation
+Mahdi Karami (University of Alberta) · Martha White () · Dale Schuurmans (Google) · Csaba Szepesvari (University of Alberta)

@@ -169,7 +169,7 @@ Baidu Research,Baidu,China
 Center for Information and Language Processing,None,None
 University of Texas at Dallas,University of Texas at Dallas,USA
 IIT Bombay,IIT Bombay,India
-Max Planck Institute for Informatics,MMax Planck Institute for Informatics,Germany
+Max Planck Institute for Informatics,Max Planck Institute for Informatics,Germany
 Tianjin University,Tianjin University,China
 Beijing University of Posts and Telecommunications,Beijing University of Posts and Telecommunications,China
 Xiamen University,Xiamen University,China
@@ -6206,7 +6206,7 @@ Catalan Institution for Research,Catalan Institute for Research and Advanced Stu
 Skoltech,Skolkovo Institute of Science and Technology,Russia
 "University of California, Berkeley",UC Berkeley,USA
 Technion,Israel Institute of Technology,Israel
-KAIST,KAIST,South Korea
+KAIST,Korea Advanced Institute of Science and Technology,South Korea
 RIKEN,RIKEN Center for Advanced Intelligence Project,Japan
 UIUC,University of Illinois,USA
 Duke,Duke University,USA
@@ -6214,7 +6214,7 @@ Criteo,Criteo,France
 "University of California, Berkeley",UC Berkeley,USA
 CNRS,CNRS University of Paris,France
 "University of California, Los Angeles",University of California Los Angeles,USA
-"KAIST, AITRICS",KAIST,South Korea
+"KAIST, AITRICS",Korea Advanced Institute of Science and Technology,South Korea
 Caltech,California Institute of Technology,USA
 "University of California, San Diego",UC San Diego,USA
 NUS,National University of Singapore,Singapore
@@ -6298,7 +6298,7 @@ University of Texas at Arlington / Tencent AI Lab,University of Texas at Arlingt
 "IBM, Almaden",IBM,USA
 SenseTime,SenseTime Research,Hong Kong
 CERN,University of Lucerne,Switzerland
-"KAIST,AITRICS",KAIST,South Korea
+"KAIST,AITRICS",Korea Advanced Institute of Science and Technology,South Korea
 "Chinese University of Hong Kong, Hong Kong",Chinese University of Hong Kong,China
 AIG,University of Illinois,USA
 "EECS Department, University of California, Berkeley",University of California,USA
@@ -6433,13 +6433,13 @@ Mila / U. Montreal                                ,Montreal Institute of Learnin
 Mila/UdeM                                         ,Montreal Institute of Learning Algorithms,Canada
 CNRS/LIP6                                         ,CNRS University of Paris,France
 "MILA, UdeM                                        ",Montreal Institute of Learning Algorithms,Canada
-AITRICS                                           ,KAIST,South Korea
+AITRICS                                           ,Korea Advanced Institute of Science and Technology,South Korea
 "UMR 8049), CNRS, ESIEE Paris                      ",CNRS University of Paris,France
 McGill/Mila                                       ,Montreal Institute of Learning Algorithms,Canada
 CNRS and ENS                                      ,CNRS University of Paris,France
 IAS/Princeton                                     ,Princeton University,USA
 "IAS, Princeton                                    ",Princeton University,USA
-"CREST, ENSAE                                      ",Google,USA
+"CREST, ENSAE                                      ",CREST,USA
 "IIE, CAS                                          ",Lancaster University,UK
 "CNRS, IRIT                                        ",CNRS University of Paris,France
 Imagia                                            ,Dalhousie University,Canada
@@ -6552,7 +6552,7 @@ Linkoeping University,Linköping University,Sweden
 Lawrence Livermore National Laboratory,Lawrence Livermore National Labs,USA
 KAUST),KAUST,Saudi Arabia
 Karolinska Institutet,Karolinska Institutet,Sweden
-KAIST),KAIST,South Korea
+KAIST),Korea Advanced Institute of Science and Technology,South Korea
 Johns Hopkins University + Microsoft Semantic Machines,Johns Hopkins University,USA
 Jean Monnet University,Jean Monnet University,France
 AI Research of JD.com,JD AI Research,China
@@ -6772,3 +6772,9 @@ Neural Magic,Neural Magic,USA
 Samsung Artificial Intelligence Center,Samsung Research,South Korea
 UNIST),Ulsan National Institute of Science and Technology,South Korea
 ZIB,Zuse Institute Berlin,Germany
+Deepmind,DeepMind,UK
+Korea Advanced Institute of Science and Technology,Korea Advanced Institute of Science and Technology,South Korea
+Korea Institute of Science,Korea Advanced Institute of Science and Technology,South Korea
+Korea Advanced Institute of Science,Korea Advanced Institute of Science and Technology,South Korea
+Alibaba,Alibaba,China
+Alibaba US,Alibaba,China
